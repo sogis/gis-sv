@@ -42,6 +42,18 @@ if [[ -v PGHOST ]]; then # Hack: Detects if DB starts for the first time (in thi
     -v PG_READ_USER=$PG_READ_USER \
     -v PG_READ_PASSWORD=$PG_READ_PASSWORD \
     -f /pgconf/grants.sql
+    
+    
+    # optional migration
+    # first check if directory exists
+    if [[ -d "/migration" ]]
+    then
+        "\n importing SQL files for migration\n"
+        for i in $(ls /migration/*.sql); do
+             echo "importing sql-file $i"
+             psql -d $PG_DATABASE -U $PG_USER < $i
+        done
+    fi
 fi
 
 echo_info "Executing post-start-hook finished. Edit database is ready for use."
