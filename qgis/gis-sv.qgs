@@ -19,210 +19,210 @@
   </projectCrs>
   <layer-tree-group>
     <customproperties></customproperties>
-    <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_hochbau_2c8e3740_aec4_4dc3_803d_2db0dd9c0bce" legend_exp="" name="Hochbau" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_hochbau&quot; (geometrie) sql=">
+    <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_hochbau_2c8e3740_aec4_4dc3_803d_2db0dd9c0bce" legend_exp="" name="Hochbau" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_hochbau&quot; (geometrie) sql=">
       <customproperties></customproperties>
     </layer-tree-layer>
-    <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" legend_exp="" name="Wiederherstellung Punkt" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_wiederherstellung_punkt&quot; (geometrie) sql=">
+    <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" legend_exp="" name="Wiederherstellung Punkt" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_wiederherstellung_punkt&quot; (geometrie) sql=">
       <customproperties></customproperties>
     </layer-tree-layer>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Bewässerung">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" legend_exp="" name="Bewässerung Punkt" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_bewaesserung_punkt&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" legend_exp="" name="Bewässerung Punkt" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_bewaesserung_punkt&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" legend_exp="" name="Bewässerung Linie" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_bewaesserung_linie&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" legend_exp="" name="Bewässerung Linie" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_bewaesserung_linie&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" legend_exp="" name="Bewässerung Flächen" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_bew_flaechen_bewaesserung&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" legend_exp="" name="Bewässerung Flächen" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_bew_flaechen_bewaesserung&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Entwässerung und Bodenstruktur">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" legend_exp="" name="Entwässerung Bodenstruktur Pumpwerk (Punkt)" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_entw_bodenstruktur_pumpwerk&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" legend_exp="" name="Entwässerung Bodenstruktur Pumpwerk (Punkt)" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_entw_bodenstruktur_pumpwerk&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" legend_exp="" name="Entwässerung Bodenstruktur Linie" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_entw_bodenstruktur_linie&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" legend_exp="" name="Entwässerung Bodenstruktur Linie" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_entw_bodenstruktur_linie&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" legend_exp="" name="Entwässerung Bodenstruktur Fläche" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_entw_bodenstruktur_flaeche&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" legend_exp="" name="Entwässerung Bodenstruktur Fläche" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_entw_bodenstruktur_flaeche&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Wege">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" legend_exp="" name="Brücke und Lehnenviadukt (Punkt)" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_wege_bruecke_lehnenviadukt&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" legend_exp="" name="Brücke und Lehnenviadukt (Punkt)" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_wege_bruecke_lehnenviadukt&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" legend_exp="" name="Wegebau Linie" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_wegebau_linie&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" legend_exp="" name="Wegebau Linie" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_wegebau_linie&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Ökologie">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" legend_exp="" name="Ökologie Punkt" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_oekologie_punkt&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" legend_exp="" name="Ökologie Punkt" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_oekologie_punkt&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" legend_exp="" name="Ökologie Linie" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_oekologie_linie&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" legend_exp="" name="Ökologie Linie" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_oekologie_linie&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" legend_exp="" name="Ökologie Trockenmauer" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_oekologie_trockenmauer&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" legend_exp="" name="Ökologie Trockenmauer" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_oekologie_trockenmauer&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" legend_exp="" name="Ökologie Fläche" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_oekologie_flaeche&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" legend_exp="" name="Ökologie Fläche" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_oekologie_flaeche&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Seilbahn">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_seilbahn_station_40ecebde_4b7b_44c6_a62a_e665c98f9b32" legend_exp="" name="Seilbahn Station" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_seilbahn_station&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_seilbahn_station_40ecebde_4b7b_44c6_a62a_e665c98f9b32" legend_exp="" name="Seilbahn Station" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_seilbahn_station&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d" legend_exp="" name="Seilbahn Linie" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_seilbahn_linie&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d" legend_exp="" name="Seilbahn Linie" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_seilbahn_linie&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Milchinfrastruktur">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_milchleitung_lokal_70c2470a_a2ea_4520_851a_e1fee48cad8b" legend_exp="" name="Milchleitung Punkt" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_milchleitung_lokal&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_milchleitung_lokal_70c2470a_a2ea_4520_851a_e1fee48cad8b" legend_exp="" name="Milchleitung Punkt" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_milchleitung_lokal&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_milchleitung_leitung_49a7812e_aebe_4180_8366_dd8bcaefba3d" legend_exp="" name="Milchleitung" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_milchleitung_leitung&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_milchleitung_leitung_49a7812e_aebe_4180_8366_dd8bcaefba3d" legend_exp="" name="Milchleitung" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_milchleitung_leitung&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Wasserversorgung">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" legend_exp="" name="Wasserversorgung Punkt" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_wasserversorgung_punkt&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" legend_exp="" name="Wasserversorgung Punkt" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_wasserversorgung_punkt&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" legend_exp="" name="Wasserversorgung Leitung" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_wv_leitung_wasserversorgung&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" legend_exp="" name="Wasserversorgung Leitung" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_wv_leitung_wasserversorgung&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Elektrizitätsversorgung">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" legend_exp="" name="Elektrizitätsversorgung Punkt" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_ev_punkt&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" legend_exp="" name="Elektrizitätsversorgung Punkt" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_ev_punkt&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" legend_exp="" name="Elektrizitätsversorgung Linie" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_ev_linie&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" legend_exp="" name="Elektrizitätsversorgung Linie" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_ev_linie&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Projekt und Organisation">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" legend_exp="" name="Projekt" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_projekt&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" legend_exp="" name="Projekt" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_projekt&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" legend_exp="" name="Beizugsgebiet" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_beizugsgebiet&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" legend_exp="" name="Beizugsgebiet" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_beizugsgebiet&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" legend_exp="" name="Genossenschaft" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_genossenschaft&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" legend_exp="" name="Genossenschaft" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_genossenschaft&quot; (geometrie) sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" legend_exp="" name="Werkseigentum" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_werkseigentum&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" legend_exp="" name="Werkseigentum" providerKey="postgres" source="service='edit' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_werkseigentum&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_dokument_b88fee0a_f5d2_47f1_a90e_9e4ddc68c35c" legend_exp="" name="Dokument - Bild" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_dokument&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_dokument_b88fee0a_f5d2_47f1_a90e_9e4ddc68c35c" legend_exp="" name="Dokument - Bild" providerKey="postgres" source="service='edit' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_dokument&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="stand_gutrrglrung_stand_gueterregulierung_16581e8d_a953_44c2_a5d2_6319069f460a" legend_exp="" name="Stand Güterregulierung" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;stand_gutrrglrung_stand_gueterregulierung&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="stand_gutrrglrung_stand_gueterregulierung_16581e8d_a953_44c2_a5d2_6319069f460a" legend_exp="" name="Stand Güterregulierung" providerKey="postgres" source="service='edit' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;stand_gutrrglrung_stand_gueterregulierung&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Zwischentabellen">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_beizugsgebiet_projekt_48b92c2b_ac2e_4e2a_8f80_8ffd4a164034" legend_exp="" name="Beizugsgebiet - Projekt" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_beizugsgebiet_projekt&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_beizugsgebiet_projekt_48b92c2b_ac2e_4e2a_8f80_8ffd4a164034" legend_exp="" name="Beizugsgebiet - Projekt" providerKey="postgres" source="service='edit' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_beizugsgebiet_projekt&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" legend_exp="" name="Genossenschaft - Element" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_genossenschaft_element&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" legend_exp="" name="Genossenschaft - Element" providerKey="postgres" source="service='edit' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_genossenschaft_element&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_genossenschaft_dokument_cd563ce5_cc47_4ecf_a65d_647ff03d869d" legend_exp="" name="Genossenschaft - Dokument" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_genossenschaft_dokument&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_genossenschaft_dokument_cd563ce5_cc47_4ecf_a65d_647ff03d869d" legend_exp="" name="Genossenschaft - Dokument" providerKey="postgres" source="service='edit' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_genossenschaft_dokument&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Wertebereiche">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a" legend_exp="" name="Status" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a" legend_exp="" name="Status" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="bautyp_d497279f_38cd_424f_97e1_be7a70b2b74e" legend_exp="" name="Bautyp" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bautyp&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="bautyp_d497279f_38cd_424f_97e1_be7a70b2b74e" legend_exp="" name="Bautyp" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bautyp&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="stand_8e7fcbf4_b874_4c00_8079_9908060cc8bd" legend_exp="" name="Stand (Güterregulierung)" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;stand&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="stand_8e7fcbf4_b874_4c00_8079_9908060cc8bd" legend_exp="" name="Stand (Güterregulierung)" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;stand&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="dokumententyp_6782da66_c478_4c8d_84a6_2319836f8b4f" legend_exp="" name="Dokumententyp" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;dokumententyp&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="dokumententyp_6782da66_c478_4c8d_84a6_2319836f8b4f" legend_exp="" name="Dokumententyp" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;dokumententyp&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="projekt_d2fb8194_5910_4a28_9cb5_4ae7d634a4a8" legend_exp="" name="Projekt" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;projekt&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="projekt_d2fb8194_5910_4a28_9cb5_4ae7d634a4a8" legend_exp="" name="Projekttyp" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;projekt&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="genossenschaften_0f6b8c75_cf5b_4d26_b7d1_46303ec9e17e" legend_exp="" name="Genossenschaften" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;genossenschaften&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="genossenschaften_0f6b8c75_cf5b_4d26_b7d1_46303ec9e17e" legend_exp="" name="Genossenschaften" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;genossenschaften&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="beizugsgebiete_431dfba8_c143_488b_a93a_7616ffb09f6e" legend_exp="" name="Beizugsgebiete" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;beizugsgebiete&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="beizugsgebiete_431dfba8_c143_488b_a93a_7616ffb09f6e" legend_exp="" name="Beizugsgebiete" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;beizugsgebiete&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="wiederherstellung_punkte_c0495fe6_4ff3_4b08_ad05_e0afdbf05ca3" legend_exp="" name="Wiederherstellung Punkte" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;wiederherstellung_punkte&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="wiederherstellung_punkte_c0495fe6_4ff3_4b08_ad05_e0afdbf05ca3" legend_exp="" name="Wiederherstellung Punkte" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;wiederherstellung_punkte&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="oekologie_trockenmauern_0f5f1bcc_5306_4a3f_a1d2_8e9633246241" legend_exp="" name="Ökologie Trockenmauern" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;oekologie_trockenmauern&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="oekologie_trockenmauern_0f5f1bcc_5306_4a3f_a1d2_8e9633246241" legend_exp="" name="Ökologie Trockenmauern" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;oekologie_trockenmauern&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="oekologie_punkte_29c58875_8f2c_4e84_8978_8a7965b85743" legend_exp="" name="Ökologie Punkte" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;oekologie_punkte&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="oekologie_punkte_29c58875_8f2c_4e84_8978_8a7965b85743" legend_exp="" name="Ökologie Punkte" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;oekologie_punkte&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="oekologie_linien_1d2952f4_a371_4cf9_8fce_1076edddfe7e" legend_exp="" name="Ökologie Linien" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;oekologie_linien&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="oekologie_linien_1d2952f4_a371_4cf9_8fce_1076edddfe7e" legend_exp="" name="Ökologie Linien" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;oekologie_linien&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="oekologische_flaechen_b396162a_7225_4525_859f_1f4e013c5650" legend_exp="" name="Ökologische Flächen" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;oekologische_flaechen&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="oekologische_flaechen_b396162a_7225_4525_859f_1f4e013c5650" legend_exp="" name="Ökologische Flächen" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;oekologische_flaechen&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="bewaesserung_punkte_5ead88d4_f69e_4219_a559_7e31e57b16d4" legend_exp="" name="Bewässerung Punkte" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bewaesserung_punkte&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="bewaesserung_punkte_5ead88d4_f69e_4219_a559_7e31e57b16d4" legend_exp="" name="Bewässerung Punkte" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bewaesserung_punkte&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="bewaesserung_linien_34a14391_e71d_422f_a552_55c3aa275023" legend_exp="" name="Bewässerung Linien" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bewaesserung_linien&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="bewaesserung_linien_34a14391_e71d_422f_a552_55c3aa275023" legend_exp="" name="Bewässerung Linien" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bewaesserung_linien&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="bewaesserung_flaechen_ea78957c_5b76_4e79_a184_a1146ce39535" legend_exp="" name="Bewässerung Flächen" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bewaesserung_flaechen&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="bewaesserung_flaechen_ea78957c_5b76_4e79_a184_a1146ce39535" legend_exp="" name="Bewässerung Flächen" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bewaesserung_flaechen&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="funktionstyp_81588cc7_4f31_4380_90bd_0213f2c719d9" legend_exp="" name="Funktionstyp (Wege und Zufahrten)" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;funktionstyp&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="funktionstyp_81588cc7_4f31_4380_90bd_0213f2c719d9" legend_exp="" name="Funktionstyp (Wege und Zufahrten)" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;funktionstyp&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="technische_schwierigkeit_b6cad177_9338_4b0b_8293_0a5ca780107e" legend_exp="" name="Technische Schwierigkeit" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;technische_schwierigkeit&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="technische_schwierigkeit_b6cad177_9338_4b0b_8293_0a5ca780107e" legend_exp="" name="Technische Schwierigkeit" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;technische_schwierigkeit&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="wege_f179b090_16b1_4f15_879b_43ff68104a31" legend_exp="" name="Wege" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;wege&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="wege_f179b090_16b1_4f15_879b_43ff68104a31" legend_exp="" name="Wege" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;wege&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlichelmnte_wege_bruecke_lehnenviadukt_material_b3840b72_a548_456f_a0f9_71f0d248e07f" legend_exp="" name="Material (Wege Brücke Lehnenviadukt)" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlichelmnte_wege_bruecke_lehnenviadukt_material&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlichelmnte_wege_bruecke_lehnenviadukt_material_b3840b72_a548_456f_a0f9_71f0d248e07f" legend_exp="" name="Material (Wege Brücke Lehnenviadukt)" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlichelmnte_wege_bruecke_lehnenviadukt_material&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="hochbau_punkte_30fc2097_8488_4d4a_bf85_ddba988af91e" legend_exp="" name="Hochbau Punkte" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;hochbau_punkte&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="hochbau_punkte_30fc2097_8488_4d4a_bf85_ddba988af91e" legend_exp="" name="Hochbau Punkte" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;hochbau_punkte&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="entw_bodenstruktur_linien_d1f1b635_b504_4c80_b9d0_677f4e789fe3" legend_exp="" name="Entwässerung und Bodenstruktur Linien" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;entw_bodenstruktur_linien&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="entw_bodenstruktur_linien_d1f1b635_b504_4c80_b9d0_677f4e789fe3" legend_exp="" name="Entwässerung und Bodenstruktur Linien" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;entw_bodenstruktur_linien&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="entw_bodenstruktur_flaechen_14208287_5fe4_4d32_91cd_ab0a8a8c09f7" legend_exp="" name="Entwässerung und Bodenstruktur Flächen" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;entw_bodenstruktur_flaechen&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="entw_bodenstruktur_flaechen_14208287_5fe4_4d32_91cd_ab0a8a8c09f7" legend_exp="" name="Entwässerung und Bodenstruktur Flächen" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;entw_bodenstruktur_flaechen&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="wasserversorgung_punkte_4ecbac9b_c9c5_4bb3_9f0d_7fd984cab353" legend_exp="" name="Wasserversorgung Punkte" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;wasserversorgung_punkte&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="wasserversorgung_punkte_4ecbac9b_c9c5_4bb3_9f0d_7fd984cab353" legend_exp="" name="Wasserversorgung Punkte" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;wasserversorgung_punkte&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="elektrizitaet_punkte_4bce812c_da40_4600_9599_ceb9082939b8" legend_exp="" name="Elektrizität Punkte" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;elektrizitaet_punkte&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="elektrizitaet_punkte_4bce812c_da40_4600_9599_ceb9082939b8" legend_exp="" name="Elektrizität Punkte" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;elektrizitaet_punkte&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="elektrizitaet_linien_ade773a7_bdf8_47bf_b93f_6638e5860c6a" legend_exp="" name="Elektrizität Linien" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;elektrizitaet_linien&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="elektrizitaet_linien_ade773a7_bdf8_47bf_b93f_6638e5860c6a" legend_exp="" name="Elektrizität Linien" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;elektrizitaet_linien&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="seilbahnen_punkte_a81d5903_578e_44db_b598_b10b05425948" legend_exp="" name="Seilbahnen Punkte" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;seilbahnen_punkte&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="seilbahnen_punkte_a81d5903_578e_44db_b598_b10b05425948" legend_exp="" name="Seilbahnen Punkte" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;seilbahnen_punkte&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="seilbahnen_linien_be5ae747_318b_4ff1_9402_7f0a6ce9ccc8" legend_exp="" name="Seilbahnen Linien" providerKey="postgres" source="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;seilbahnen_linien&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="seilbahnen_linien_be5ae747_318b_4ff1_9402_7f0a6ce9ccc8" legend_exp="" name="Seilbahnen Linien" providerKey="postgres" source="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;seilbahnen_linien&quot; sql=">
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
@@ -256,31 +256,31 @@
   </layer-tree-group>
   <snapping-settings enabled="0" intersection-snapping="0" mode="2" tolerance="12" type="1" unit="1">
     <individual-layer-settings>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_milchleitung_lokal_70c2470a_a2ea_4520_851a_e1fee48cad8b" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" tolerance="12" type="1" units="1"></layer-setting>
       <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_seilbahn_station_40ecebde_4b7b_44c6_a62a_e665c98f9b32" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d" tolerance="12" type="1" units="1"></layer-setting>
       <layer-setting enabled="1" id="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_hochbau_2c8e3740_aec4_4dc3_803d_2db0dd9c0bce" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" tolerance="12" type="1" units="1"></layer-setting>
       <layer-setting enabled="1" id="raeumlicheelemnte_milchleitung_leitung_49a7812e_aebe_4180_8366_dd8bcaefba3d" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" tolerance="12" type="1" units="1"></layer-setting>
       <layer-setting enabled="1" id="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" tolerance="12" type="1" units="1"></layer-setting>
       <layer-setting enabled="1" id="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_seilbahn_station_40ecebde_4b7b_44c6_a62a_e665c98f9b32" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_hochbau_2c8e3740_aec4_4dc3_803d_2db0dd9c0bce" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_milchleitung_lokal_70c2470a_a2ea_4520_851a_e1fee48cad8b" tolerance="12" type="1" units="1"></layer-setting>
     </individual-layer-settings>
   </snapping-settings>
   <relations>
@@ -504,95 +504,15 @@
   <mapcanvas annotationsVisible="1" name="theMapCanvas">
     <units>unknown</units>
     <extent>
-      <xmin>2610969.72728654276579618</xmin>
-      <ymin>1245611.29250595159828663</ymin>
-      <xmax>2612594.57470184750854969</xmax>
-      <ymax>1246599.15400169556960464</ymax>
+      <xmin>2610600.57694077119231224</xmin>
+      <ymin>1245477.86349940998479724</ymin>
+      <xmax>2612225.42435607686638832</xmax>
+      <ymax>1246465.72499515442177653</ymax>
     </extent>
     <rotation>0</rotation>
     <rendermaptile>0</rendermaptile>
     <expressionContextScope></expressionContextScope>
   </mapcanvas>
-  <DataPlotly>
-    <Option type="Map">
-      <Option name="dynamic_properties" type="Map">
-        <Option name="name" type="QString" value=""></Option>
-        <Option name="properties"></Option>
-        <Option name="type" type="QString" value="collection"></Option>
-      </Option>
-      <Option name="plot_layout" type="Map">
-        <Option name="additional_info_expression" type="QString" value=""></Option>
-        <Option name="bar_mode" type="QString" value="group"></Option>
-        <Option name="bargaps" type="double" value="0"></Option>
-        <Option name="bins_check" type="bool" value="false"></Option>
-        <Option name="legend" type="bool" value="true"></Option>
-        <Option name="legend_orientation" type="QString" value="v"></Option>
-        <Option name="legend_title" type="invalid"></Option>
-        <Option name="polar" type="Map">
-          <Option name="angularaxis" type="Map">
-            <Option name="direction" type="QString" value="clockwise"></Option>
-          </Option>
-        </Option>
-        <Option name="range_slider" type="Map">
-          <Option name="borderwidth" type="int" value="1"></Option>
-          <Option name="visible" type="bool" value="false"></Option>
-        </Option>
-        <Option name="title" type="QString" value=""></Option>
-        <Option name="x_inv" type="invalid"></Option>
-        <Option name="x_title" type="QString" value=""></Option>
-        <Option name="x_type" type="QString" value="linear"></Option>
-        <Option name="xaxis" type="invalid"></Option>
-        <Option name="y_inv" type="invalid"></Option>
-        <Option name="y_title" type="QString" value=""></Option>
-        <Option name="y_type" type="QString" value="linear"></Option>
-        <Option name="z_title" type="QString" value=""></Option>
-      </Option>
-      <Option name="plot_properties" type="Map">
-        <Option name="additional_hover_text" type="invalid"></Option>
-        <Option name="bins" type="int" value="10"></Option>
-        <Option name="box_orientation" type="QString" value="v"></Option>
-        <Option name="box_outliers" type="bool" value="false"></Option>
-        <Option name="box_stat" type="bool" value="false"></Option>
-        <Option name="color_scale" type="invalid"></Option>
-        <Option name="color_scale_data_defined_in_check" type="bool" value="false"></Option>
-        <Option name="color_scale_data_defined_in_invert_check" type="bool" value="false"></Option>
-        <Option name="cont_type" type="QString" value="fill"></Option>
-        <Option name="contour_type_combo" type="QString" value="Fill"></Option>
-        <Option name="cumulative" type="bool" value="false"></Option>
-        <Option name="custom" type="List">
-          <Option type="QString" value=""></Option>
-        </Option>
-        <Option name="hover_text" type="QString" value="all"></Option>
-        <Option name="in_color" type="QString" value="#8ebad9"></Option>
-        <Option name="invert_color_scale" type="bool" value="false"></Option>
-        <Option name="invert_hist" type="QString" value="increasing"></Option>
-        <Option name="line_combo" type="QString" value="Solid Line"></Option>
-        <Option name="line_dash" type="QString" value="solid"></Option>
-        <Option name="marker" type="QString" value="markers"></Option>
-        <Option name="marker_size" type="double" value="10"></Option>
-        <Option name="marker_symbol" type="int" value="0"></Option>
-        <Option name="marker_type_combo" type="QString" value="Points"></Option>
-        <Option name="marker_width" type="double" value="1"></Option>
-        <Option name="name" type="QString" value=""></Option>
-        <Option name="normalization" type="QString" value=""></Option>
-        <Option name="opacity" type="double" value="1"></Option>
-        <Option name="out_color" type="QString" value="#1f77b4"></Option>
-        <Option name="point_combo" type="QString" value=""></Option>
-        <Option name="selected_features_only" type="bool" value="false"></Option>
-        <Option name="show_colorscale_legend" type="bool" value="false"></Option>
-        <Option name="show_lines" type="bool" value="true"></Option>
-        <Option name="show_lines_check" type="bool" value="true"></Option>
-        <Option name="show_mean_line" type="bool" value="true"></Option>
-        <Option name="violin_side" type="QString" value="both"></Option>
-        <Option name="visible_features_only" type="bool" value="false"></Option>
-        <Option name="x_name" type="QString" value=""></Option>
-        <Option name="y_name" type="QString" value=""></Option>
-        <Option name="z_name" type="QString" value=""></Option>
-      </Option>
-      <Option name="plot_type" type="QString" value="scatter"></Option>
-      <Option name="source_layer_id" type="QString" value="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a"></Option>
-    </Option>
-  </DataPlotly>
   <projectModels></projectModels>
   <legend updateDrawingOrder="true">
     <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Hochbau" open="true" showFeatureCount="0">
@@ -791,7 +711,7 @@
           <legendlayerfile isInOverview="0" layerid="dokumententyp_6782da66_c478_4c8d_84a6_2319836f8b4f" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Projekt" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Projekttyp" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="projekt_d2fb8194_5910_4a28_9cb5_4ae7d634a4a8" visible="1"></legendlayerfile>
         </filegroup>
@@ -909,10 +829,85 @@
     </legendgroup>
   </legend>
   <mapViewDocks></mapViewDocks>
+  <mapcanvas annotationsVisible="1" name="mAreaCanvas">
+    <units>degrees</units>
+    <extent>
+      <xmin>0</xmin>
+      <ymin>0</ymin>
+      <xmax>0</xmax>
+      <ymax>0</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <destinationsrs>
+      <spatialrefsys>
+        <wkt>GEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["unknown"],AREA["World"],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+        <srsid>3452</srsid>
+        <srid>4326</srid>
+        <authid>EPSG:4326</authid>
+        <description>WGS 84</description>
+        <projectionacronym>longlat</projectionacronym>
+        <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+        <geographicflag>true</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <expressionContextScope></expressionContextScope>
+  </mapcanvas>
+  <mapcanvas annotationsVisible="1" name="mAreaCanvas">
+    <units>degrees</units>
+    <extent>
+      <xmin>0</xmin>
+      <ymin>0</ymin>
+      <xmax>0</xmax>
+      <ymax>0</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <destinationsrs>
+      <spatialrefsys>
+        <wkt>GEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["unknown"],AREA["World"],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+        <srsid>3452</srsid>
+        <srid>4326</srid>
+        <authid>EPSG:4326</authid>
+        <description>WGS 84</description>
+        <projectionacronym>longlat</projectionacronym>
+        <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+        <geographicflag>true</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <expressionContextScope></expressionContextScope>
+  </mapcanvas>
+  <mapcanvas annotationsVisible="1" name="mAreaCanvas">
+    <units>degrees</units>
+    <extent>
+      <xmin>0</xmin>
+      <ymin>0</ymin>
+      <xmax>0</xmax>
+      <ymax>0</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <destinationsrs>
+      <spatialrefsys>
+        <wkt>GEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["unknown"],AREA["World"],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+        <srsid>3452</srsid>
+        <srid>4326</srid>
+        <authid>EPSG:4326</authid>
+        <description>WGS 84</description>
+        <projectionacronym>longlat</projectionacronym>
+        <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+        <geographicflag>true</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <expressionContextScope></expressionContextScope>
+  </mapcanvas>
   <projectlayers>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."astatus" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."astatus" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1147,7 +1142,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>bautyp_d497279f_38cd_424f_97e1_be7a70b2b74e</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."bautyp" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."bautyp" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1382,7 +1377,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>beizugsgebiete_431dfba8_c143_488b_a93a_7616ffb09f6e</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."beizugsgebiete" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."beizugsgebiete" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1617,7 +1612,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>bewaesserung_flaechen_ea78957c_5b76_4e79_a184_a1146ce39535</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."bewaesserung_flaechen" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."bewaesserung_flaechen" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1852,7 +1847,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>bewaesserung_linien_34a14391_e71d_422f_a552_55c3aa275023</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."bewaesserung_linien" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."bewaesserung_linien" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2087,7 +2082,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>bewaesserung_punkte_5ead88d4_f69e_4219_a559_7e31e57b16d4</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."bewaesserung_punkte" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."bewaesserung_punkte" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2322,7 +2317,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>dokumententyp_6782da66_c478_4c8d_84a6_2319836f8b4f</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."dokumententyp" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."dokumententyp" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2557,7 +2552,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>elektrizitaet_linien_ade773a7_bdf8_47bf_b93f_6638e5860c6a</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."elektrizitaet_linien" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."elektrizitaet_linien" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2792,7 +2787,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>elektrizitaet_punkte_4bce812c_da40_4600_9599_ceb9082939b8</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."elektrizitaet_punkte" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."elektrizitaet_punkte" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3027,7 +3022,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>entw_bodenstruktur_flaechen_14208287_5fe4_4d32_91cd_ab0a8a8c09f7</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."entw_bodenstruktur_flaechen" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."entw_bodenstruktur_flaechen" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3262,7 +3257,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>entw_bodenstruktur_linien_d1f1b635_b504_4c80_b9d0_677f4e789fe3</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."entw_bodenstruktur_linien" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."entw_bodenstruktur_linien" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3497,7 +3492,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>funktionstyp_81588cc7_4f31_4380_90bd_0213f2c719d9</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."funktionstyp" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."funktionstyp" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3732,7 +3727,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>genossenschaften_0f6b8c75_cf5b_4d26_b7d1_46303ec9e17e</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."genossenschaften" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."genossenschaften" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3967,7 +3962,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>hochbau_punkte_30fc2097_8488_4d4a_bf85_ddba988af91e</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."hochbau_punkte" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."hochbau_punkte" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4202,7 +4197,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>oekologie_linien_1d2952f4_a371_4cf9_8fce_1076edddfe7e</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."oekologie_linien" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."oekologie_linien" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4437,7 +4432,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>oekologie_punkte_29c58875_8f2c_4e84_8978_8a7965b85743</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."oekologie_punkte" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."oekologie_punkte" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4672,7 +4667,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>oekologie_trockenmauern_0f5f1bcc_5306_4a3f_a1d2_8e9633246241</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."oekologie_trockenmauern" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."oekologie_trockenmauern" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4907,7 +4902,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>oekologische_flaechen_b396162a_7225_4525_859f_1f4e013c5650</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."oekologische_flaechen" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."oekologische_flaechen" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5142,11 +5137,11 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>projekt_d2fb8194_5910_4a28_9cb5_4ae7d634a4a8</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."projekt" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."projekt" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>Projekt</layername>
+      <layername>Projekttyp</layername>
       <srs>
         <spatialrefsys>
           <wkt></wkt>
@@ -5377,7 +5372,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
       <id>raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_beizugsgebiet" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_beizugsgebiet" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5402,6 +5397,15 @@ def my_form_open(dialog, layer, feature):
         <type>dataset</type>
         <title></title>
         <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
         <links></links>
         <fees></fees>
         <encoding></encoding>
@@ -5418,7 +5422,15 @@ def my_form_open(dialog, layer, feature):
             <geographicflag>false</geographicflag>
           </spatialrefsys>
         </crs>
-        <extent></extent>
+        <extent>
+          <spatial crs="EPSG:2056" dimensions="2" maxx="0" maxy="0" maxz="0" minx="0" miny="0" minz="0"></spatial>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
       </resourceMetadata>
       <provider encoding="">postgres</provider>
       <vectorjoins></vectorjoins>
@@ -5463,28 +5475,56 @@ def my_form_open(dialog, layer, feature):
         <rotation></rotation>
         <sizescale></sizescale>
       </renderer-v2>
-      <customproperties></customproperties>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"></property>
+        <property key="variableNames"></property>
+        <property key="variableValues"></property>
+      </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
+      <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
+        <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+8" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" width="15">
+          <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0,Regular" style="Regular"></fontProperties>
+        </DiagramCategory>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings dist="0" linePlacementFlags="18" obstacle="0" placement="1" priority="0" showAll="1" zIndex="0">
+        <properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""></Option>
+            <Option name="properties"></Option>
+            <Option name="type" type="QString" value="collection"></Option>
+          </Option>
+        </properties>
+      </DiagramLayerSettings>
       <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
-        <activeChecks type="StringList">
-          <Option type="QString" value=""></Option>
-        </activeChecks>
-        <checkConfiguration></checkConfiguration>
+        <activeChecks></activeChecks>
+        <checkConfiguration type="Map">
+          <Option name="QgsGeometryGapCheck" type="Map">
+            <Option name="allowedGapsBuffer" type="double" value="0"></Option>
+            <Option name="allowedGapsEnabled" type="bool" value="false"></Option>
+            <Option name="allowedGapsLayer" type="QString" value=""></Option>
+          </Option>
+        </checkConfiguration>
       </geometryOptions>
       <fieldConfiguration>
         <field name="t_id">
-          <editWidget type="">
+          <editWidget type="TextEdit">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="IsMultiline" type="bool" value="false"></Option>
+                <Option name="UseHtml" type="bool" value="false"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="t_ili_tid">
-          <editWidget type="">
+          <editWidget type="TextEdit">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="IsMultiline" type="bool" value="false"></Option>
+                <Option name="UseHtml" type="bool" value="false"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -5492,16 +5532,32 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
         </field>
         <field name="typ">
-          <editWidget type="">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="beizugsgebiete_431dfba8_c143_488b_a93a_7616ffb09f6e"></Option>
+                <Option name="LayerName" type="QString" value="Beizugsgebiete"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;beizugsgebiete&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -5509,8 +5565,8 @@ def my_form_open(dialog, layer, feature):
       <aliases>
         <alias field="t_id" index="0" name=""></alias>
         <alias field="t_ili_tid" index="1" name=""></alias>
-        <alias field="datum_nachfuehrung" index="2" name="Datum_Nachfuehrung"></alias>
-        <alias field="typ" index="3" name="Typ"></alias>
+        <alias field="datum_nachfuehrung" index="2" name="Datum Nachführung"></alias>
+        <alias field="typ" index="3" name="Beizugstyp"></alias>
       </aliases>
       <excludeAttributesWMS></excludeAttributesWMS>
       <excludeAttributesWFS></excludeAttributesWFS>
@@ -5518,7 +5574,7 @@ def my_form_open(dialog, layer, feature):
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
         <default applyOnUpdate="0" expression="" field="datum_nachfuehrung"></default>
-        <default applyOnUpdate="0" expression="" field="typ"></default>
+        <default applyOnUpdate="0" expression="'Neuer_Bestand'" field="typ"></default>
       </defaults>
       <constraints>
         <constraint constraints="3" exp_strength="0" field="t_id" notnull_strength="1" unique_strength="1"></constraint>
@@ -5537,7 +5593,13 @@ def my_form_open(dialog, layer, feature):
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"></defaultAction>
       </attributeactions>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns></columns>
+        <columns>
+          <column hidden="0" name="t_id" type="field" width="-1"></column>
+          <column hidden="0" name="t_ili_tid" type="field" width="-1"></column>
+          <column hidden="0" name="datum_nachfuehrung" type="field" width="-1"></column>
+          <column hidden="0" name="typ" type="field" width="-1"></column>
+          <column hidden="1" type="actions" width="-1"></column>
+        </columns>
       </attributetableconfig>
       <conditionalstyles>
         <rowstyles></rowstyles>
@@ -5548,16 +5610,50 @@ def my_form_open(dialog, layer, feature):
       <editforminit></editforminit>
       <editforminitcodesource>0</editforminitcodesource>
       <editforminitfilepath></editforminitfilepath>
-      <editforminitcode></editforminitcode>
+      <editforminitcode># -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+</editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorField index="2" name="datum_nachfuehrung" showLabel="1"></attributeEditorField>
-        <attributeEditorField index="-1" name="geometrie" showLabel="1"></attributeEditorField>
-        <attributeEditorField index="3" name="typ" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Allgemein" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorField index="3" name="typ" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="2" name="datum_nachfuehrung" showLabel="1"></attributeEditorField>
+        </attributeEditorContainer>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Projekt" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raemlchlmnt_bzgsgbt_prjekt_beizugsgebiet_fkey" relation="raemlchlmnt_bzgsgbt_prjekt_beizugsgebiet_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        </attributeEditorContainer>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="CASE WHEN @debugging = 'true' THEN true ELSE false END" visibilityExpressionEnabled="1">
+          <attributeEditorField index="0" name="t_id" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
+        </attributeEditorContainer>
       </attributeEditorForm>
-      <editable></editable>
-      <labelOnTop></labelOnTop>
+      <editable>
+        <field editable="1" name="datum_nachfuehrung"></field>
+        <field editable="0" name="t_id"></field>
+        <field editable="0" name="t_ili_tid"></field>
+        <field editable="1" name="typ"></field>
+      </editable>
+      <labelOnTop>
+        <field labelOnTop="0" name="datum_nachfuehrung"></field>
+        <field labelOnTop="0" name="t_id"></field>
+        <field labelOnTop="0" name="t_ili_tid"></field>
+        <field labelOnTop="0" name="typ"></field>
+      </labelOnTop>
       <widgets>
         <widget name="raemlchlmnt_bzgsgbt_prjekt_beizugsgebiet_fkey">
           <config type="Map">
@@ -5565,12 +5661,12 @@ def my_form_open(dialog, layer, feature):
           </config>
         </widget>
       </widgets>
-      <previewExpression></previewExpression>
+      <previewExpression>t_id</previewExpression>
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>raeumlicheelemnte_beizugsgebiet_projekt_48b92c2b_ac2e_4e2a_8f80_8ffd4a164034</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_beizugsgebiet_projekt" sql=</datasource>
+      <datasource>service='edit' key='t_id' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_beizugsgebiet_projekt" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5646,9 +5742,7 @@ def my_form_open(dialog, layer, feature):
         <Searchable>1</Searchable>
       </flags>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>t_id</value>
-        </property>
+        <property key="dualview/previewExpressions" value="t_id"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -5776,7 +5870,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
       <id>raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_bew_flaechen_bewaesserung" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_bew_flaechen_bewaesserung" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6160,7 +6254,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
       <id>raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_bewaesserung_linie" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_bewaesserung_linie" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6269,9 +6363,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>t_id</value>
-        </property>
+        <property key="dualview/previewExpressions" value="t_id"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -6552,7 +6644,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <id>raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_bewaesserung_punkt" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_bewaesserung_punkt" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6663,9 +6755,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>t_id</value>
-        </property>
+        <property key="dualview/previewExpressions" value="t_id"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -6946,7 +7036,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>raeumlicheelemnte_dokument_b88fee0a_f5d2_47f1_a90e_9e4ddc68c35c</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_dokument" sql=</datasource>
+      <datasource>service='edit' key='t_id' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_dokument" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -7022,9 +7112,7 @@ def my_form_open(dialog, layer, feature):
         <Searchable>1</Searchable>
       </flags>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>t_id</value>
-        </property>
+        <property key="dualview/previewExpressions" value="t_id"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -7199,7 +7287,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
       <id>raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_entw_bodenstruktur_flaeche" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_entw_bodenstruktur_flaeche" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -7589,7 +7677,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
       <id>raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_entw_bodenstruktur_linie" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_entw_bodenstruktur_linie" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -7891,7 +7979,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <id>raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_entw_bodenstruktur_pumpwerk" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_entw_bodenstruktur_pumpwerk" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -8183,7 +8271,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
       <id>raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_ev_linie" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_ev_linie" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -8572,7 +8660,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <id>raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_ev_punkt" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_ev_punkt" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -8963,7 +9051,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>raeumlicheelemnte_genossenschaft_dokument_cd563ce5_cc47_4ecf_a65d_647ff03d869d</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_genossenschaft_dokument" sql=</datasource>
+      <datasource>service='edit' key='t_id' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_genossenschaft_dokument" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -9165,8 +9253,14 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
+      <extent>
+        <xmin>2611209.52022228995338082</xmin>
+        <ymin>1245966.02992773009464145</ymin>
+        <xmax>2611453.84268496977165341</xmax>
+        <ymax>1246222.09866264997981489</ymax>
+      </extent>
       <id>raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_genossenschaft" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_genossenschaft" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -9283,6 +9377,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
         <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+8" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" width="15">
           <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0,Regular" style="Regular"></fontProperties>
+          <attribute color="#000000" field="" label=""></attribute>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings dist="0" linePlacementFlags="18" obstacle="0" placement="1" priority="0" showAll="1" zIndex="0">
@@ -9336,7 +9431,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="Layer" type="QString" value="genossenschaften_0f6b8c75_cf5b_4d26_b7d1_46303ec9e17e"></Option>
                 <Option name="LayerName" type="QString" value="Genossenschaften"></Option>
                 <Option name="LayerProviderName" type="QString" value="postgres"></Option>
-                <Option name="LayerSource" type="QString" value="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;genossenschaften&quot; sql="></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;genossenschaften&quot; sql="></Option>
                 <Option name="NofColumns" type="int" value="1"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
                 <Option name="UseCompleter" type="bool" value="false"></Option>
@@ -9445,7 +9540,7 @@ def my_form_open(dialog, layer, feature):
       <defaults>
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
-        <default applyOnUpdate="0" expression="" field="typ"></default>
+        <default applyOnUpdate="0" expression="'Flurgenossenschaft'" field="typ"></default>
         <default applyOnUpdate="0" expression="" field="aname"></default>
         <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="gruendungsdatum"></default>
         <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="genehmigungsdatum"></default>
@@ -9458,7 +9553,7 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="3" exp_strength="0" field="t_id" notnull_strength="1" unique_strength="1"></constraint>
         <constraint constraints="0" exp_strength="0" field="t_ili_tid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="typ" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="1" exp_strength="0" field="aname" notnull_strength="1" unique_strength="0"></constraint>
+        <constraint constraints="5" exp_strength="2" field="aname" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="gruendungsdatum" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="genehmigungsdatum" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="reorganisationsdatum" notnull_strength="0" unique_strength="0"></constraint>
@@ -9470,13 +9565,13 @@ def my_form_open(dialog, layer, feature):
         <constraint desc="" exp="" field="t_id"></constraint>
         <constraint desc="" exp="" field="t_ili_tid"></constraint>
         <constraint desc="" exp="" field="typ"></constraint>
-        <constraint desc="" exp="" field="aname"></constraint>
+        <constraint desc="Name darf maximal 100 Zeichen lang sein." exp="aname IS NULL OR length(aname) &lt;= 100" field="aname"></constraint>
         <constraint desc="" exp="" field="gruendungsdatum"></constraint>
         <constraint desc="" exp="" field="genehmigungsdatum"></constraint>
         <constraint desc="" exp="" field="reorganisationsdatum"></constraint>
         <constraint desc="" exp="" field="aufloesungsdatum"></constraint>
-        <constraint desc="Maximale Länge Bemerkung: 255" exp="length(bemerkung) &lt;= 255" field="bemerkung"></constraint>
-        <constraint desc="Maximale Länge Unterhaltsobjekt: 50" exp="length(unterhaltsobjekt) &lt;= 50" field="unterhaltsobjekt"></constraint>
+        <constraint desc="Bemerkung darf maximal 255 Zeichen lang sein." exp="bemerkung IS NULL or length(bemerkung) &lt;= 255" field="bemerkung"></constraint>
+        <constraint desc="Unterhaltsobjekt darf maximal 50 Zeichen lang sein." exp="unterhaltsobjekt IS NULL or length(unterhaltsobjekt) &lt;= 50" field="unterhaltsobjekt"></constraint>
       </constraintExpressions>
       <expressionfields></expressionfields>
       <attributeactions>
@@ -9536,7 +9631,7 @@ def my_form_open(dialog, layer, feature):
           <attributeEditorField index="8" name="bemerkung" showLabel="1"></attributeEditorField>
           <attributeEditorField index="9" name="unterhaltsobjekt" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="CASE WHEN @debugging = 'true' THEN 1 ELSE 0 END" visibilityExpressionEnabled="1">
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="CASE WHEN @debugging = 'true' THEN true ELSE false END" visibilityExpressionEnabled="1">
           <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
           <attributeEditorField index="0" name="t_id" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
@@ -9582,7 +9677,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_genossenschaft_element" sql=</datasource>
+      <datasource>service='edit' key='t_id' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_genossenschaft_element" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -9658,9 +9753,7 @@ def my_form_open(dialog, layer, feature):
         <Searchable>1</Searchable>
       </flags>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>t_id</value>
-        </property>
+        <property key="dualview/previewExpressions" value="t_id"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -10229,7 +10322,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <id>raeumlicheelemnte_hochbau_2c8e3740_aec4_4dc3_803d_2db0dd9c0bce</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_hochbau" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_hochbau" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -10521,7 +10614,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
       <id>raeumlicheelemnte_milchleitung_leitung_49a7812e_aebe_4180_8366_dd8bcaefba3d</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_milchleitung_leitung" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_milchleitung_leitung" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -10895,7 +10988,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <id>raeumlicheelemnte_milchleitung_lokal_70c2470a_a2ea_4520_851a_e1fee48cad8b</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_milchleitung_lokal" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_milchleitung_lokal" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -11271,7 +11364,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
       <id>raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_oekologie_flaeche" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_oekologie_flaeche" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -11385,6 +11478,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
         <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+8" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" width="15">
           <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0,Regular" style="Regular"></fontProperties>
+          <attribute color="#000000" field="" label=""></attribute>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings dist="0" linePlacementFlags="18" obstacle="0" placement="1" priority="0" showAll="1" zIndex="0">
@@ -11660,7 +11754,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
       <id>raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_oekologie_linie" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_oekologie_linie" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -11779,6 +11873,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
         <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+8" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" width="15">
           <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0,Regular" style="Regular"></fontProperties>
+          <attribute color="#000000" field="" label=""></attribute>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings dist="0" linePlacementFlags="18" obstacle="0" placement="2" priority="0" showAll="1" zIndex="0">
@@ -12048,7 +12143,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <id>raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_oekologie_punkt" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_oekologie_punkt" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -12169,6 +12264,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
         <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+8" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" width="15">
           <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0,Regular" style="Regular"></fontProperties>
+          <attribute color="#000000" field="" label=""></attribute>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings dist="0" linePlacementFlags="18" obstacle="0" placement="0" priority="0" showAll="1" zIndex="0">
@@ -12423,7 +12519,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
       <id>raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_oekologie_trockenmauer" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_oekologie_trockenmauer" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -12542,6 +12638,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
         <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+8" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" width="15">
           <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0,Regular" style="Regular"></fontProperties>
+          <attribute color="#000000" field="" label=""></attribute>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings dist="0" linePlacementFlags="18" obstacle="0" placement="2" priority="0" showAll="1" zIndex="0">
@@ -12828,9 +12925,15 @@ def my_form_open(dialog, layer, feature):
       <previewExpression>t_id</previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
+    <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
+      <extent>
+        <xmin>2611373.9680337100289762</xmin>
+        <ymin>1246086.42921823007054627</ymin>
+        <xmax>2611373.9680337100289762</xmax>
+        <ymax>1246086.42921823007054627</ymax>
+      </extent>
       <id>raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_projekt" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_projekt" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -12855,6 +12958,15 @@ def my_form_open(dialog, layer, feature):
         <type>dataset</type>
         <title></title>
         <abstract>Kantonale Projekte werden erfasst. In seltenen Fällen können zwei kantonale Projekte die gleiche Geschäftsnummer haben.</abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
         <links></links>
         <fees></fees>
         <encoding></encoding>
@@ -12871,7 +12983,15 @@ def my_form_open(dialog, layer, feature):
             <geographicflag>false</geographicflag>
           </spatialrefsys>
         </crs>
-        <extent></extent>
+        <extent>
+          <spatial crs="EPSG:2056" dimensions="2" maxx="0" maxy="0" maxz="0" minx="0" miny="0" minz="0"></spatial>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
       </resourceMetadata>
       <provider encoding="">postgres</provider>
       <vectorjoins></vectorjoins>
@@ -12924,57 +13044,95 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>"aname"</value>
-        </property>
+        <property key="dualview/previewExpressions" value="&quot;aname&quot;"></property>
+        <property key="embeddedWidgets/count" value="0"></property>
+        <property key="variableNames"></property>
+        <property key="variableValues"></property>
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
+      <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
+        <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+8" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" width="15">
+          <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0,Regular" style="Regular"></fontProperties>
+        </DiagramCategory>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings dist="0" linePlacementFlags="18" obstacle="0" placement="0" priority="0" showAll="1" zIndex="0">
+        <properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""></Option>
+            <Option name="properties"></Option>
+            <Option name="type" type="QString" value="collection"></Option>
+          </Option>
+        </properties>
+      </DiagramLayerSettings>
       <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
-        <activeChecks type="StringList">
-          <Option type="QString" value=""></Option>
-        </activeChecks>
+        <activeChecks></activeChecks>
         <checkConfiguration></checkConfiguration>
       </geometryOptions>
       <fieldConfiguration>
         <field name="t_id">
-          <editWidget type="">
+          <editWidget type="TextEdit">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="IsMultiline" type="bool" value="false"></Option>
+                <Option name="UseHtml" type="bool" value="false"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="t_ili_tid">
-          <editWidget type="">
+          <editWidget type="TextEdit">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="IsMultiline" type="bool" value="false"></Option>
+                <Option name="UseHtml" type="bool" value="false"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="projekttypen">
-          <editWidget type="">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="projekt_d2fb8194_5910_4a28_9cb5_4ae7d634a4a8"></Option>
+                <Option name="LayerName" type="QString" value="Projekttyp"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;projekt&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="geschaeftsnummer">
-          <editWidget type="">
+          <editWidget type="TextEdit">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="IsMultiline" type="bool" value="false"></Option>
+                <Option name="UseHtml" type="bool" value="false"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="kantonsnummer">
-          <editWidget type="">
+          <editWidget type="TextEdit">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="IsMultiline" type="bool" value="false"></Option>
+                <Option name="UseHtml" type="bool" value="false"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="aname">
-          <editWidget type="">
+          <editWidget type="TextEdit">
             <config>
               <Option></Option>
             </config>
@@ -12984,8 +13142,8 @@ def my_form_open(dialog, layer, feature):
       <aliases>
         <alias field="t_id" index="0" name=""></alias>
         <alias field="t_ili_tid" index="1" name=""></alias>
-        <alias field="projekttypen" index="2" name="Projekttypen"></alias>
-        <alias field="geschaeftsnummer" index="3" name="Geschaeftsnummer"></alias>
+        <alias field="projekttypen" index="2" name="Projekttyp"></alias>
+        <alias field="geschaeftsnummer" index="3" name="Geschäftsnummer"></alias>
         <alias field="kantonsnummer" index="4" name="Kantonsnummer"></alias>
         <alias field="aname" index="5" name="Name"></alias>
       </aliases>
@@ -12994,7 +13152,7 @@ def my_form_open(dialog, layer, feature):
       <defaults>
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
-        <default applyOnUpdate="0" expression="" field="projekttypen"></default>
+        <default applyOnUpdate="0" expression="'Landwirtschaftliche_Planung'" field="projekttypen"></default>
         <default applyOnUpdate="0" expression="" field="geschaeftsnummer"></default>
         <default applyOnUpdate="0" expression="" field="kantonsnummer"></default>
         <default applyOnUpdate="0" expression="" field="aname"></default>
@@ -13003,17 +13161,17 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="3" exp_strength="0" field="t_id" notnull_strength="1" unique_strength="1"></constraint>
         <constraint constraints="0" exp_strength="0" field="t_ili_tid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="projekttypen" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="geschaeftsnummer" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="2" exp_strength="0" field="kantonsnummer" notnull_strength="0" unique_strength="1"></constraint>
-        <constraint constraints="0" exp_strength="0" field="aname" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="2" field="geschaeftsnummer" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="6" exp_strength="2" field="kantonsnummer" notnull_strength="0" unique_strength="1"></constraint>
+        <constraint constraints="4" exp_strength="2" field="aname" notnull_strength="0" unique_strength="0"></constraint>
       </constraints>
       <constraintExpressions>
         <constraint desc="" exp="" field="t_id"></constraint>
         <constraint desc="" exp="" field="t_ili_tid"></constraint>
         <constraint desc="" exp="" field="projekttypen"></constraint>
-        <constraint desc="" exp="" field="geschaeftsnummer"></constraint>
-        <constraint desc="" exp="" field="kantonsnummer"></constraint>
-        <constraint desc="" exp="" field="aname"></constraint>
+        <constraint desc="Geschäftsnummer darf maximal 10 Zeichen lang sein." exp="geschaeftsnummer IS NULL OR length(geschaeftsnummer) &lt;= 10" field="geschaeftsnummer"></constraint>
+        <constraint desc="Kantonsnummer darf maximal 40 Zeichen lang sein und muss eindeutig sein." exp="kantonsnummer IS NULL or length(kantonsnummer) &lt;= 40" field="kantonsnummer"></constraint>
+        <constraint desc="Name darf maximal 50 Zeichen lang sein." exp="aname IS NULL OR length(aname) &lt;= 50" field="aname"></constraint>
       </constraintExpressions>
       <expressionfields></expressionfields>
       <attributeactions>
@@ -13039,31 +13197,176 @@ def my_form_open(dialog, layer, feature):
       <editforminit></editforminit>
       <editforminitcodesource>0</editforminitcodesource>
       <editforminitfilepath></editforminitfilepath>
-      <editforminitcode></editforminitcode>
+      <editforminitcode># -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+</editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorField index="5" name="aname" showLabel="1"></attributeEditorField>
-        <attributeEditorField index="-1" name="geometrie" showLabel="1"></attributeEditorField>
-        <attributeEditorField index="3" name="geschaeftsnummer" showLabel="1"></attributeEditorField>
-        <attributeEditorField index="4" name="kantonsnummer" showLabel="1"></attributeEditorField>
-        <attributeEditorField index="2" name="projekttypen" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Allgemein" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorField index="5" name="aname" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="3" name="geschaeftsnummer" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="4" name="kantonsnummer" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="2" name="projekttypen" showLabel="1"></attributeEditorField>
+        </attributeEditorContainer>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="@debugging" visibilityExpressionEnabled="1">
+          <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="0" name="t_id" showLabel="1"></attributeEditorField>
+        </attributeEditorContainer>
       </attributeEditorForm>
-      <editable></editable>
-      <labelOnTop></labelOnTop>
+      <editable>
+        <field editable="1" name="aname"></field>
+        <field editable="1" name="geschaeftsnummer"></field>
+        <field editable="1" name="kantonsnummer"></field>
+        <field editable="1" name="projekttypen"></field>
+        <field editable="1" name="t_id"></field>
+        <field editable="1" name="t_ili_tid"></field>
+      </editable>
+      <labelOnTop>
+        <field labelOnTop="0" name="aname"></field>
+        <field labelOnTop="0" name="geschaeftsnummer"></field>
+        <field labelOnTop="0" name="kantonsnummer"></field>
+        <field labelOnTop="0" name="projekttypen"></field>
+        <field labelOnTop="0" name="t_id"></field>
+        <field labelOnTop="0" name="t_ili_tid"></field>
+      </labelOnTop>
       <widgets>
+        <widget name="raemlchlmnt_blchn_bwssrung_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
         <widget name="raemlchlmnt_bzgsgbt_prjekt_projekt_fkey">
           <config type="Map">
             <Option name="nm-rel" type="QString" value="raemlchlmnt_bzgsgbt_prjekt_beizugsgebiet_fkey"></Option>
           </config>
         </widget>
+        <widget name="raemlchlmnt_mlchltng_ltung_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raemlchlmnt_ndnstrktr_lnie_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raemlchlmnt_nnstrktr_flche_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raemlchlmnt_ntrktr_pmpwerk_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raemlchlmnt_w_wssrvrsrgung_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raemlchlmnt_whrstllng_pnkt_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raemlchlmnt_wrck_lhnnvdukt_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raemlchlmnt_wrvrsrgng_pnkt_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlchlmnt_klg_trcknmuer_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlchlmnt_mlchltng_lkal_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlicheelemnt_klg_flche_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlicheelemnte_ev_linie_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlicheelemnte_ev_punkt_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlicheelemnte_hochbau_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlicheelemnte_klg_lnie_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlicheelemnte_klg_pnkt_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlicheelemnte_wgb_lnie_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlicheelmnt_slbhn_lnie_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlichlmnt_bwssrng_lnie_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlichlmnt_bwssrng_pnkt_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
+        <widget name="raeumlichlmnt_slbhn_sttion_projekt_fkey">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value=""></Option>
+          </config>
+        </widget>
       </widgets>
-      <previewExpression>"aname"</previewExpression>
+      <previewExpression>aname</previewExpression>
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
       <id>raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_seilbahn_linie" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_seilbahn_linie" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -13182,6 +13485,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
         <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+8" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" width="15">
           <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0,Regular" style="Regular"></fontProperties>
+          <attribute color="#000000" field="" label=""></attribute>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings dist="0" linePlacementFlags="18" obstacle="0" placement="2" priority="0" showAll="1" zIndex="0">
@@ -13451,7 +13755,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <id>raeumlicheelemnte_seilbahn_station_40ecebde_4b7b_44c6_a62a_e665c98f9b32</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_seilbahn_station" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_seilbahn_station" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -13755,7 +14059,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <id>raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wasserversorgung_punkt" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wasserversorgung_punkt" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -14146,7 +14450,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <id>raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wege_bruecke_lehnenviadukt" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wege_bruecke_lehnenviadukt" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -14615,7 +14919,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>1257599.01524355006404221</ymax>
       </extent>
       <id>raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wegebau_linie" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wegebau_linie" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -14754,7 +15058,10 @@ def my_form_open(dialog, layer, feature):
         <field name="t_id">
           <editWidget type="TextEdit">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="IsMultiline" type="bool" value="false"></Option>
+                <Option name="UseHtml" type="bool" value="false"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -14776,7 +15083,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="Layer" type="QString" value="wege_f179b090_16b1_4f15_879b_43ff68104a31"></Option>
                 <Option name="LayerName" type="QString" value="Wege"></Option>
                 <Option name="LayerProviderName" type="QString" value="postgres"></Option>
-                <Option name="LayerSource" type="QString" value="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;wege&quot; sql="></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;wege&quot; sql="></Option>
                 <Option name="NofColumns" type="int" value="1"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
                 <Option name="UseCompleter" type="bool" value="false"></Option>
@@ -14796,7 +15103,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="Layer" type="QString" value="bautyp_d497279f_38cd_424f_97e1_be7a70b2b74e"></Option>
                 <Option name="LayerName" type="QString" value="Bautyp"></Option>
                 <Option name="LayerProviderName" type="QString" value="postgres"></Option>
-                <Option name="LayerSource" type="QString" value="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bautyp&quot; sql="></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bautyp&quot; sql="></Option>
                 <Option name="NofColumns" type="int" value="1"></Option>
                 <Option name="OrderByValue" type="bool" value="false"></Option>
                 <Option name="UseCompleter" type="bool" value="false"></Option>
@@ -14831,7 +15138,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="Layer" type="QString" value="funktionstyp_81588cc7_4f31_4380_90bd_0213f2c719d9"></Option>
                 <Option name="LayerName" type="QString" value="Funktionstyp (Wege und Zufahrten)"></Option>
                 <Option name="LayerProviderName" type="QString" value="postgres"></Option>
-                <Option name="LayerSource" type="QString" value="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;funktionstyp&quot; sql="></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;funktionstyp&quot; sql="></Option>
                 <Option name="NofColumns" type="int" value="1"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
                 <Option name="UseCompleter" type="bool" value="false"></Option>
@@ -14876,7 +15183,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="Layer" type="QString" value="technische_schwierigkeit_b6cad177_9338_4b0b_8293_0a5ca780107e"></Option>
                 <Option name="LayerName" type="QString" value="Technische Schwierigkeit"></Option>
                 <Option name="LayerProviderName" type="QString" value="postgres"></Option>
-                <Option name="LayerSource" type="QString" value="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;technische_schwierigkeit&quot; sql="></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;technische_schwierigkeit&quot; sql="></Option>
                 <Option name="NofColumns" type="int" value="1"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
                 <Option name="UseCompleter" type="bool" value="false"></Option>
@@ -14911,7 +15218,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="Layer" type="QString" value="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a"></Option>
                 <Option name="LayerName" type="QString" value="Status"></Option>
                 <Option name="LayerProviderName" type="QString" value="postgres"></Option>
-                <Option name="LayerSource" type="QString" value="dbname='edit' host=localhost port=54321 user='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql="></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql="></Option>
                 <Option name="NofColumns" type="int" value="1"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
                 <Option name="UseCompleter" type="bool" value="false"></Option>
@@ -14959,7 +15266,10 @@ def my_form_open(dialog, layer, feature):
         <field name="unterhaltsid">
           <editWidget type="TextEdit">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="IsMultiline" type="bool" value="false"></Option>
+                <Option name="UseHtml" type="bool" value="false"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -14968,7 +15278,10 @@ def my_form_open(dialog, layer, feature):
             <config>
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raeumlicheelemnte_wgb_lnie_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
                 <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
@@ -14981,10 +15294,13 @@ def my_form_open(dialog, layer, feature):
             <config>
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raeumlicheelemnte_wgb_lnie_werkeigentum_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -15014,15 +15330,15 @@ def my_form_open(dialog, layer, feature):
       <defaults>
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
-        <default applyOnUpdate="0" expression="Kiesweg" field="typ"></default>
-        <default applyOnUpdate="0" expression="" field="bautyp"></default>
+        <default applyOnUpdate="0" expression="'Kiesweg'" field="typ"></default>
+        <default applyOnUpdate="0" expression="'Neubau'" field="bautyp"></default>
         <default applyOnUpdate="0" expression="" field="fahrbahnbreite"></default>
-        <default applyOnUpdate="0" expression="Nebenwege_fahrbar" field="funktionstyp"></default>
+        <default applyOnUpdate="0" expression="'Nebenwege_fahrbar'" field="funktionstyp"></default>
         <default applyOnUpdate="0" expression="" field="bezeichnung"></default>
         <default applyOnUpdate="0" expression="" field="anteil_lw"></default>
-        <default applyOnUpdate="0" expression="nicht_relevant" field="techn_schwierigkeit"></default>
-        <default applyOnUpdate="1" expression="round(length($geometry),0)" field="laenge_gerundet"></default>
-        <default applyOnUpdate="0" expression="projektiert" field="astatus"></default>
+        <default applyOnUpdate="0" expression="'nicht_relevant'" field="techn_schwierigkeit"></default>
+        <default applyOnUpdate="1" expression="round(length($geometry)/5,0)*5" field="laenge_gerundet"></default>
+        <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
         <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
@@ -15037,15 +15353,15 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="1" exp_strength="0" field="bautyp" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="fahrbahnbreite" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="funktionstyp" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="bezeichnung" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="bezeichnung" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="anteil_lw" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="techn_schwierigkeit" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="2" field="techn_schwierigkeit" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="laenge_gerundet" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="astatus" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="projekt" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="werkeigentum" notnull_strength="0" unique_strength="0"></constraint>
       </constraints>
@@ -15054,17 +15370,17 @@ def my_form_open(dialog, layer, feature):
         <constraint desc="" exp="" field="t_ili_tid"></constraint>
         <constraint desc="" exp="" field="typ"></constraint>
         <constraint desc="" exp="" field="bautyp"></constraint>
-        <constraint desc="Fahrbahnbreite muss zwischen 0 und 10 sein." exp="fahrbahnbreite > 0 AND fahrbahnbreite &lt;= 10" field="fahrbahnbreite"></constraint>
+        <constraint desc="Fahrbahnbreite muss zwischen 0 und 10 sein." exp="fahrbahnbreite IS NULL or (fahrbahnbreite > 0 AND fahrbahnbreite &lt;= 10)" field="fahrbahnbreite"></constraint>
         <constraint desc="" exp="" field="funktionstyp"></constraint>
-        <constraint desc="" exp="" field="bezeichnung"></constraint>
-        <constraint desc="Anteil LW muss zwischen 0 und 100 sein." exp="anteil_lw >= 0 AND anteil_lw &lt;= 100" field="anteil_lw"></constraint>
-        <constraint desc="" exp="" field="techn_schwierigkeit"></constraint>
+        <constraint desc="" exp=" bezeichnung IS NULL or length(bezeichnung) &lt;= 50" field="bezeichnung"></constraint>
+        <constraint desc="Anteil LW muss zwischen 0 und 100 sein." exp="anteil_lw IS NULL or (anteil_lw >= 0 AND anteil_lw &lt;= 100)" field="anteil_lw"></constraint>
+        <constraint desc="" exp="&quot;t_id&quot;" field="techn_schwierigkeit"></constraint>
         <constraint desc="Länge gerundet muss zwischen 0 und 1000000 sein." exp="laenge_gerundet > 0 AND laenge_gerundet &lt;= 1000000" field="laenge_gerundet"></constraint>
         <constraint desc="" exp="" field="astatus"></constraint>
         <constraint desc="" exp="" field="status_datum"></constraint>
         <constraint desc="" exp="" field="bauabnahme_datum"></constraint>
-        <constraint desc="" exp="" field="werksid"></constraint>
-        <constraint desc="" exp="" field="unterhaltsid"></constraint>
+        <constraint desc="WerksID darf maximal 20 Zeichen lang sein." exp="werksid IS NULL OR length(werksid) &lt;= 20" field="werksid"></constraint>
+        <constraint desc="Die UnterhaltsID darf maximal 20 Zeichen lang sein." exp="unterhaltsid IS NULL OR length(unterhaltsid) &lt;= 20" field="unterhaltsid"></constraint>
         <constraint desc="" exp="" field="projekt"></constraint>
         <constraint desc="" exp="" field="werkeigentum"></constraint>
       </constraintExpressions>
@@ -15131,17 +15447,21 @@ def my_form_open(dialog, layer, feature):
           <attributeEditorField index="10" name="astatus" showLabel="1"></attributeEditorField>
           <attributeEditorField index="11" name="status_datum" showLabel="1"></attributeEditorField>
           <attributeEditorField index="12" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="7" name="anteil_lw" showLabel="1"></attributeEditorField>
           <attributeEditorField index="9" name="laenge_gerundet" showLabel="1"></attributeEditorField>
           <attributeEditorField index="4" name="fahrbahnbreite" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="7" name="anteil_lw" showLabel="1"></attributeEditorField>
           <attributeEditorField index="8" name="techn_schwierigkeit" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="13" name="werksid" showLabel="1"></attributeEditorField>
           <attributeEditorField index="15" name="projekt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="14" name="unterhaltsid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="13" name="werksid" showLabel="1"></attributeEditorField>
           <attributeEditorField index="16" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="14" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        </attributeEditorContainer>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="@debugging" visibilityExpressionEnabled="1">
+          <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="0" name="t_id" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
       </attributeEditorForm>
       <editable>
@@ -15185,16 +15505,16 @@ def my_form_open(dialog, layer, feature):
       <widgets>
         <widget name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey">
           <config type="Map">
-            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
           </config>
         </widget>
       </widgets>
-      <previewExpression>t_id</previewExpression>
+      <previewExpression>represent_value(typ)  || ', '  || represent_value(funktionstyp) || COALESCE('; Breite: ' || fahrbahnbreite,'')</previewExpression>
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_werkseigentum" sql=</datasource>
+      <datasource>service='edit' key='t_id' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_werkseigentum" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -15508,7 +15828,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <id>raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wiederherstellung_punkt" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wiederherstellung_punkt" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -15629,6 +15949,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
         <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+8" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" width="15">
           <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0,Regular" style="Regular"></fontProperties>
+          <attribute color="#000000" field="" label=""></attribute>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings dist="0" linePlacementFlags="18" obstacle="0" placement="0" priority="0" showAll="1" zIndex="0">
@@ -15885,7 +16206,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
       <id>raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wv_leitung_wasserversorgung" (geometrie) sql=</datasource>
+      <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wv_leitung_wasserversorgung" (geometrie) sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -16259,7 +16580,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>raeumlichelmnte_wege_bruecke_lehnenviadukt_material_b3840b72_a548_456f_a0f9_71f0d248e07f</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlichelmnte_wege_bruecke_lehnenviadukt_material" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlichelmnte_wege_bruecke_lehnenviadukt_material" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -16494,7 +16815,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>seilbahnen_linien_be5ae747_318b_4ff1_9402_7f0a6ce9ccc8</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."seilbahnen_linien" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."seilbahnen_linien" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -16729,7 +17050,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>seilbahnen_punkte_a81d5903_578e_44db_b598_b10b05425948</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."seilbahnen_punkte" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."seilbahnen_punkte" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -16964,7 +17285,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>stand_8e7fcbf4_b874_4c00_8079_9908060cc8bd</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."stand" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."stand" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -17199,7 +17520,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>stand_gutrrglrung_stand_gueterregulierung_16581e8d_a953_44c2_a5d2_6319069f460a</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='t_id' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."stand_gutrrglrung_stand_gueterregulierung" sql=</datasource>
+      <datasource>service='edit' key='t_id' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."stand_gutrrglrung_stand_gueterregulierung" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -17407,7 +17728,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>technische_schwierigkeit_b6cad177_9338_4b0b_8293_0a5ca780107e</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."technische_schwierigkeit" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."technische_schwierigkeit" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -17642,7 +17963,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>wasserversorgung_punkte_4ecbac9b_c9c5_4bb3_9f0d_7fd984cab353</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."wasserversorgung_punkte" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."wasserversorgung_punkte" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -17877,7 +18198,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>wege_f179b090_16b1_4f15_879b_43ff68104a31</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."wege" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."wege" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -18112,7 +18433,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>wiederherstellung_punkte_c0495fe6_4ff3_4b08_ad05_e0afdbf05ca3</id>
-      <datasource>dbname='edit' host=localhost port=54321 user='gretl' password='gretl' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."wiederherstellung_punkte" sql=</datasource>
+      <datasource>service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."wiederherstellung_punkte" sql=</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -18382,6 +18703,9 @@ def my_form_open(dialog, layer, feature):
       <Opacity type="double">1</Opacity>
       <RandomColors type="bool">true</RandomColors>
     </DefaultStyles>
+    <Digitizing>
+      <AvoidIntersectionsMode type="int">2</AvoidIntersectionsMode>
+    </Digitizing>
     <Gui>
       <CanvasColorBluePart type="int">255</CanvasColorBluePart>
       <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
@@ -18406,10 +18730,13 @@ def my_form_open(dialog, layer, feature):
     </Measurement>
     <PAL>
       <CandidatesLine type="int">50</CandidatesLine>
+      <CandidatesLinePerCM type="double">5</CandidatesLinePerCM>
       <CandidatesPoint type="int">16</CandidatesPoint>
       <CandidatesPolygon type="int">30</CandidatesPolygon>
+      <CandidatesPolygonPerCM type="double">2.5</CandidatesPolygonPerCM>
       <DrawRectOnly type="bool">false</DrawRectOnly>
       <DrawUnplaced type="bool">false</DrawUnplaced>
+      <PlacementEngineVersion type="int">0</PlacementEngineVersion>
       <SearchMethod type="int">0</SearchMethod>
       <ShowingAllLabels type="bool">false</ShowingAllLabels>
       <ShowingCandidates type="bool">false</ShowingCandidates>
