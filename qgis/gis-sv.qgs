@@ -49,7 +49,7 @@
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group checked="Qt::Checked" expanded="0" name="Wege">
+    <layer-tree-group checked="Qt::Checked" expanded="1" name="Wege">
       <customproperties></customproperties>
       <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" legend_exp="" name="Brücke und Lehnenviadukt (Punkt)" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_wege_bruecke_lehnenviadukt&quot; (geometrie) sql=">
         <customproperties></customproperties>
@@ -109,7 +109,7 @@
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group checked="Qt::Checked" expanded="0" name="Projekt und Organisation">
+    <layer-tree-group checked="Qt::Checked" expanded="1" name="Projekt und Organisation">
       <customproperties></customproperties>
       <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" legend_exp="" name="Projekt" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_projekt&quot; (geometrie) sql=">
         <customproperties></customproperties>
@@ -226,61 +226,61 @@
         <customproperties></customproperties>
       </layer-tree-layer>
     </layer-tree-group>
-    <custom-order enabled="0">
-      <item>raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767</item>
-      <item>raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc</item>
-      <item>raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf</item>
-      <item>raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696</item>
-      <item>raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda</item>
-      <item>raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736</item>
-      <item>raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d</item>
-      <item>raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab</item>
-      <item>raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea</item>
-      <item>raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c</item>
-      <item>raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235</item>
-      <item>raeumlicheelemnte_milchleitung_leitung_49a7812e_aebe_4180_8366_dd8bcaefba3d</item>
-      <item>raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2</item>
-      <item>raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771</item>
-      <item>raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b</item>
+    <custom-order enabled="1">
+      <item>raeumlicheelemnte_hochbau_2c8e3740_aec4_4dc3_803d_2db0dd9c0bce</item>
       <item>raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0</item>
-      <item>raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7</item>
-      <item>raeumlicheelemnte_seilbahn_station_40ecebde_4b7b_44c6_a62a_e665c98f9b32</item>
-      <item>raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d</item>
       <item>raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499</item>
+      <item>raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d</item>
+      <item>raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7</item>
+      <item>raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b</item>
+      <item>raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771</item>
+      <item>raeumlicheelemnte_seilbahn_station_40ecebde_4b7b_44c6_a62a_e665c98f9b32</item>
+      <item>raeumlicheelemnte_milchleitung_lokal_70c2470a_a2ea_4520_851a_e1fee48cad8b</item>
       <item>raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce</item>
       <item>raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8</item>
-      <item>raeumlicheelemnte_milchleitung_lokal_70c2470a_a2ea_4520_851a_e1fee48cad8b</item>
-      <item>raeumlicheelemnte_hochbau_2c8e3740_aec4_4dc3_803d_2db0dd9c0bce</item>
+      <item>raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab</item>
+      <item>raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736</item>
+      <item>raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea</item>
+      <item>raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2</item>
+      <item>raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d</item>
+      <item>raeumlicheelemnte_milchleitung_leitung_49a7812e_aebe_4180_8366_dd8bcaefba3d</item>
+      <item>raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c</item>
+      <item>raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235</item>
       <item>raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323</item>
+      <item>raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696</item>
+      <item>raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf</item>
+      <item>raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc</item>
+      <item>raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda</item>
+      <item>raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767</item>
     </custom-order>
   </layer-tree-group>
   <snapping-settings enabled="0" intersection-snapping="0" mode="2" tolerance="12" type="1" unit="1">
     <individual-layer-settings>
-      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_milchleitung_leitung_49a7812e_aebe_4180_8366_dd8bcaefba3d" tolerance="12" type="1" units="1"></layer-setting>
       <layer-setting enabled="1" id="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_seilbahn_station_40ecebde_4b7b_44c6_a62a_e665c98f9b32" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" tolerance="12" type="1" units="1"></layer-setting>
       <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_hochbau_2c8e3740_aec4_4dc3_803d_2db0dd9c0bce" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_seilbahn_station_40ecebde_4b7b_44c6_a62a_e665c98f9b32" tolerance="12" type="1" units="1"></layer-setting>
       <layer-setting enabled="1" id="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_hochbau_2c8e3740_aec4_4dc3_803d_2db0dd9c0bce" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d" tolerance="12" type="1" units="1"></layer-setting>
       <layer-setting enabled="1" id="raeumlicheelemnte_milchleitung_lokal_70c2470a_a2ea_4520_851a_e1fee48cad8b" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_milchleitung_leitung_49a7812e_aebe_4180_8366_dd8bcaefba3d" tolerance="12" type="1" units="1"></layer-setting>
     </individual-layer-settings>
   </snapping-settings>
   <relations>
@@ -344,7 +344,7 @@
     <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_pnkt_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_pnkt_fkey" referencedLayer="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey" referencedLayer="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey" name="Genossenschaft zu Wegebau Linie" referencedLayer="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlicheelemnte_wegebau_linie"></fieldRef>
     </relation>
     <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmlchltng_lkal_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmlchltng_lkal_fkey" referencedLayer="raeumlicheelemnte_milchleitung_lokal_70c2470a_a2ea_4520_851a_e1fee48cad8b" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
@@ -359,7 +359,7 @@
     <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnt_slbhn_lnie_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnt_slbhn_lnie_fkey" referencedLayer="raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrck_lhnnvdukt_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrck_lhnnvdukt_fkey" referencedLayer="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrck_lhnnvdukt_fkey" name="Genossenschaft zu Brücke und Lehnenviadukt" referencedLayer="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt"></fieldRef>
     </relation>
     <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrvrsrgng_pnkt_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrvrsrgng_pnkt_fkey" referencedLayer="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
@@ -407,7 +407,7 @@
     <relation id="raemlchlmnt_whrstllng_pnkt_werkeigentum_fkey" name="raemlchlmnt_whrstllng_pnkt_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_wrck_lhnnvdukt_projekt_fkey" name="raemlchlmnt_wrck_lhnnvdukt_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" strength="Association">
+    <relation id="raemlchlmnt_wrck_lhnnvdukt_projekt_fkey" name="Projekt zu Brücke und Lehnenviadukt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
     <relation id="raemlchlmnt_wrck_lhnnvdukt_werkeigentum_fkey" name="raemlchlmnt_wrck_lhnnvdukt_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" strength="Association">
@@ -470,7 +470,7 @@
     <relation id="raeumlicheelemnte_klg_pnkt_werkeigentum_fkey" name="raeumlicheelemnte_klg_pnkt_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnte_wgb_lnie_projekt_fkey" name="raeumlicheelemnte_wgb_lnie_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" strength="Association">
+    <relation id="raeumlicheelemnte_wgb_lnie_projekt_fkey" name="Projekt zu Wegebau Linie" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
     <relation id="raeumlicheelemnte_wgb_lnie_werkeigentum_fkey" name="raeumlicheelemnte_wgb_lnie_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" strength="Association">
@@ -504,155 +504,155 @@
   <mapcanvas annotationsVisible="1" name="theMapCanvas">
     <units>unknown</units>
     <extent>
-      <xmin>2610600.57694077119231224</xmin>
-      <ymin>1245477.86349940998479724</ymin>
-      <xmax>2612225.42435607686638832</xmax>
-      <ymax>1246465.72499515442177653</ymax>
+      <xmin>2610279.90410037245601416</xmin>
+      <ymin>1243716.44595320406369865</ymin>
+      <xmax>2614937.73705743160098791</xmax>
+      <ymax>1248783.51378790172748268</ymax>
     </extent>
     <rotation>0</rotation>
     <rendermaptile>0</rendermaptile>
     <expressionContextScope></expressionContextScope>
   </mapcanvas>
   <projectModels></projectModels>
-  <legend updateDrawingOrder="true">
-    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Hochbau" open="true" showFeatureCount="0">
+  <legend updateDrawingOrder="false">
+    <legendlayer checked="Qt::Checked" drawingOrder="0" name="Hochbau" open="true" showFeatureCount="0">
       <filegroup hidden="false" open="true">
         <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_hochbau_2c8e3740_aec4_4dc3_803d_2db0dd9c0bce" visible="1"></legendlayerfile>
       </filegroup>
     </legendlayer>
-    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Wiederherstellung Punkt" open="true" showFeatureCount="0">
+    <legendlayer checked="Qt::Checked" drawingOrder="1" name="Wiederherstellung Punkt" open="true" showFeatureCount="0">
       <filegroup hidden="false" open="true">
         <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" visible="1"></legendlayerfile>
       </filegroup>
     </legendlayer>
     <legendgroup checked="Qt::Checked" name="Bewässerung" open="false">
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Bewässerung Punkt" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="2" name="Bewässerung Punkt" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Bewässerung Linie" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="13" name="Bewässerung Linie" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Bewässerung Flächen" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="21" name="Bewässerung Flächen" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
     </legendgroup>
     <legendgroup checked="Qt::Checked" name="Entwässerung und Bodenstruktur" open="false">
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Entwässerung Bodenstruktur Pumpwerk (Punkt)" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="3" name="Entwässerung Bodenstruktur Pumpwerk (Punkt)" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Entwässerung Bodenstruktur Linie" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="11" name="Entwässerung Bodenstruktur Linie" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Entwässerung Bodenstruktur Fläche" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="22" name="Entwässerung Bodenstruktur Fläche" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup checked="Qt::Checked" name="Wege" open="false">
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Brücke und Lehnenviadukt (Punkt)" open="true" showFeatureCount="0">
+    <legendgroup checked="Qt::Checked" name="Wege" open="true">
+      <legendlayer checked="Qt::Checked" drawingOrder="4" name="Brücke und Lehnenviadukt (Punkt)" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Wegebau Linie" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="12" name="Wegebau Linie" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
     </legendgroup>
     <legendgroup checked="Qt::Checked" name="Ökologie" open="false">
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Ökologie Punkt" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="5" name="Ökologie Punkt" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Ökologie Linie" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="14" name="Ökologie Linie" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Ökologie Trockenmauer" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="6" name="Ökologie Trockenmauer" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Ökologie Fläche" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="20" name="Ökologie Fläche" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
     </legendgroup>
     <legendgroup checked="Qt::Checked" name="Seilbahn" open="false">
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Seilbahn Station" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="7" name="Seilbahn Station" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_seilbahn_station_40ecebde_4b7b_44c6_a62a_e665c98f9b32" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Seilbahn Linie" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="15" name="Seilbahn Linie" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
     </legendgroup>
     <legendgroup checked="Qt::Checked" name="Milchinfrastruktur" open="false">
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Milchleitung Punkt" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="8" name="Milchleitung Punkt" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_milchleitung_lokal_70c2470a_a2ea_4520_851a_e1fee48cad8b" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Milchleitung" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="16" name="Milchleitung" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_milchleitung_leitung_49a7812e_aebe_4180_8366_dd8bcaefba3d" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
     </legendgroup>
     <legendgroup checked="Qt::Checked" name="Wasserversorgung" open="false">
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Wasserversorgung Punkt" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="9" name="Wasserversorgung Punkt" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Wasserversorgung Leitung" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="17" name="Wasserversorgung Leitung" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
     </legendgroup>
     <legendgroup checked="Qt::Checked" name="Elektrizitätsversorgung" open="false">
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Elektrizitätsversorgung Punkt" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="10" name="Elektrizitätsversorgung Punkt" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Elektrizitätsversorgung Linie" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="18" name="Elektrizitätsversorgung Linie" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup checked="Qt::Checked" name="Projekt und Organisation" open="false">
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Projekt" open="true" showFeatureCount="0">
+    <legendgroup checked="Qt::Checked" name="Projekt und Organisation" open="true">
+      <legendlayer checked="Qt::Checked" drawingOrder="19" name="Projekt" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Beizugsgebiet" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="23" name="Beizugsgebiet" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Genossenschaft" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="24" name="Genossenschaft" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" visible="1"></legendlayerfile>
         </filegroup>
@@ -829,81 +829,6 @@
     </legendgroup>
   </legend>
   <mapViewDocks></mapViewDocks>
-  <mapcanvas annotationsVisible="1" name="mAreaCanvas">
-    <units>degrees</units>
-    <extent>
-      <xmin>0</xmin>
-      <ymin>0</ymin>
-      <xmax>0</xmax>
-      <ymax>0</ymax>
-    </extent>
-    <rotation>0</rotation>
-    <destinationsrs>
-      <spatialrefsys>
-        <wkt>GEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["unknown"],AREA["World"],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
-        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
-        <srsid>3452</srsid>
-        <srid>4326</srid>
-        <authid>EPSG:4326</authid>
-        <description>WGS 84</description>
-        <projectionacronym>longlat</projectionacronym>
-        <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
-        <geographicflag>true</geographicflag>
-      </spatialrefsys>
-    </destinationsrs>
-    <rendermaptile>0</rendermaptile>
-    <expressionContextScope></expressionContextScope>
-  </mapcanvas>
-  <mapcanvas annotationsVisible="1" name="mAreaCanvas">
-    <units>degrees</units>
-    <extent>
-      <xmin>0</xmin>
-      <ymin>0</ymin>
-      <xmax>0</xmax>
-      <ymax>0</ymax>
-    </extent>
-    <rotation>0</rotation>
-    <destinationsrs>
-      <spatialrefsys>
-        <wkt>GEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["unknown"],AREA["World"],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
-        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
-        <srsid>3452</srsid>
-        <srid>4326</srid>
-        <authid>EPSG:4326</authid>
-        <description>WGS 84</description>
-        <projectionacronym>longlat</projectionacronym>
-        <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
-        <geographicflag>true</geographicflag>
-      </spatialrefsys>
-    </destinationsrs>
-    <rendermaptile>0</rendermaptile>
-    <expressionContextScope></expressionContextScope>
-  </mapcanvas>
-  <mapcanvas annotationsVisible="1" name="mAreaCanvas">
-    <units>degrees</units>
-    <extent>
-      <xmin>0</xmin>
-      <ymin>0</ymin>
-      <xmax>0</xmax>
-      <ymax>0</ymax>
-    </extent>
-    <rotation>0</rotation>
-    <destinationsrs>
-      <spatialrefsys>
-        <wkt>GEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["unknown"],AREA["World"],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
-        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
-        <srsid>3452</srsid>
-        <srid>4326</srid>
-        <authid>EPSG:4326</authid>
-        <description>WGS 84</description>
-        <projectionacronym>longlat</projectionacronym>
-        <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
-        <geographicflag>true</geographicflag>
-      </spatialrefsys>
-    </destinationsrs>
-    <rendermaptile>0</rendermaptile>
-    <expressionContextScope></expressionContextScope>
-  </mapcanvas>
   <projectlayers>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
       <id>astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a</id>
@@ -5371,6 +5296,12 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
+      <extent>
+        <xmin>2610605.86770934006199241</xmin>
+        <ymin>1246062.45016026007942855</ymin>
+        <xmax>2611749.12112388992682099</xmax>
+        <ymax>1247113.82154808007180691</ymax>
+      </extent>
       <id>raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_beizugsgebiet" (geometrie) sql=</datasource>
       <keywordList>
@@ -5476,6 +5407,9 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
+        <property key="dualview/previewExpressions">
+          <value>t_id || ' ' || represent_value(typ) || COALESCE(' (' || datum_nachfuehrung || ')','')</value>
+        </property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -5486,6 +5420,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
         <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+8" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" width="15">
           <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0,Regular" style="Regular"></fontProperties>
+          <attribute color="#000000" field="" label=""></attribute>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings dist="0" linePlacementFlags="18" obstacle="0" placement="1" priority="0" showAll="1" zIndex="0">
@@ -5563,7 +5498,7 @@ def my_form_open(dialog, layer, feature):
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias field="t_id" index="0" name=""></alias>
+        <alias field="t_id" index="0" name="TID"></alias>
         <alias field="t_ili_tid" index="1" name=""></alias>
         <alias field="datum_nachfuehrung" index="2" name="Datum Nachführung"></alias>
         <alias field="typ" index="3" name="Beizugstyp"></alias>
@@ -5633,6 +5568,7 @@ def my_form_open(dialog, layer, feature):
         <attributeEditorContainer columnCount="2" groupBox="0" name="Allgemein" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorField index="3" name="typ" showLabel="1"></attributeEditorField>
           <attributeEditorField index="2" name="datum_nachfuehrung" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="0" name="t_id" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Projekt" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorRelation name="raemlchlmnt_bzgsgbt_prjekt_beizugsgebiet_fkey" relation="raemlchlmnt_bzgsgbt_prjekt_beizugsgebiet_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
@@ -5661,7 +5597,7 @@ def my_form_open(dialog, layer, feature):
           </config>
         </widget>
       </widgets>
-      <previewExpression>t_id</previewExpression>
+      <previewExpression>t_id || ' ' || represent_value(typ) || COALESCE(' (' || datum_nachfuehrung || ')','')</previewExpression>
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
@@ -9254,10 +9190,10 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
       <extent>
-        <xmin>2611209.52022228995338082</xmin>
-        <ymin>1245966.02992773009464145</ymin>
-        <xmax>2611453.84268496977165341</xmax>
-        <ymax>1246222.09866264997981489</ymax>
+        <xmin>2609581.60905072977766395</xmin>
+        <ymin>1245612.07760302000679076</ymin>
+        <xmax>2612557.98421165021136403</xmax>
+        <ymax>1247797.66482898010872304</ymax>
       </extent>
       <id>raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_genossenschaft" (geometrie) sql=</datasource>
@@ -9364,9 +9300,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>aname</value>
-        </property>
+        <property key="dualview/previewExpressions" value="aname"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -12927,10 +12861,10 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <extent>
-        <xmin>2611373.9680337100289762</xmin>
-        <ymin>1246086.42921823007054627</ymin>
-        <xmax>2611373.9680337100289762</xmax>
-        <ymax>1246086.42921823007054627</ymax>
+        <xmin>2611217.30734658008441329</xmin>
+        <ymin>1245921.6145947000477463</ymin>
+        <xmax>2613181.20041754003614187</xmax>
+        <ymax>1246270.0782800898887217</ymax>
       </extent>
       <id>raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323</id>
       <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_projekt" (geometrie) sql=</datasource>
@@ -13044,7 +12978,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="&quot;aname&quot;"></property>
+        <property key="dualview/previewExpressions" value="Coalesce(aname,'Kein Name') || Coalesce(', ' || geschaeftsnummer,', keine Geschäftsnummer')"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -13055,6 +12989,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
         <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+8" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" width="15">
           <fontProperties description="Noto Sans,10,-1,0,50,0,0,0,0,0,Regular" style="Regular"></fontProperties>
+          <attribute color="#000000" field="" label=""></attribute>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings dist="0" linePlacementFlags="18" obstacle="0" placement="0" priority="0" showAll="1" zIndex="0">
@@ -13223,7 +13158,14 @@ def my_form_open(dialog, layer, feature):
           <attributeEditorField index="4" name="kantonsnummer" showLabel="1"></attributeEditorField>
           <attributeEditorField index="2" name="projekttypen" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="@debugging" visibilityExpressionEnabled="1">
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Wege" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raeumlicheelemnte_wgb_lnie_projekt_fkey" relation="raeumlicheelemnte_wgb_lnie_projekt_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raemlchlmnt_wrck_lhnnvdukt_projekt_fkey" relation="raemlchlmnt_wrck_lhnnvdukt_projekt_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        </attributeEditorContainer>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Beizugsgebiete" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raemlchlmnt_bzgsgbt_prjekt_projekt_fkey" relation="raemlchlmnt_bzgsgbt_prjekt_projekt_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        </attributeEditorContainer>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
           <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
           <attributeEditorField index="0" name="t_id" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
@@ -13361,7 +13303,7 @@ def my_form_open(dialog, layer, feature):
           </config>
         </widget>
       </widgets>
-      <previewExpression>aname</previewExpression>
+      <previewExpression>Coalesce(aname,'Kein Name') || Coalesce(', ' || geschaeftsnummer,', keine Geschäftsnummer')</previewExpression>
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
@@ -14449,6 +14391,12 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
+      <extent>
+        <xmin>2611436.57160673988983035</xmin>
+        <ymin>1246655.91767716989852488</ymin>
+        <xmax>2611436.57160673988983035</xmax>
+        <ymax>1246655.91767716989852488</ymax>
+      </extent>
       <id>raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7</id>
       <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wege_bruecke_lehnenviadukt" (geometrie) sql=</datasource>
       <keywordList>
@@ -14561,6 +14509,9 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
+        <property key="dualview/previewExpressions">
+          <value>t_id</value>
+        </property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -14591,7 +14542,10 @@ def my_form_open(dialog, layer, feature):
         <field name="t_id">
           <editWidget type="TextEdit">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="IsMultiline" type="bool" value="false"></Option>
+                <Option name="UseHtml" type="bool" value="false"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -14606,9 +14560,13 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="Range">
             <config>
               <Option type="Map">
-                <Option name="Max" type="QString" value="10.0"></Option>
-                <Option name="Min" type="QString" value="0.0"></Option>
-                <Option name="Step" type="double" value="0.1"></Option>
+                <Option name="AllowNull" type="bool" value="true"></Option>
+                <Option name="Max" type="double" value="10"></Option>
+                <Option name="Min" type="double" value="0"></Option>
+                <Option name="Precision" type="int" value="0"></Option>
+                <Option name="Step" type="double" value="1"></Option>
+                <Option name="Style" type="QString" value="SpinBox"></Option>
+                <Option name="Suffix" type="QString" value="m"></Option>
               </Option>
             </config>
           </editWidget>
@@ -14617,17 +14575,34 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="Range">
             <config>
               <Option type="Map">
-                <Option name="Max" type="QString" value="100000000"></Option>
-                <Option name="Min" type="QString" value="0.0"></Option>
-                <Option name="Step" type="double" value="0.1"></Option>
+                <Option name="AllowNull" type="bool" value="true"></Option>
+                <Option name="Max" type="double" value="1e+8"></Option>
+                <Option name="Min" type="double" value="0"></Option>
+                <Option name="Precision" type="int" value="0"></Option>
+                <Option name="Step" type="double" value="1"></Option>
+                <Option name="Style" type="QString" value="SpinBox"></Option>
+                <Option name="Suffix" type="QString" value="m"></Option>
               </Option>
             </config>
           </editWidget>
         </field>
         <field name="bautyp">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="bautyp_d497279f_38cd_424f_97e1_be7a70b2b74e"></Option>
+                <Option name="LayerName" type="QString" value="Bautyp"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bautyp&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -14635,31 +14610,64 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="Range">
             <config>
               <Option type="Map">
-                <Option name="Max" type="QString" value="100.0"></Option>
-                <Option name="Min" type="QString" value="0.0"></Option>
-                <Option name="Step" type="double" value="0.1"></Option>
+                <Option name="AllowNull" type="bool" value="true"></Option>
+                <Option name="Max" type="double" value="100"></Option>
+                <Option name="Min" type="double" value="0"></Option>
+                <Option name="Precision" type="int" value="0"></Option>
+                <Option name="Step" type="double" value="1"></Option>
+                <Option name="Style" type="QString" value="SpinBox"></Option>
+                <Option name="Suffix" type="QString" value="t"></Option>
               </Option>
             </config>
           </editWidget>
         </field>
         <field name="material">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="raeumlichelmnte_wege_bruecke_lehnenviadukt_material_b3840b72_a548_456f_a0f9_71f0d248e07f"></Option>
+                <Option name="LayerName" type="QString" value="Material (Wege Brücke Lehnenviadukt)"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlichelmnte_wege_bruecke_lehnenviadukt_material&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="widerlager">
           <editWidget type="CheckBox">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="CheckedState" type="QString" value=""></Option>
+                <Option name="UncheckedState" type="QString" value=""></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="astatus">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a"></Option>
+                <Option name="LayerName" type="QString" value="Status"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -14667,8 +14675,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -14677,8 +14688,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -14686,14 +14700,20 @@ def my_form_open(dialog, layer, feature):
         <field name="werksid">
           <editWidget type="TextEdit">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="IsMultiline" type="bool" value="false"></Option>
+                <Option name="UseHtml" type="bool" value="false"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="unterhaltsid">
           <editWidget type="TextEdit">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="IsMultiline" type="bool" value="false"></Option>
+                <Option name="UseHtml" type="bool" value="false"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -14702,10 +14722,13 @@ def my_form_open(dialog, layer, feature):
             <config>
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_wrck_lhnnvdukt_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -14715,7 +14738,10 @@ def my_form_open(dialog, layer, feature):
             <config>
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_wrck_lhnnvdukt_werkeigentum_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
                 <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
@@ -14728,14 +14754,14 @@ def my_form_open(dialog, layer, feature):
         <alias field="t_id" index="0" name=""></alias>
         <alias field="t_ili_tid" index="1" name=""></alias>
         <alias field="fahrbahnbreite" index="2" name="Fahrbahnbreite [m]"></alias>
-        <alias field="laenge" index="3" name="Laenge [m]"></alias>
+        <alias field="laenge" index="3" name="Länge [m]"></alias>
         <alias field="bautyp" index="4" name="Bautyp"></alias>
         <alias field="tonnage" index="5" name="Tonnage [t]"></alias>
         <alias field="material" index="6" name="Material"></alias>
         <alias field="widerlager" index="7" name="Widerlager"></alias>
         <alias field="astatus" index="8" name="Status"></alias>
-        <alias field="status_datum" index="9" name="Status_Datum"></alias>
-        <alias field="bauabnahme_datum" index="10" name="Bauabnahme_Datum"></alias>
+        <alias field="status_datum" index="9" name="Datum Status"></alias>
+        <alias field="bauabnahme_datum" index="10" name="Datum Bauabnahme"></alias>
         <alias field="werksid" index="11" name="WerksID"></alias>
         <alias field="unterhaltsid" index="12" name="UnterhaltsID"></alias>
         <alias field="projekt" index="13" name="Projekt"></alias>
@@ -14746,14 +14772,14 @@ def my_form_open(dialog, layer, feature):
       <defaults>
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
-        <default applyOnUpdate="0" expression="" field="fahrbahnbreite"></default>
-        <default applyOnUpdate="0" expression="" field="laenge"></default>
-        <default applyOnUpdate="0" expression="" field="bautyp"></default>
-        <default applyOnUpdate="0" expression="" field="tonnage"></default>
-        <default applyOnUpdate="0" expression="" field="material"></default>
-        <default applyOnUpdate="0" expression="" field="widerlager"></default>
-        <default applyOnUpdate="0" expression="" field="astatus"></default>
-        <default applyOnUpdate="0" expression="" field="status_datum"></default>
+        <default applyOnUpdate="0" expression="4" field="fahrbahnbreite"></default>
+        <default applyOnUpdate="0" expression="10" field="laenge"></default>
+        <default applyOnUpdate="0" expression="'Neubau'" field="bautyp"></default>
+        <default applyOnUpdate="0" expression="20" field="tonnage"></default>
+        <default applyOnUpdate="0" expression="'Holz'" field="material"></default>
+        <default applyOnUpdate="0" expression="true" field="widerlager"></default>
+        <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
+        <default applyOnUpdate="0" expression="format_date(now(),'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
         <default applyOnUpdate="0" expression="" field="unterhaltsid"></default>
@@ -14763,34 +14789,34 @@ def my_form_open(dialog, layer, feature):
       <constraints>
         <constraint constraints="3" exp_strength="0" field="t_id" notnull_strength="1" unique_strength="1"></constraint>
         <constraint constraints="0" exp_strength="0" field="t_ili_tid" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="fahrbahnbreite" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="laenge" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="fahrbahnbreite" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="2" field="laenge" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="bautyp" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="tonnage" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="material" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="widerlager" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="astatus" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="1" exp_strength="0" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="5" exp_strength="2" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="projekt" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="werkeigentum" notnull_strength="0" unique_strength="0"></constraint>
       </constraints>
       <constraintExpressions>
         <constraint desc="" exp="" field="t_id"></constraint>
         <constraint desc="" exp="" field="t_ili_tid"></constraint>
-        <constraint desc="" exp="" field="fahrbahnbreite"></constraint>
-        <constraint desc="" exp="" field="laenge"></constraint>
+        <constraint desc="Fahrbahnbreite muss zwischen 0 und 10 liegen." exp="fahrbahnbreite IS NULL or (fahrbahnbreite >= 0 and fahrbahnbreite &lt;= 10)" field="fahrbahnbreite"></constraint>
+        <constraint desc="Länge muss zwischen 0 und 100000000 liegen." exp="laenge IS NULL OR (laenge >= 0 and laenge &lt;= 100000000)" field="laenge"></constraint>
         <constraint desc="" exp="" field="bautyp"></constraint>
         <constraint desc="" exp="" field="tonnage"></constraint>
         <constraint desc="" exp="" field="material"></constraint>
         <constraint desc="" exp="" field="widerlager"></constraint>
         <constraint desc="" exp="" field="astatus"></constraint>
-        <constraint desc="" exp="" field="status_datum"></constraint>
-        <constraint desc="" exp="" field="bauabnahme_datum"></constraint>
-        <constraint desc="" exp="" field="werksid"></constraint>
-        <constraint desc="" exp="" field="unterhaltsid"></constraint>
+        <constraint desc="Datum Status muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="status_datum >= to_date('1800-01-01') and status_datum &lt;= to_date('2099-12-31')" field="status_datum"></constraint>
+        <constraint desc="Datum Bauabnahme muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="bauabnahme_datum IS NULL or (bauabnahme_datum >= to_date('1800-01-01') and bauabnahme_datum &lt;= to_date('2099-12-31'))" field="bauabnahme_datum"></constraint>
+        <constraint desc="WerksID darf maximal 20 Zeichen lang sein.&#xA;" exp="werksid IS NULL OR length(werksid) &lt;= 20" field="werksid"></constraint>
+        <constraint desc="Die UnterhaltsID darf maximal 20 Zeichen lang sein." exp="unterhaltsid IS NULL OR length(unterhaltsid) &lt;= 20" field="unterhaltsid"></constraint>
         <constraint desc="" exp="" field="projekt"></constraint>
         <constraint desc="" exp="" field="werkeigentum"></constraint>
       </constraintExpressions>
@@ -14847,24 +14873,27 @@ def my_form_open(dialog, layer, feature):
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="General" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorField index="8" name="astatus" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="10" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="4" name="bautyp" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="2" name="fahrbahnbreite" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="-1" name="geometrie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="3" name="laenge" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Allgemein" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorField index="6" name="material" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="13" name="projekt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="9" name="status_datum" showLabel="1"></attributeEditorField>
           <attributeEditorField index="5" name="tonnage" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="12" name="unterhaltsid" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="14" name="werkeigentum" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="11" name="werksid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="4" name="bautyp" showLabel="1"></attributeEditorField>
           <attributeEditorField index="7" name="widerlager" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="10" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="8" name="astatus" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="9" name="status_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="3" name="laenge" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="2" name="fahrbahnbreite" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="13" name="projekt" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="11" name="werksid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="14" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="12" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="1" groupBox="0" name="raeumlicheelemnte_genossenschaft_element" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrck_lhnnvdukt_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrck_lhnnvdukt_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrck_lhnnvdukt_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrck_lhnnvdukt_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        </attributeEditorContainer>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
+          <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="0" name="t_id" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
       </attributeEditorForm>
       <editable>
@@ -14904,7 +14933,7 @@ def my_form_open(dialog, layer, feature):
       <widgets>
         <widget name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrck_lhnnvdukt_fkey">
           <config type="Map">
-            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
           </config>
         </widget>
       </widgets>
@@ -15028,6 +15057,9 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
+        <property key="dualview/previewExpressions">
+          <value>t_id || ', ' || represent_value(typ)  || ', '  || represent_value(funktionstyp) || COALESCE('; Breite: ' || fahrbahnbreite,'')</value>
+        </property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -15279,12 +15311,12 @@ def my_form_open(dialog, layer, feature):
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
                 <Option name="AllowNULL" type="bool" value="false"></Option>
-                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
                 <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raeumlicheelemnte_wgb_lnie_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -15457,9 +15489,9 @@ def my_form_open(dialog, layer, feature):
           <attributeEditorField index="14" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="@debugging" visibilityExpressionEnabled="1">
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
           <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
           <attributeEditorField index="0" name="t_id" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
@@ -15509,7 +15541,7 @@ def my_form_open(dialog, layer, feature):
           </config>
         </widget>
       </widgets>
-      <previewExpression>represent_value(typ)  || ', '  || represent_value(funktionstyp) || COALESCE('; Breite: ' || fahrbahnbreite,'')</previewExpression>
+      <previewExpression>t_id || ', ' || represent_value(typ)  || ', '  || represent_value(funktionstyp) || COALESCE('; Breite: ' || fahrbahnbreite,'')</previewExpression>
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
@@ -15590,6 +15622,7 @@ def my_form_open(dialog, layer, feature):
         <Searchable>1</Searchable>
       </flags>
       <customproperties>
+        <property key="dualview/previewExpressions" value="aname"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -18668,31 +18701,31 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
   </projectlayers>
   <layerorder>
-    <layer id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767"></layer>
-    <layer id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc"></layer>
-    <layer id="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf"></layer>
-    <layer id="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696"></layer>
-    <layer id="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda"></layer>
-    <layer id="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736"></layer>
-    <layer id="raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d"></layer>
-    <layer id="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab"></layer>
-    <layer id="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea"></layer>
-    <layer id="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c"></layer>
-    <layer id="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235"></layer>
-    <layer id="raeumlicheelemnte_milchleitung_leitung_49a7812e_aebe_4180_8366_dd8bcaefba3d"></layer>
-    <layer id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2"></layer>
-    <layer id="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771"></layer>
-    <layer id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b"></layer>
+    <layer id="raeumlicheelemnte_hochbau_2c8e3740_aec4_4dc3_803d_2db0dd9c0bce"></layer>
     <layer id="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0"></layer>
-    <layer id="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7"></layer>
-    <layer id="raeumlicheelemnte_seilbahn_station_40ecebde_4b7b_44c6_a62a_e665c98f9b32"></layer>
-    <layer id="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d"></layer>
     <layer id="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499"></layer>
+    <layer id="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d"></layer>
+    <layer id="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7"></layer>
+    <layer id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b"></layer>
+    <layer id="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771"></layer>
+    <layer id="raeumlicheelemnte_seilbahn_station_40ecebde_4b7b_44c6_a62a_e665c98f9b32"></layer>
+    <layer id="raeumlicheelemnte_milchleitung_lokal_70c2470a_a2ea_4520_851a_e1fee48cad8b"></layer>
     <layer id="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce"></layer>
     <layer id="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8"></layer>
-    <layer id="raeumlicheelemnte_milchleitung_lokal_70c2470a_a2ea_4520_851a_e1fee48cad8b"></layer>
-    <layer id="raeumlicheelemnte_hochbau_2c8e3740_aec4_4dc3_803d_2db0dd9c0bce"></layer>
+    <layer id="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab"></layer>
+    <layer id="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736"></layer>
+    <layer id="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea"></layer>
+    <layer id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2"></layer>
+    <layer id="raeumlicheelemnte_seilbahn_linie_55a2c998_2381_4e61_a50d_a6509a16188d"></layer>
+    <layer id="raeumlicheelemnte_milchleitung_leitung_49a7812e_aebe_4180_8366_dd8bcaefba3d"></layer>
+    <layer id="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c"></layer>
+    <layer id="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235"></layer>
     <layer id="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323"></layer>
+    <layer id="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696"></layer>
+    <layer id="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf"></layer>
+    <layer id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc"></layer>
+    <layer id="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda"></layer>
+    <layer id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767"></layer>
   </layerorder>
   <properties>
     <DefaultStyles>
