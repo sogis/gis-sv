@@ -334,47 +334,47 @@
       <item>raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767</item>
     </custom-order>
   </layer-tree-group>
-  <snapping-settings enabled="0" intersection-snapping="0" mode="2" tolerance="12" type="1" unit="1">
+  <snapping-settings enabled="1" intersection-snapping="0" mode="3" tolerance="12" type="1" unit="1">
     <individual-layer-settings>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" tolerance="10" type="2" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" tolerance="10" type="2" units="1"></layer-setting>
+      <layer-setting enabled="0" id="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="0" id="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="0" id="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="0" id="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" tolerance="10" type="2" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="0" id="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" tolerance="10" type="2" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="0" id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="0" id="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" tolerance="10" type="2" units="1"></layer-setting>
     </individual-layer-settings>
   </snapping-settings>
   <relations>
-    <relation id="raemlchlmnt_blchn_bwssrung_projekt_fkey" name="Projekt zu Bewässerung Fläche" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" strength="Association">
+    <relation id="raemlchlmnt_blchn_bwssrung_projekt_fkey" name="Bewässerung Fläche zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_blchn_bwssrung_werkeigentum_fkey" name="raemlchlmnt_blchn_bwssrung_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" strength="Association">
+    <relation id="raemlchlmnt_blchn_bwssrung_werkeigentum_fkey" name="Bewässerung Fläche zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_bzgsgbt_prjekt_beizugsgebiet_fkey" name="raemlchlmnt_bzgsgbt_prjekt_beizugsgebiet_fkey" referencedLayer="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" referencingLayer="raeumlicheelemnte_beizugsgebiet_projekt_48b92c2b_ac2e_4e2a_8f80_8ffd4a164034" strength="Association">
+    <relation id="raemlchlmnt_bzgsgbt_prjekt_beizugsgebiet_fkey" name="Beizugsgebiet-Projekt-Zwischentabelle zu Beizugsgebiet" referencedLayer="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" referencingLayer="raeumlicheelemnte_beizugsgebiet_projekt_48b92c2b_ac2e_4e2a_8f80_8ffd4a164034" strength="Association">
       <fieldRef referencedField="t_id" referencingField="beizugsgebiet"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_bzgsgbt_prjekt_projekt_fkey" name="raemlchlmnt_bzgsgbt_prjekt_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_beizugsgebiet_projekt_48b92c2b_ac2e_4e2a_8f80_8ffd4a164034" strength="Association">
+    <relation id="raemlchlmnt_bzgsgbt_prjekt_projekt_fkey" name="Beizugsgebiet-Projekt-Zwischentabelle zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_beizugsgebiet_projekt_48b92c2b_ac2e_4e2a_8f80_8ffd4a164034" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gnschft_dkment_dokument_fkey" name="raemlchlmnt_gnschft_dkment_dokument_fkey" referencedLayer="raeumlicheelemnte_dokument_b88fee0a_f5d2_47f1_a90e_9e4ddc68c35c" referencingLayer="raeumlicheelemnte_genossenschaft_dokument_cd563ce5_cc47_4ecf_a65d_647ff03d869d" strength="Association">
+    <relation id="raemlchlmnt_gnschft_dkment_dokument_fkey" name="Genossenschaft-Dokument-Zwischentabelle zu Dokument" referencedLayer="raeumlicheelemnte_dokument_b88fee0a_f5d2_47f1_a90e_9e4ddc68c35c" referencingLayer="raeumlicheelemnte_genossenschaft_dokument_cd563ce5_cc47_4ecf_a65d_647ff03d869d" strength="Association">
       <fieldRef referencedField="t_id" referencingField="dokument"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gnschft_dkment_genossenschaft_fkey" name="raemlchlmnt_gnschft_dkment_genossenschaft_fkey" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_dokument_cd563ce5_cc47_4ecf_a65d_647ff03d869d" strength="Association">
+    <relation id="raemlchlmnt_gnschft_dkment_genossenschaft_fkey" name="Dokument-Zwischentabelle zu Genossenschaft" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_dokument_cd563ce5_cc47_4ecf_a65d_647ff03d869d" strength="Association">
       <fieldRef referencedField="t_id" referencingField="genossenschaft"></fieldRef>
     </relation>
     <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey" name="Genossenschaft zu Bewässerung Linie" referencedLayer="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
@@ -383,161 +383,161 @@
     <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_pnkt_fkey" name="Genossenschaft zu Bewässerung Punkt" referencedLayer="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssns_wssrvrsrgung_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssns_wssrvrsrgung_fkey" referencedLayer="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssns_wssrvrsrgung_fkey" name="Genossenschaft zu Wasserversorgung Leitung" referencedLayer="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_v_lnie_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_v_lnie_fkey" referencedLayer="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_v_lnie_fkey" name="Genossenschaft zu Elektrizitätsversorgung Linie" referencedLayer="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlicheelemnte_ev_linie"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_v_pnkt_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_v_pnkt_fkey" referencedLayer="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_v_pnkt_fkey" name="Genossenschaft zu Elektrizitätsversorgung Punkt" referencedLayer="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlicheelemnte_ev_punkt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsdnstrktr_lnie_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsdnstrktr_lnie_fkey" referencedLayer="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsdnstrktr_lnie_fkey" name="Genossenschaft zu Entwässerung Bodenstruktur Linie" referencedLayer="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnshrstllng_pnkt_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnshrstllng_pnkt_fkey" referencedLayer="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnshrstllng_pnkt_fkey" name="Genossenschaft zu Wiederherstellung Punkt" referencedLayer="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlichelmnt_wdrhrstllng_pnkt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsklg_trcknmuer_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsklg_trcknmuer_fkey" referencedLayer="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsklg_trcknmuer_fkey" name="Genossenschaft zu Ökologie Trockenmauer" referencedLayer="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer"></fieldRef>
     </relation>
     <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnslchn_bwssrung_fkey" name="Genossenschaft zu Bewässerung Fläche" referencedLayer="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_lnie_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_lnie_fkey" referencedLayer="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_lnie_fkey" name="Genossenschaft zu Ökologie Linie" referencedLayer="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlicheelemnte_oekologi_lnie"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_pnkt_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_pnkt_fkey" referencedLayer="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_pnkt_fkey" name="Genossenschaft zu Ökologie Punkt" referencedLayer="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt"></fieldRef>
     </relation>
     <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey" name="Genossenschaft zu Wegebau Linie" referencedLayer="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlicheelemnte_wegebau_linie"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmnt_klg_flche_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmnt_klg_flche_fkey" referencedLayer="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmnt_klg_flche_fkey" name="Genossenschaft zu Ökologie Fläche" referencedLayer="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlicheelemnte_oekolog_flche"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnstrktr_flche_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnstrktr_flche_fkey" referencedLayer="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnstrktr_flche_fkey" name="Genossenschaft zu Entwässerung Bodenstruktur Fläche" referencedLayer="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raemlchlmnt_ntw_bdnstrktr_flche"></fieldRef>
     </relation>
     <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrck_lhnnvdukt_fkey" name="Genossenschaft zu Brücke und Lehnenviadukt" referencedLayer="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrvrsrgng_pnkt_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrvrsrgng_pnkt_fkey" referencedLayer="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrvrsrgng_pnkt_fkey" name="Genossenschaft zu Wasserversorgung punkt" referencedLayer="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raeumlichelmnt_wssrvrsrgng_pnkt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnstrktr_pmpwerk_fkey" name="raemlchlmnt_gsnschft_lment_elemnt_gnssnstrktr_pmpwerk_fkey" referencedLayer="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnstrktr_pmpwerk_fkey" name="Genossenschaft zu Entwässerung Pumpwerk" referencedLayer="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk"></fieldRef>
     </relation>
     <relation id="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey" name="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_ndnstrktr_lnie_projekt_fkey" name="raemlchlmnt_ndnstrktr_lnie_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" strength="Association">
+    <relation id="raemlchlmnt_ndnstrktr_lnie_projekt_fkey" name="Entwässerung Bodenstruktur Linie zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_ndnstrktr_lnie_werkeigentum_fkey" name="raemlchlmnt_ndnstrktr_lnie_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" strength="Association">
+    <relation id="raemlchlmnt_ndnstrktr_lnie_werkeigentum_fkey" name="Entwässerung Bodenstruktur Linie zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_nnstrktr_flche_projekt_fkey" name="raemlchlmnt_nnstrktr_flche_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" strength="Association">
+    <relation id="raemlchlmnt_nnstrktr_flche_projekt_fkey" name="Entwässerung Bodenstruktur Fläche zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_nnstrktr_flche_werkeigentum_fkey" name="raemlchlmnt_nnstrktr_flche_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" strength="Association">
+    <relation id="raemlchlmnt_nnstrktr_flche_werkeigentum_fkey" name="Entwässerung Bodenstruktur Fläche zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_ntrktr_pmpwerk_projekt_fkey" name="raemlchlmnt_ntrktr_pmpwerk_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" strength="Association">
+    <relation id="raemlchlmnt_ntrktr_pmpwerk_projekt_fkey" name="Entwässerung Bodenstruktur Pumpwerk zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_ntrktr_pmpwerk_werkeigentum_fkey" name="raemlchlmnt_ntrktr_pmpwerk_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" strength="Association">
+    <relation id="raemlchlmnt_ntrktr_pmpwerk_werkeigentum_fkey" name="Entwässerung Pumpwerk zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_w_wssrvrsrgung_projekt_fkey" name="raemlchlmnt_w_wssrvrsrgung_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" strength="Association">
+    <relation id="raemlchlmnt_w_wssrvrsrgung_projekt_fkey" name="Wasserversorgung Leitung zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_w_wssrvrsrgung_werkeigentum_fkey" name="raemlchlmnt_w_wssrvrsrgung_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" strength="Association">
+    <relation id="raemlchlmnt_w_wssrvrsrgung_werkeigentum_fkey" name="Wasserversorgung Leitung zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_whrstllng_pnkt_projekt_fkey" name="raemlchlmnt_whrstllng_pnkt_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" strength="Association">
+    <relation id="raemlchlmnt_whrstllng_pnkt_projekt_fkey" name="Wiederherstellung Punkt zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_whrstllng_pnkt_werkeigentum_fkey" name="raemlchlmnt_whrstllng_pnkt_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" strength="Association">
+    <relation id="raemlchlmnt_whrstllng_pnkt_werkeigentum_fkey" name="Wiederherstellung Punkt zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_wrck_lhnnvdukt_projekt_fkey" name="Projekt zu Brücke und Lehnenviadukt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" strength="Association">
+    <relation id="raemlchlmnt_wrck_lhnnvdukt_projekt_fkey" name="Brücke und Lehnenviadukt zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_wrck_lhnnvdukt_werkeigentum_fkey" name="raemlchlmnt_wrck_lhnnvdukt_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" strength="Association">
+    <relation id="raemlchlmnt_wrck_lhnnvdukt_werkeigentum_fkey" name="Brücke und Lehnenviadukt zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_wrvrsrgng_pnkt_projekt_fkey" name="raemlchlmnt_wrvrsrgng_pnkt_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" strength="Association">
+    <relation id="raemlchlmnt_wrvrsrgng_pnkt_projekt_fkey" name="Wasserversorgung Punkt zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_wrvrsrgng_pnkt_werkeigentum_fkey" name="raemlchlmnt_wrvrsrgng_pnkt_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" strength="Association">
+    <relation id="raemlchlmnt_wrvrsrgng_pnkt_werkeigentum_fkey" name="Wasserversorgung Punkt zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raeumlchlmnt_klg_trcknmuer_projekt_fkey" name="raeumlchlmnt_klg_trcknmuer_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" strength="Association">
+    <relation id="raeumlchlmnt_klg_trcknmuer_projekt_fkey" name="Ökologie Trockenmauer zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raeumlchlmnt_klg_trcknmuer_werkeigentum_fkey" name="raeumlchlmnt_klg_trcknmuer_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" strength="Association">
+    <relation id="raeumlchlmnt_klg_trcknmuer_werkeigentum_fkey" name="Ökologie Trockenmauer zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnt_klg_flche_projekt_fkey" name="raeumlicheelemnt_klg_flche_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" strength="Association">
+    <relation id="raeumlicheelemnt_klg_flche_projekt_fkey" name="Ökologie Fläche zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnt_klg_flche_werkeigentum_fkey" name="raeumlicheelemnt_klg_flche_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" strength="Association">
+    <relation id="raeumlicheelemnt_klg_flche_werkeigentum_fkey" name="Ökologie Fläche zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnte_dokument_wiederherstellungs_punkt_fkey" name="raeumlicheelemnte_dokument_wiederherstellungs_punkt_fkey" referencedLayer="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" referencingLayer="raeumlicheelemnte_dokument_b88fee0a_f5d2_47f1_a90e_9e4ddc68c35c" strength="Association">
+    <relation id="raeumlicheelemnte_dokument_wiederherstellungs_punkt_fkey" name="Dokument zu Wiederherstellung Punkt" referencedLayer="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" referencingLayer="raeumlicheelemnte_dokument_b88fee0a_f5d2_47f1_a90e_9e4ddc68c35c" strength="Association">
       <fieldRef referencedField="t_id" referencingField="wiederherstellungs_punkt"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnte_ev_linie_projekt_fkey" name="raeumlicheelemnte_ev_linie_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" strength="Association">
+    <relation id="raeumlicheelemnte_ev_linie_projekt_fkey" name="Elektrizitätsversorgung Linie zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnte_ev_linie_werkeigentum_fkey" name="raeumlicheelemnte_ev_linie_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" strength="Association">
+    <relation id="raeumlicheelemnte_ev_linie_werkeigentum_fkey" name="Elektrizitätsversorgung Linie zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnte_ev_punkt_projekt_fkey" name="raeumlicheelemnte_ev_punkt_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" strength="Association">
+    <relation id="raeumlicheelemnte_ev_punkt_projekt_fkey" name="Elektrizitätsversorgung Punkt zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnte_ev_punkt_werkeigentum_fkey" name="raeumlicheelemnte_ev_punkt_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" strength="Association">
+    <relation id="raeumlicheelemnte_ev_punkt_werkeigentum_fkey" name="Elektrizitätsversorgung Punkt zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnte_klg_lnie_projekt_fkey" name="raeumlicheelemnte_klg_lnie_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" strength="Association">
+    <relation id="raeumlicheelemnte_klg_lnie_projekt_fkey" name="Ökologie Linie zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnte_klg_lnie_werkeigentum_fkey" name="raeumlicheelemnte_klg_lnie_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" strength="Association">
+    <relation id="raeumlicheelemnte_klg_lnie_werkeigentum_fkey" name="Ökologie Linie zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnte_klg_pnkt_projekt_fkey" name="raeumlicheelemnte_klg_pnkt_projekt_fkey" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" strength="Association">
+    <relation id="raeumlicheelemnte_klg_pnkt_projekt_fkey" name="Ökologie Punkt zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnte_klg_pnkt_werkeigentum_fkey" name="raeumlicheelemnte_klg_pnkt_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" strength="Association">
+    <relation id="raeumlicheelemnte_klg_pnkt_werkeigentum_fkey" name="Ökologie Punkt zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnte_wgb_lnie_projekt_fkey" name="Projekt zu Wegebau Linie" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" strength="Association">
+    <relation id="raeumlicheelemnte_wgb_lnie_projekt_fkey" name="Wegebau Linie zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raeumlicheelemnte_wgb_lnie_werkeigentum_fkey" name="raeumlicheelemnte_wgb_lnie_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" strength="Association">
+    <relation id="raeumlicheelemnte_wgb_lnie_werkeigentum_fkey" name="Wegebau Linie zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raeumlichlmnt_bwssrng_lnie_projekt_fkey" name="Projekt zu Bewässerung Linie" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" strength="Association">
+    <relation id="raeumlichlmnt_bwssrng_lnie_projekt_fkey" name="Bewässerung Linie zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raeumlichlmnt_bwssrng_lnie_werkeigentum_fkey" name="raeumlichlmnt_bwssrng_lnie_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" strength="Association">
+    <relation id="raeumlichlmnt_bwssrng_lnie_werkeigentum_fkey" name="Bewässerung Linie zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
-    <relation id="raeumlichlmnt_bwssrng_pnkt_projekt_fkey" name="Projekt zu Bewässerung Punkt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" strength="Association">
+    <relation id="raeumlichlmnt_bwssrng_pnkt_projekt_fkey" name="Bewässerung Punkt zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
     </relation>
-    <relation id="raeumlichlmnt_bwssrng_pnkt_werkeigentum_fkey" name="raeumlichlmnt_bwssrng_pnkt_werkeigentum_fkey" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" strength="Association">
+    <relation id="raeumlichlmnt_bwssrng_pnkt_werkeigentum_fkey" name="Bewässerung Punkt zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
     </relation>
   </relations>
   <mapcanvas annotationsVisible="1" name="theMapCanvas">
     <units>unknown</units>
     <extent>
-      <xmin>2608162.85182876605540514</xmin>
-      <ymin>1244481.06257317122071981</ymin>
-      <xmax>2612820.68478582520037889</xmax>
-      <ymax>1249548.13040787633508444</ymax>
+      <xmin>2613674.60354295745491982</xmin>
+      <ymin>1248639.10998034616932273</ymin>
+      <xmax>2614839.06178222224116325</xmax>
+      <ymax>1249905.87693902244791389</ymax>
     </extent>
     <rotation>0</rotation>
     <rendermaptile>0</rendermaptile>
@@ -5297,12 +5297,6 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
-      <extent>
-        <xmin>2610605.86770934006199241</xmin>
-        <ymin>1246062.45016026007942855</ymin>
-        <xmax>2611749.12112388992682099</xmax>
-        <ymax>1247113.82154808007180691</ymax>
-      </extent>
       <id>raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_beizugsgebiet" (geometrie) sql=</datasource>
       <keywordList>
@@ -5408,9 +5402,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>t_id || ' ' || represent_value(typ) || COALESCE(' (' || datum_nachfuehrung || ')','')</value>
-        </property>
+        <property key="dualview/previewExpressions" value="t_id || ' ' || represent_value(typ) || COALESCE(' (' || datum_nachfuehrung || ')','')"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -5806,12 +5798,6 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
-      <extent>
-        <xmin>2613027.56161874998360872</xmin>
-        <ymin>1246596.42029920010827482</ymin>
-        <xmax>2613443.29013312980532646</xmax>
-        <ymax>1247223.02559624006971717</ymax>
-      </extent>
       <id>raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_bew_flaechen_bewaesserung" (geometrie) sql=</datasource>
       <keywordList>
@@ -5917,9 +5903,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>t_id</value>
-        </property>
+        <property key="dualview/previewExpressions" value="t_id"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -6083,7 +6067,7 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
                 <Option name="AllowNULL" type="bool" value="false"></Option>
                 <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
@@ -6099,7 +6083,7 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
                 <Option name="AllowNULL" type="bool" value="true"></Option>
                 <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
@@ -6132,7 +6116,7 @@ def my_form_open(dialog, layer, feature):
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
         <default applyOnUpdate="0" expression="'Tropfen_Mikrobewaesserung'" field="typ"></default>
         <default applyOnUpdate="0" expression="'Neubau'" field="bautyp"></default>
-        <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
+        <default applyOnUpdate="0" expression="projektiert" field="astatus"></default>
         <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
@@ -6271,12 +6255,6 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
-      <extent>
-        <xmin>2613146.55637467978522182</xmin>
-        <ymin>1247028.71770365000702441</ymin>
-        <xmax>2613276.09496974013745785</xmax>
-        <ymax>1247117.58720491011627018</ymax>
-      </extent>
       <id>raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_bewaesserung_linie" (geometrie) sql=</datasource>
       <keywordList>
@@ -6387,9 +6365,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>t_id</value>
-        </property>
+        <property key="dualview/previewExpressions" value="t_id"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -6544,7 +6520,7 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
                 <Option name="AllowNULL" type="bool" value="false"></Option>
                 <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
@@ -6732,12 +6708,6 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
-      <extent>
-        <xmin>2613274.96527269016951323</xmin>
-        <ymin>1247117.39892206992954016</ymin>
-        <xmax>2613274.96527269016951323</xmax>
-        <ymax>1247117.39892206992954016</ymax>
-      </extent>
       <id>raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499</id>
       <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_bewaesserung_punkt" (geometrie) sql=</datasource>
       <keywordList>
@@ -6850,9 +6820,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>t_id</value>
-        </property>
+        <property key="dualview/previewExpressions" value="t_id"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -7010,7 +6978,7 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
                 <Option name="AllowNULL" type="bool" value="false"></Option>
                 <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
@@ -7154,7 +7122,7 @@ def my_form_open(dialog, layer, feature):
           <attributeEditorField index="8" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_pnkt_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_pnkt_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_pnkt_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_pnkt_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
           <attributeEditorField index="0" name="t_id" showLabel="1"></attributeEditorField>
@@ -7275,9 +7243,7 @@ def my_form_open(dialog, layer, feature):
         <Searchable>1</Searchable>
       </flags>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>t_id</value>
-        </property>
+        <property key="dualview/previewExpressions" value="t_id"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -7646,16 +7612,42 @@ def my_form_open(dialog, layer, feature):
           </editWidget>
         </field>
         <field name="bautyp">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="bautyp_d497279f_38cd_424f_97e1_be7a70b2b74e"></Option>
+                <Option name="LayerName" type="QString" value="Bautyp"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bautyp&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="astatus">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a"></Option>
+                <Option name="LayerName" type="QString" value="Status"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -7663,8 +7655,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -7673,8 +7668,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -7703,11 +7701,14 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_nnstrktr_flche_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -7735,7 +7736,7 @@ def my_form_open(dialog, layer, feature):
         <alias field="typ" index="2" name="Typ"></alias>
         <alias field="bautyp" index="3" name="Bautyp"></alias>
         <alias field="astatus" index="4" name="Status"></alias>
-        <alias field="status_datum" index="5" name="Status_Datum"></alias>
+        <alias field="status_datum" index="5" name="Datum Status"></alias>
         <alias field="bauabnahme_datum" index="6" name="Bauabnahme_Datum"></alias>
         <alias field="werksid" index="7" name="WerksID"></alias>
         <alias field="unterhaltsid" index="8" name="UnterhaltsID"></alias>
@@ -7748,9 +7749,9 @@ def my_form_open(dialog, layer, feature):
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
         <default applyOnUpdate="0" expression="'Entwaesserung_uebrige_Flaechen'" field="typ"></default>
-        <default applyOnUpdate="0" expression="" field="bautyp"></default>
-        <default applyOnUpdate="0" expression="" field="astatus"></default>
-        <default applyOnUpdate="0" expression="" field="status_datum"></default>
+        <default applyOnUpdate="0" expression="'Ausbau_Ersatz'" field="bautyp"></default>
+        <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
+        <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
         <default applyOnUpdate="0" expression="" field="unterhaltsid"></default>
@@ -7763,8 +7764,8 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="1" exp_strength="0" field="typ" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="bautyp" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="astatus" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="1" exp_strength="0" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="5" exp_strength="1" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="projekt" notnull_strength="0" unique_strength="0"></constraint>
@@ -7776,8 +7777,8 @@ def my_form_open(dialog, layer, feature):
         <constraint desc="" exp="" field="typ"></constraint>
         <constraint desc="" exp="" field="bautyp"></constraint>
         <constraint desc="" exp="" field="astatus"></constraint>
-        <constraint desc="" exp="" field="status_datum"></constraint>
-        <constraint desc="" exp="" field="bauabnahme_datum"></constraint>
+        <constraint desc="Datum Status muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="status_datum IS NULL or (status_datum >= to_date('1800-01-01') and status_datum &lt;= to_date('2099-12-31'))" field="status_datum"></constraint>
+        <constraint desc="Datum Bauabnahme muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="bauabnahme_datum IS NULL or (bauabnahme_datum >= to_date('1800-01-01') and bauabnahme_datum &lt;= to_date('2099-12-31'))" field="bauabnahme_datum"></constraint>
         <constraint desc="WerksID darf maximal 20 Zeichen lang sein." exp="werksid IS NULL OR length(werksid) &lt;= 20" field="werksid"></constraint>
         <constraint desc="Die UnterhaltsID darf maximal 20 Zeichen lang sein." exp="unterhaltsid IS NULL OR length(unterhaltsid) &lt;= 20" field="unterhaltsid"></constraint>
         <constraint desc="" exp="" field="projekt"></constraint>
@@ -7832,20 +7833,19 @@ def my_form_open(dialog, layer, feature):
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="General" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorField index="4" name="astatus" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="6" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="3" name="bautyp" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="-1" name="geometrie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="9" name="projekt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="5" name="status_datum" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Entwässerung Bodenstruktur Fläche" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorField index="2" name="typ" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="8" name="unterhaltsid" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="10" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="3" name="bautyp" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="4" name="astatus" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="5" name="status_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="6" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="9" name="projekt" showLabel="1"></attributeEditorField>
           <attributeEditorField index="7" name="werksid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="10" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="8" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="1" groupBox="0" name="raeumlicheelemnte_genossenschaft_element" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnstrktr_flche_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnstrktr_flche_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnstrktr_flche_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnstrktr_flche_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
           <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
@@ -7881,7 +7881,7 @@ def my_form_open(dialog, layer, feature):
       <widgets>
         <widget name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnstrktr_flche_fkey">
           <config type="Map">
-            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
           </config>
         </widget>
       </widgets>
@@ -8107,8 +8107,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -8117,8 +8120,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -8147,11 +8153,14 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_ndnstrktr_lnie_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -8179,8 +8188,8 @@ def my_form_open(dialog, layer, feature):
         <alias field="typ" index="2" name="Typ"></alias>
         <alias field="bautyp" index="3" name="Bautyp"></alias>
         <alias field="astatus" index="4" name="Status"></alias>
-        <alias field="status_datum" index="5" name="Status_Datum"></alias>
-        <alias field="bauabnahme_datum" index="6" name="Bauabnahme_Datum"></alias>
+        <alias field="status_datum" index="5" name="Datum Status"></alias>
+        <alias field="bauabnahme_datum" index="6" name="Datum Bauabnahme"></alias>
         <alias field="werksid" index="7" name="WerksID"></alias>
         <alias field="unterhaltsid" index="8" name="UnterhaltsID"></alias>
         <alias field="projekt" index="9" name="Projekt"></alias>
@@ -8194,7 +8203,7 @@ def my_form_open(dialog, layer, feature):
         <default applyOnUpdate="0" expression="'Hauptleitung_Ableitung'" field="typ"></default>
         <default applyOnUpdate="0" expression="'Ausbau_Ersatz'" field="bautyp"></default>
         <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
-        <default applyOnUpdate="0" expression="" field="status_datum"></default>
+        <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
         <default applyOnUpdate="0" expression="" field="unterhaltsid"></default>
@@ -8207,8 +8216,8 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="1" exp_strength="0" field="typ" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="bautyp" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="astatus" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="1" exp_strength="0" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="5" exp_strength="1" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="projekt" notnull_strength="0" unique_strength="0"></constraint>
@@ -8220,8 +8229,8 @@ def my_form_open(dialog, layer, feature):
         <constraint desc="" exp="" field="typ"></constraint>
         <constraint desc="" exp="" field="bautyp"></constraint>
         <constraint desc="" exp="" field="astatus"></constraint>
-        <constraint desc="" exp="" field="status_datum"></constraint>
-        <constraint desc="" exp="" field="bauabnahme_datum"></constraint>
+        <constraint desc="Datum Status muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="status_datum IS NULL or (status_datum >= to_date('1800-01-01') and status_datum &lt;= to_date('2099-12-31'))" field="status_datum"></constraint>
+        <constraint desc="Datum Bauabnahme muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="bauabnahme_datum IS NULL or (bauabnahme_datum >= to_date('1800-01-01') and bauabnahme_datum &lt;= to_date('2099-12-31'))" field="bauabnahme_datum"></constraint>
         <constraint desc="WerksID darf maximal 20 Zeichen lang sein." exp="werksid IS NULL OR length(werksid) &lt;= 20" field="werksid"></constraint>
         <constraint desc="Die UnterhaltsID darf maximal 20 Zeichen lang sein." exp="unterhaltsid IS NULL OR length(unterhaltsid) &lt;= 20" field="unterhaltsid"></constraint>
         <constraint desc="" exp="" field="projekt"></constraint>
@@ -8276,20 +8285,19 @@ def my_form_open(dialog, layer, feature):
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="General" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorField index="4" name="astatus" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="6" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="3" name="bautyp" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="-1" name="geometrie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="9" name="projekt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="5" name="status_datum" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Entwässerung Bodenstruktur Linie" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorField index="2" name="typ" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="8" name="unterhaltsid" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="10" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="3" name="bautyp" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="4" name="astatus" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="5" name="status_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="6" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="9" name="projekt" showLabel="1"></attributeEditorField>
           <attributeEditorField index="7" name="werksid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="10" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="8" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="1" groupBox="0" name="raeumlicheelemnte_genossenschaft_element" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsdnstrktr_lnie_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnsdnstrktr_lnie_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsdnstrktr_lnie_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnsdnstrktr_lnie_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
           <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
@@ -8325,7 +8333,7 @@ def my_form_open(dialog, layer, feature):
       <widgets>
         <widget name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsdnstrktr_lnie_fkey">
           <config type="Map">
-            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
           </config>
         </widget>
       </widgets>
@@ -8510,9 +8518,22 @@ def my_form_open(dialog, layer, feature):
           </editWidget>
         </field>
         <field name="astatus">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a"></Option>
+                <Option name="LayerName" type="QString" value="Status"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -8520,8 +8541,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -8530,8 +8554,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -8560,11 +8587,14 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_ntrktr_pmpwerk_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -8591,8 +8621,8 @@ def my_form_open(dialog, layer, feature):
         <alias field="t_ili_tid" index="1" name=""></alias>
         <alias field="bautyp" index="2" name="Bautyp"></alias>
         <alias field="astatus" index="3" name="Status"></alias>
-        <alias field="status_datum" index="4" name="Status_Datum"></alias>
-        <alias field="bauabnahme_datum" index="5" name="Bauabnahme_Datum"></alias>
+        <alias field="status_datum" index="4" name="Datum Status"></alias>
+        <alias field="bauabnahme_datum" index="5" name="Datum Bauabnahme"></alias>
         <alias field="werksid" index="6" name="WerksID"></alias>
         <alias field="unterhaltsid" index="7" name="UnterhaltsID"></alias>
         <alias field="projekt" index="8" name="Projekt"></alias>
@@ -8604,8 +8634,8 @@ def my_form_open(dialog, layer, feature):
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
         <default applyOnUpdate="0" expression="'Ausbau_Ersatz'" field="bautyp"></default>
-        <default applyOnUpdate="0" expression="" field="astatus"></default>
-        <default applyOnUpdate="0" expression="" field="status_datum"></default>
+        <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
+        <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
         <default applyOnUpdate="0" expression="" field="unterhaltsid"></default>
@@ -8617,10 +8647,10 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="0" exp_strength="0" field="t_ili_tid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="bautyp" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="astatus" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="1" exp_strength="0" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="5" exp_strength="1" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="4" exp_strength="2" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="projekt" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="werkeigentum" notnull_strength="0" unique_strength="0"></constraint>
       </constraints>
@@ -8629,8 +8659,8 @@ def my_form_open(dialog, layer, feature):
         <constraint desc="" exp="" field="t_ili_tid"></constraint>
         <constraint desc="" exp="" field="bautyp"></constraint>
         <constraint desc="" exp="" field="astatus"></constraint>
-        <constraint desc="" exp="" field="status_datum"></constraint>
-        <constraint desc="" exp="" field="bauabnahme_datum"></constraint>
+        <constraint desc="Datum Status muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="status_datum IS NULL or (status_datum >= to_date('1800-01-01') and status_datum &lt;= to_date('2099-12-31'))" field="status_datum"></constraint>
+        <constraint desc="Datum Bauabnahme muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="bauabnahme_datum IS NULL or (bauabnahme_datum >= to_date('1800-01-01') and bauabnahme_datum &lt;= to_date('2099-12-31'))" field="bauabnahme_datum"></constraint>
         <constraint desc="WerksID darf maximal 20 Zeichen lang sein." exp="werksid IS NULL OR length(werksid) &lt;= 20" field="werksid"></constraint>
         <constraint desc="Die UnterhaltsID darf maximal 20 Zeichen lang sein." exp="unterhaltsid IS NULL OR length(unterhaltsid) &lt;= 20" field="unterhaltsid"></constraint>
         <constraint desc="" exp="" field="projekt"></constraint>
@@ -8684,19 +8714,18 @@ def my_form_open(dialog, layer, feature):
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="General" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorField index="3" name="astatus" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="5" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Entwässerung Pumpwerk" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorField index="2" name="bautyp" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="-1" name="geometrie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="8" name="projekt" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="5" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="3" name="astatus" showLabel="1"></attributeEditorField>
           <attributeEditorField index="4" name="status_datum" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="7" name="unterhaltsid" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="9" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="8" name="projekt" showLabel="1"></attributeEditorField>
           <attributeEditorField index="6" name="werksid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="9" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="7" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="1" groupBox="0" name="raeumlicheelemnte_genossenschaft_element" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnstrktr_pmpwerk_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnstrktr_pmpwerk_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnstrktr_pmpwerk_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnstrktr_pmpwerk_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
           <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
@@ -8730,7 +8759,7 @@ def my_form_open(dialog, layer, feature):
       <widgets>
         <widget name="raemlchlmnt_gsnschft_lment_elemnt_gnssnstrktr_pmpwerk_fkey">
           <config type="Map">
-            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
           </config>
         </widget>
       </widgets>
@@ -9780,10 +9809,10 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
       <extent>
-        <xmin>2609581.60905072977766395</xmin>
-        <ymin>1245612.07760302000679076</ymin>
-        <xmax>2614373.40737091982737184</xmax>
-        <ymax>1248954.66289097000844777</ymax>
+        <xmin>2611414.40425491007044911</xmin>
+        <ymin>1246902.22706735995598137</ymin>
+        <xmax>2615144.58887861017137766</xmax>
+        <ymax>1248958.97046889993362129</ymax>
       </extent>
       <id>raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_genossenschaft" (geometrie) sql=</datasource>
@@ -9890,9 +9919,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>aname</value>
-        </property>
+        <property key="dualview/previewExpressions" value="aname"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -11026,16 +11053,42 @@ def my_form_open(dialog, layer, feature):
           </editWidget>
         </field>
         <field name="bautyp">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="bautyp_d497279f_38cd_424f_97e1_be7a70b2b74e"></Option>
+                <Option name="LayerName" type="QString" value="Bautyp"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bautyp&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="astatus">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a"></Option>
+                <Option name="LayerName" type="QString" value="Status"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -11043,8 +11096,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="false"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -11053,8 +11109,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -11083,11 +11142,14 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raeumlicheelemnt_klg_flche_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -11115,8 +11177,8 @@ def my_form_open(dialog, layer, feature):
         <alias field="typ" index="2" name="Typ"></alias>
         <alias field="bautyp" index="3" name="Bautyp"></alias>
         <alias field="astatus" index="4" name="Status"></alias>
-        <alias field="status_datum" index="5" name="Status_Datum"></alias>
-        <alias field="bauabnahme_datum" index="6" name="Bauabnahme_Datum"></alias>
+        <alias field="status_datum" index="5" name="Datum Status"></alias>
+        <alias field="bauabnahme_datum" index="6" name="Datum Bauabnahme"></alias>
         <alias field="werksid" index="7" name="WerksID"></alias>
         <alias field="unterhaltsid" index="8" name="UnterhaltsID"></alias>
         <alias field="projekt" index="9" name="Projekt"></alias>
@@ -11128,9 +11190,9 @@ def my_form_open(dialog, layer, feature):
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
         <default applyOnUpdate="0" expression="'Andere_Massnahme'" field="typ"></default>
-        <default applyOnUpdate="0" expression="" field="bautyp"></default>
-        <default applyOnUpdate="0" expression="" field="astatus"></default>
-        <default applyOnUpdate="0" expression="" field="status_datum"></default>
+        <default applyOnUpdate="0" expression="'Neubau'" field="bautyp"></default>
+        <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
+        <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
         <default applyOnUpdate="0" expression="" field="unterhaltsid"></default>
@@ -11143,8 +11205,8 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="1" exp_strength="0" field="typ" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="bautyp" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="astatus" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="1" exp_strength="0" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="5" exp_strength="1" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="projekt" notnull_strength="0" unique_strength="0"></constraint>
@@ -11156,8 +11218,8 @@ def my_form_open(dialog, layer, feature):
         <constraint desc="" exp="" field="typ"></constraint>
         <constraint desc="" exp="" field="bautyp"></constraint>
         <constraint desc="" exp="" field="astatus"></constraint>
-        <constraint desc="" exp="" field="status_datum"></constraint>
-        <constraint desc="" exp="" field="bauabnahme_datum"></constraint>
+        <constraint desc="Datum Status muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="status_datum IS NULL or (status_datum >= to_date('1800-01-01') and status_datum &lt;= to_date('2099-12-31'))" field="status_datum"></constraint>
+        <constraint desc="Datum Bauabnahme muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="bauabnahme_datum IS NULL or (bauabnahme_datum >= to_date('1800-01-01') and bauabnahme_datum &lt;= to_date('2099-12-31'))" field="bauabnahme_datum"></constraint>
         <constraint desc="WerksID darf maximal 20 Zeichen lang sein." exp="werksid IS NULL OR length(werksid) &lt;= 20" field="werksid"></constraint>
         <constraint desc="Die UnterhaltsID darf maximal 20 Zeichen lang sein." exp="unterhaltsid IS NULL OR length(unterhaltsid) &lt;= 20" field="unterhaltsid"></constraint>
         <constraint desc="" exp="" field="projekt"></constraint>
@@ -11212,20 +11274,19 @@ def my_form_open(dialog, layer, feature):
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="General" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorField index="4" name="astatus" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="6" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="3" name="bautyp" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="-1" name="geometrie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="9" name="projekt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="5" name="status_datum" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Ökologie Flächen" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorField index="2" name="typ" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="8" name="unterhaltsid" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="10" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="3" name="bautyp" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="4" name="astatus" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="5" name="status_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="6" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="9" name="projekt" showLabel="1"></attributeEditorField>
           <attributeEditorField index="7" name="werksid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="10" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="8" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="1" groupBox="0" name="raeumlicheelemnte_genossenschaft_element" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmnt_klg_flche_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmnt_klg_flche_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmnt_klg_flche_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmnt_klg_flche_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
           <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
@@ -11261,7 +11322,7 @@ def my_form_open(dialog, layer, feature):
       <widgets>
         <widget name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmnt_klg_flche_fkey">
           <config type="Map">
-            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
           </config>
         </widget>
       </widgets>
@@ -11424,9 +11485,22 @@ def my_form_open(dialog, layer, feature):
           </editWidget>
         </field>
         <field name="bautyp">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="bautyp_d497279f_38cd_424f_97e1_be7a70b2b74e"></Option>
+                <Option name="LayerName" type="QString" value="Bautyp"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bautyp&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -11451,9 +11525,22 @@ def my_form_open(dialog, layer, feature):
           </editWidget>
         </field>
         <field name="astatus">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a"></Option>
+                <Option name="LayerName" type="QString" value="Status"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -11461,8 +11548,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -11471,8 +11561,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -11501,11 +11594,14 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raeumlicheelemnte_klg_lnie_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -11533,8 +11629,8 @@ def my_form_open(dialog, layer, feature):
         <alias field="bautyp" index="2" name="Bautyp"></alias>
         <alias field="typ" index="3" name="Typ"></alias>
         <alias field="astatus" index="4" name="Status"></alias>
-        <alias field="status_datum" index="5" name="Status_Datum"></alias>
-        <alias field="bauabnahme_datum" index="6" name="Bauabnahme_Datum"></alias>
+        <alias field="status_datum" index="5" name="Datum Status"></alias>
+        <alias field="bauabnahme_datum" index="6" name="Datum Bauabnahme"></alias>
         <alias field="werksid" index="7" name="WerksID"></alias>
         <alias field="unterhaltsid" index="8" name="UnterhaltsID"></alias>
         <alias field="projekt" index="9" name="Projekt"></alias>
@@ -11545,10 +11641,10 @@ def my_form_open(dialog, layer, feature):
       <defaults>
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
-        <default applyOnUpdate="0" expression="" field="bautyp"></default>
+        <default applyOnUpdate="0" expression="'Neubau'" field="bautyp"></default>
         <default applyOnUpdate="0" expression="'Revitalisierung_Gewaesser'" field="typ"></default>
-        <default applyOnUpdate="0" expression="" field="astatus"></default>
-        <default applyOnUpdate="0" expression="" field="status_datum"></default>
+        <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
+        <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
         <default applyOnUpdate="0" expression="" field="unterhaltsid"></default>
@@ -11561,8 +11657,8 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="1" exp_strength="0" field="bautyp" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="typ" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="astatus" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="1" exp_strength="0" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="5" exp_strength="1" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="projekt" notnull_strength="0" unique_strength="0"></constraint>
@@ -11574,8 +11670,8 @@ def my_form_open(dialog, layer, feature):
         <constraint desc="" exp="" field="bautyp"></constraint>
         <constraint desc="" exp="" field="typ"></constraint>
         <constraint desc="" exp="" field="astatus"></constraint>
-        <constraint desc="" exp="" field="status_datum"></constraint>
-        <constraint desc="" exp="" field="bauabnahme_datum"></constraint>
+        <constraint desc="Datum Status muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="status_datum IS NULL or (status_datum >= to_date('1800-01-01') and status_datum &lt;= to_date('2099-12-31'))" field="status_datum"></constraint>
+        <constraint desc="Datum Bauabnahme muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="bauabnahme_datum IS NULL or (bauabnahme_datum >= to_date('1800-01-01') and bauabnahme_datum &lt;= to_date('2099-12-31'))" field="bauabnahme_datum"></constraint>
         <constraint desc="WerksID darf maximal 20 Zeichen lang sein." exp="werksid IS NULL OR length(werksid) &lt;= 20" field="werksid"></constraint>
         <constraint desc="Die UnterhaltsID darf maximal 20 Zeichen lang sein." exp="unterhaltsid IS NULL OR length(unterhaltsid) &lt;= 20" field="unterhaltsid"></constraint>
         <constraint desc="" exp="" field="projekt"></constraint>
@@ -11630,20 +11726,19 @@ def my_form_open(dialog, layer, feature):
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="General" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorField index="4" name="astatus" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="6" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="2" name="bautyp" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="-1" name="geometrie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="9" name="projekt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="5" name="status_datum" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Ökologie Linie" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorField index="3" name="typ" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="8" name="unterhaltsid" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="10" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="2" name="bautyp" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="4" name="astatus" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="5" name="status_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="6" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="9" name="projekt" showLabel="1"></attributeEditorField>
           <attributeEditorField index="7" name="werksid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="10" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="8" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="1" groupBox="0" name="raeumlicheelemnte_genossenschaft_element" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_lnie_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_lnie_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_lnie_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_lnie_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
           <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
@@ -11679,7 +11774,7 @@ def my_form_open(dialog, layer, feature):
       <widgets>
         <widget name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_lnie_fkey">
           <config type="Map">
-            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
           </config>
         </widget>
       </widgets>
@@ -11864,9 +11959,22 @@ def my_form_open(dialog, layer, feature):
           </editWidget>
         </field>
         <field name="astatus">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a"></Option>
+                <Option name="LayerName" type="QString" value="Status"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -11874,8 +11982,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -11884,8 +11995,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -11914,11 +12028,14 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raeumlicheelemnte_klg_pnkt_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -11946,9 +12063,9 @@ def my_form_open(dialog, layer, feature):
         <alias field="typ" index="2" name="Typ"></alias>
         <alias field="astatus" index="3" name="Status"></alias>
         <alias field="status_datum" index="4" name="Status_Datum"></alias>
-        <alias field="bauabnahme_datum" index="5" name="Bauabnahme_Datum"></alias>
+        <alias field="bauabnahme_datum" index="5" name="Datum Bauabnahme"></alias>
         <alias field="werksid" index="6" name="WerksID"></alias>
-        <alias field="unterhaltsid" index="7" name="UnterhaltsID"></alias>
+        <alias field="unterhaltsid" index="7" name="Genossenschaft"></alias>
         <alias field="projekt" index="8" name="Projekt"></alias>
         <alias field="werkeigentum" index="9" name="Werkeigentum"></alias>
       </aliases>
@@ -11958,8 +12075,8 @@ def my_form_open(dialog, layer, feature):
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
         <default applyOnUpdate="0" expression="'Einzelbaum'" field="typ"></default>
-        <default applyOnUpdate="0" expression="" field="astatus"></default>
-        <default applyOnUpdate="0" expression="" field="status_datum"></default>
+        <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
+        <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
         <default applyOnUpdate="0" expression="" field="unterhaltsid"></default>
@@ -11971,8 +12088,8 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="0" exp_strength="0" field="t_ili_tid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="typ" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="astatus" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="1" exp_strength="0" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="5" exp_strength="1" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="projekt" notnull_strength="0" unique_strength="0"></constraint>
@@ -11983,8 +12100,8 @@ def my_form_open(dialog, layer, feature):
         <constraint desc="" exp="" field="t_ili_tid"></constraint>
         <constraint desc="" exp="" field="typ"></constraint>
         <constraint desc="" exp="" field="astatus"></constraint>
-        <constraint desc="" exp="" field="status_datum"></constraint>
-        <constraint desc="" exp="" field="bauabnahme_datum"></constraint>
+        <constraint desc="Datum Status muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="status_datum IS NULL or (status_datum >= to_date('1800-01-01') and status_datum &lt;= to_date('2099-12-31'))" field="status_datum"></constraint>
+        <constraint desc="Datum Bauabnahme muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="bauabnahme_datum IS NULL or (bauabnahme_datum >= to_date('1800-01-01') and bauabnahme_datum &lt;= to_date('2099-12-31'))" field="bauabnahme_datum"></constraint>
         <constraint desc="WerksID darf maximal 20 Zeichen lang sein." exp="werksid IS NULL OR length(werksid) &lt;= 20" field="werksid"></constraint>
         <constraint desc="Die UnterhaltsID darf maximal 20 Zeichen lang sein." exp="unterhaltsid IS NULL OR length(unterhaltsid) &lt;= 20" field="unterhaltsid"></constraint>
         <constraint desc="" exp="" field="projekt"></constraint>
@@ -12038,18 +12155,17 @@ def my_form_open(dialog, layer, feature):
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="General" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorField index="3" name="astatus" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="5" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="-1" name="geometrie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="8" name="projekt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="4" name="status_datum" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Ökologie Punkt" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorField index="2" name="typ" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="7" name="unterhaltsid" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="9" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="5" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="3" name="astatus" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="4" name="status_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="8" name="projekt" showLabel="1"></attributeEditorField>
           <attributeEditorField index="6" name="werksid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="9" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="7" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="1" groupBox="0" name="raeumlicheelemnte_genossenschaft_element" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_pnkt_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_pnkt_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
@@ -12270,24 +12386,54 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="Range">
             <config>
               <Option type="Map">
-                <Option name="Max" type="QString" value="50.0"></Option>
-                <Option name="Min" type="QString" value="0.0"></Option>
+                <Option name="AllowNull" type="bool" value="true"></Option>
+                <Option name="Max" type="double" value="50"></Option>
+                <Option name="Min" type="double" value="0"></Option>
+                <Option name="Precision" type="int" value="1"></Option>
                 <Option name="Step" type="double" value="0.1"></Option>
+                <Option name="Style" type="QString" value="SpinBox"></Option>
+                <Option name="Suffix" type="QString" value="m"></Option>
               </Option>
             </config>
           </editWidget>
         </field>
         <field name="bautyp">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="bautyp_d497279f_38cd_424f_97e1_be7a70b2b74e"></Option>
+                <Option name="LayerName" type="QString" value="Bautyp"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bautyp&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="astatus">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a"></Option>
+                <Option name="LayerName" type="QString" value="Status"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -12295,8 +12441,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -12305,8 +12454,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -12335,11 +12487,14 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raeumlchlmnt_klg_trcknmuer_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -12365,11 +12520,11 @@ def my_form_open(dialog, layer, feature):
         <alias field="t_id" index="0" name=""></alias>
         <alias field="t_ili_tid" index="1" name=""></alias>
         <alias field="typ" index="2" name="Typ"></alias>
-        <alias field="hoehe" index="3" name="Hoehe [m]"></alias>
+        <alias field="hoehe" index="3" name="Höhe [m]"></alias>
         <alias field="bautyp" index="4" name="Bautyp"></alias>
         <alias field="astatus" index="5" name="Status"></alias>
-        <alias field="status_datum" index="6" name="Status_Datum"></alias>
-        <alias field="bauabnahme_datum" index="7" name="Bauabnahme_Datum"></alias>
+        <alias field="status_datum" index="6" name="Datum Status"></alias>
+        <alias field="bauabnahme_datum" index="7" name="Datum Bauabnahme"></alias>
         <alias field="werksid" index="8" name="WerksID"></alias>
         <alias field="unterhaltsid" index="9" name="UnterhaltsID"></alias>
         <alias field="projekt" index="10" name="Projekt"></alias>
@@ -12382,9 +12537,9 @@ def my_form_open(dialog, layer, feature):
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
         <default applyOnUpdate="0" expression="'freistehende_Trockenmauer'" field="typ"></default>
         <default applyOnUpdate="0" expression="" field="hoehe"></default>
-        <default applyOnUpdate="0" expression="" field="bautyp"></default>
-        <default applyOnUpdate="0" expression="" field="astatus"></default>
-        <default applyOnUpdate="0" expression="" field="status_datum"></default>
+        <default applyOnUpdate="0" expression="'Neubau'" field="bautyp"></default>
+        <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
+        <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
         <default applyOnUpdate="0" expression="" field="unterhaltsid"></default>
@@ -12395,11 +12550,11 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="3" exp_strength="0" field="t_id" notnull_strength="1" unique_strength="1"></constraint>
         <constraint constraints="0" exp_strength="0" field="t_ili_tid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="typ" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="hoehe" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="hoehe" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="bautyp" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="astatus" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="1" exp_strength="0" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="5" exp_strength="1" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="projekt" notnull_strength="0" unique_strength="0"></constraint>
@@ -12409,11 +12564,11 @@ def my_form_open(dialog, layer, feature):
         <constraint desc="" exp="" field="t_id"></constraint>
         <constraint desc="" exp="" field="t_ili_tid"></constraint>
         <constraint desc="" exp="" field="typ"></constraint>
-        <constraint desc="" exp="" field="hoehe"></constraint>
+        <constraint desc="Höhe muss zwischen 0 und 50 liegen." exp="hoehe IS NULL or (hoehe >= 0 and hoehe &lt;= 50)" field="hoehe"></constraint>
         <constraint desc="" exp="" field="bautyp"></constraint>
         <constraint desc="" exp="" field="astatus"></constraint>
-        <constraint desc="" exp="" field="status_datum"></constraint>
-        <constraint desc="" exp="" field="bauabnahme_datum"></constraint>
+        <constraint desc="Datum Status muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="status_datum IS NULL or (status_datum >= to_date('1800-01-01') and status_datum &lt;= to_date('2099-12-31'))" field="status_datum"></constraint>
+        <constraint desc="Datum Bauabnahme muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="bauabnahme_datum IS NULL or (bauabnahme_datum >= to_date('1800-01-01') and bauabnahme_datum &lt;= to_date('2099-12-31'))" field="bauabnahme_datum"></constraint>
         <constraint desc="WerksID darf maximal 20 Zeichen lang sein." exp="werksid IS NULL OR length(werksid) &lt;= 20" field="werksid"></constraint>
         <constraint desc="Die UnterhaltsID darf maximal 20 Zeichen lang sein." exp="unterhaltsid IS NULL OR length(unterhaltsid) &lt;= 20" field="unterhaltsid"></constraint>
         <constraint desc="" exp="" field="projekt"></constraint>
@@ -12469,20 +12624,20 @@ def my_form_open(dialog, layer, feature):
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="General" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorField index="5" name="astatus" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="7" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Ökologie Trockenmauer" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorField index="2" name="typ" showLabel="1"></attributeEditorField>
           <attributeEditorField index="4" name="bautyp" showLabel="1"></attributeEditorField>
           <attributeEditorField index="3" name="hoehe" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="10" name="projekt" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="7" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="5" name="astatus" showLabel="1"></attributeEditorField>
           <attributeEditorField index="6" name="status_datum" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="2" name="typ" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="9" name="unterhaltsid" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="11" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="10" name="projekt" showLabel="1"></attributeEditorField>
           <attributeEditorField index="8" name="werksid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="11" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="9" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="1" groupBox="0" name="raeumlicheelemnte_genossenschaft_element" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsklg_trcknmuer_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnsklg_trcknmuer_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenchaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsklg_trcknmuer_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnsklg_trcknmuer_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
           <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
@@ -12520,7 +12675,7 @@ def my_form_open(dialog, layer, feature):
       <widgets>
         <widget name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsklg_trcknmuer_fkey">
           <config type="Map">
-            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
           </config>
         </widget>
       </widgets>
@@ -12529,10 +12684,10 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <extent>
-        <xmin>2611217.30734658008441329</xmin>
-        <ymin>1245921.6145947000477463</ymin>
-        <xmax>2613376.26144149992614985</xmax>
-        <ymax>1248834.16187231009826064</ymax>
+        <xmin>2610872.17190359020605683</xmin>
+        <ymin>1247416.41291773994453251</ymin>
+        <xmax>2613943.26375543978065252</xmax>
+        <ymax>1248556.97062223008833826</ymax>
       </extent>
       <id>raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323</id>
       <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_projekt" (geometrie) sql=</datasource>
@@ -12790,7 +12945,7 @@ def my_form_open(dialog, layer, feature):
           <column hidden="0" name="projekttypen" type="field" width="-1"></column>
           <column hidden="0" name="geschaeftsnummer" type="field" width="-1"></column>
           <column hidden="0" name="kantonsnummer" type="field" width="-1"></column>
-          <column hidden="0" name="aname" type="field" width="-1"></column>
+          <column hidden="0" name="aname" type="field" width="398"></column>
           <column hidden="1" type="actions" width="-1"></column>
         </columns>
       </attributetableconfig>
@@ -13160,16 +13315,42 @@ def my_form_open(dialog, layer, feature):
           </editWidget>
         </field>
         <field name="bautyp">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="bautyp_d497279f_38cd_424f_97e1_be7a70b2b74e"></Option>
+                <Option name="LayerName" type="QString" value="Bautyp"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bautyp&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="astatus">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a"></Option>
+                <Option name="LayerName" type="QString" value="Status"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -13177,8 +13358,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -13187,8 +13371,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -13217,11 +13404,14 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_wrvrsrgng_pnkt_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -13249,8 +13439,8 @@ def my_form_open(dialog, layer, feature):
         <alias field="typ" index="2" name="Typ"></alias>
         <alias field="bautyp" index="3" name="Bautyp"></alias>
         <alias field="astatus" index="4" name="Status"></alias>
-        <alias field="status_datum" index="5" name="Status_Datum"></alias>
-        <alias field="bauabnahme_datum" index="6" name="Bauabnahme_Datum"></alias>
+        <alias field="status_datum" index="5" name="Datum Status"></alias>
+        <alias field="bauabnahme_datum" index="6" name="Datum Bauabnahme"></alias>
         <alias field="werksid" index="7" name="WerksID"></alias>
         <alias field="unterhaltsid" index="8" name="UnterhaltsID"></alias>
         <alias field="projekt" index="9" name="Projekt"></alias>
@@ -13262,9 +13452,9 @@ def my_form_open(dialog, layer, feature):
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
         <default applyOnUpdate="0" expression="'Quellfassung_inkl_Brunnenstube'" field="typ"></default>
-        <default applyOnUpdate="0" expression="" field="bautyp"></default>
-        <default applyOnUpdate="0" expression="" field="astatus"></default>
-        <default applyOnUpdate="0" expression="" field="status_datum"></default>
+        <default applyOnUpdate="0" expression="'Neubau'" field="bautyp"></default>
+        <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
+        <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
         <default applyOnUpdate="0" expression="" field="unterhaltsid"></default>
@@ -13277,8 +13467,8 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="1" exp_strength="0" field="typ" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="bautyp" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="astatus" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="1" exp_strength="0" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="5" exp_strength="1" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="projekt" notnull_strength="0" unique_strength="0"></constraint>
@@ -13290,8 +13480,8 @@ def my_form_open(dialog, layer, feature):
         <constraint desc="" exp="" field="typ"></constraint>
         <constraint desc="" exp="" field="bautyp"></constraint>
         <constraint desc="" exp="" field="astatus"></constraint>
-        <constraint desc="" exp="" field="status_datum"></constraint>
-        <constraint desc="" exp="" field="bauabnahme_datum"></constraint>
+        <constraint desc="status_datum IS NULL or (status_datum >= to_date('1800-01-01') and status_datum &lt;= to_date('2099-12-31'))" exp="status_datum IS NULL or (status_datum >= to_date('1800-01-01') and status_datum &lt;= to_date('2099-12-31'))" field="status_datum"></constraint>
+        <constraint desc="Datum Bauabnahme muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="bauabnahme_datum IS NULL or (bauabnahme_datum >= to_date('1800-01-01') and bauabnahme_datum &lt;= to_date('2099-12-31'))" field="bauabnahme_datum"></constraint>
         <constraint desc="WerksID darf maximal 20 Zeichen lang sein." exp="werksid IS NULL OR length(werksid) &lt;= 20" field="werksid"></constraint>
         <constraint desc="Die UnterhaltsID darf maximal 20 Zeichen lang sein." exp="unterhaltsid IS NULL OR length(unterhaltsid) &lt;= 20" field="unterhaltsid"></constraint>
         <constraint desc="" exp="" field="projekt"></constraint>
@@ -13346,20 +13536,19 @@ def my_form_open(dialog, layer, feature):
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="General" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorField index="4" name="astatus" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="6" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="3" name="bautyp" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="-1" name="geometrie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="9" name="projekt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="5" name="status_datum" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Wasserversorgung Punkt" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorField index="2" name="typ" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="8" name="unterhaltsid" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="10" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="3" name="bautyp" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="4" name="astatus" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="5" name="status_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="6" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="9" name="projekt" showLabel="1"></attributeEditorField>
           <attributeEditorField index="7" name="werksid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="10" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="8" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="1" groupBox="0" name="raeumlicheelemnte_genossenschaft_element" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrvrsrgng_pnkt_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrvrsrgng_pnkt_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrvrsrgng_pnkt_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrvrsrgng_pnkt_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
           <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
@@ -13395,7 +13584,7 @@ def my_form_open(dialog, layer, feature):
       <widgets>
         <widget name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrvrsrgng_pnkt_fkey">
           <config type="Map">
-            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
           </config>
         </widget>
       </widgets>
@@ -13403,12 +13592,6 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
-      <extent>
-        <xmin>2611436.57160673988983035</xmin>
-        <ymin>1246655.91767716989852488</ymin>
-        <xmax>2611436.57160673988983035</xmax>
-        <ymax>1246655.91767716989852488</ymax>
-      </extent>
       <id>raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7</id>
       <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wege_bruecke_lehnenviadukt" (geometrie) sql=</datasource>
       <keywordList>
@@ -13521,9 +13704,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>t_id</value>
-        </property>
+        <property key="dualview/previewExpressions" value="t_id"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -13576,7 +13757,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="Max" type="double" value="10"></Option>
                 <Option name="Min" type="double" value="0"></Option>
                 <Option name="Precision" type="int" value="0"></Option>
-                <Option name="Step" type="double" value="1"></Option>
+                <Option name="Step" type="double" value="0.1"></Option>
                 <Option name="Style" type="QString" value="SpinBox"></Option>
                 <Option name="Suffix" type="QString" value="m"></Option>
               </Option>
@@ -13733,7 +13914,7 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
                 <Option name="AllowNULL" type="bool" value="false"></Option>
                 <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
@@ -14149,7 +14330,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="LayerProviderName" type="QString" value="postgres"></Option>
                 <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bautyp&quot; sql="></Option>
                 <Option name="NofColumns" type="int" value="1"></Option>
-                <Option name="OrderByValue" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
                 <Option name="UseCompleter" type="bool" value="false"></Option>
                 <Option name="Value" type="QString" value="dispname"></Option>
               </Option>
@@ -14244,7 +14425,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="Max" type="int" value="1000000"></Option>
                 <Option name="Min" type="int" value="0"></Option>
                 <Option name="Precision" type="int" value="0"></Option>
-                <Option name="Step" type="int" value="1"></Option>
+                <Option name="Step" type="int" value="5"></Option>
                 <Option name="Style" type="QString" value="SpinBox"></Option>
                 <Option name="Suffix" type="QString" value="m"></Option>
               </Option>
@@ -14321,7 +14502,7 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
                 <Option name="AllowNULL" type="bool" value="false"></Option>
                 <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
@@ -14399,7 +14580,7 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="1" exp_strength="0" field="funktionstyp" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="bezeichnung" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="anteil_lw" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="4" exp_strength="2" field="techn_schwierigkeit" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="techn_schwierigkeit" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="laenge_gerundet" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="astatus" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="5" exp_strength="1" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
@@ -14416,9 +14597,9 @@ def my_form_open(dialog, layer, feature):
         <constraint desc="" exp="" field="bautyp"></constraint>
         <constraint desc="Fahrbahnbreite muss zwischen 0 und 10 sein." exp="fahrbahnbreite IS NULL or (fahrbahnbreite > 0 AND fahrbahnbreite &lt;= 10)" field="fahrbahnbreite"></constraint>
         <constraint desc="" exp="" field="funktionstyp"></constraint>
-        <constraint desc="" exp=" bezeichnung IS NULL or length(bezeichnung) &lt;= 50" field="bezeichnung"></constraint>
+        <constraint desc="Die Bemerkung darf maximal 50 Zeichen lang sein." exp=" bezeichnung IS NULL or length(bezeichnung) &lt;= 50" field="bezeichnung"></constraint>
         <constraint desc="Anteil LW muss zwischen 0 und 100 sein." exp="anteil_lw IS NULL or (anteil_lw >= 0 AND anteil_lw &lt;= 100)" field="anteil_lw"></constraint>
-        <constraint desc="" exp="&quot;t_id&quot;" field="techn_schwierigkeit"></constraint>
+        <constraint desc="" exp="" field="techn_schwierigkeit"></constraint>
         <constraint desc="Länge gerundet muss zwischen 0 und 1000000 sein." exp="laenge_gerundet > 0 AND laenge_gerundet &lt;= 1000000" field="laenge_gerundet"></constraint>
         <constraint desc="" exp="" field="astatus"></constraint>
         <constraint desc="Datum Status muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="status_datum IS NULL or (status_datum >= to_date('1800-01-01') and status_datum &lt;= to_date('2099-12-31'))" field="status_datum"></constraint>
@@ -14432,7 +14613,7 @@ def my_form_open(dialog, layer, feature):
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"></defaultAction>
       </attributeactions>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="&quot;t_id&quot;" sortOrder="0">
         <columns>
           <column hidden="0" name="t_id" type="field" width="-1"></column>
           <column hidden="0" name="t_ili_tid" type="field" width="-1"></column>
@@ -15067,9 +15248,22 @@ def my_form_open(dialog, layer, feature):
           </editWidget>
         </field>
         <field name="astatus">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a"></Option>
+                <Option name="LayerName" type="QString" value="Status"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -15123,11 +15317,14 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_whrstllng_pnkt_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -15136,7 +15333,7 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
                 <Option name="AllowNULL" type="bool" value="true"></Option>
                 <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
@@ -15167,7 +15364,7 @@ def my_form_open(dialog, layer, feature):
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
         <default applyOnUpdate="0" expression="'Holzkasten'" field="typ"></default>
-        <default applyOnUpdate="0" expression="" field="astatus"></default>
+        <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
         <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
@@ -15247,21 +15444,21 @@ def my_form_open(dialog, layer, feature):
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="General" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorField index="3" name="astatus" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="5" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="8" name="projekt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="4" name="status_datum" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Wiederherstellung Punkt" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorField index="2" name="typ" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="7" name="unterhaltsid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="5" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="3" name="astatus" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="4" name="status_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="8" name="projekt" showLabel="1"></attributeEditorField>
           <attributeEditorField index="9" name="werkeigentum" showLabel="1"></attributeEditorField>
           <attributeEditorField index="6" name="werksid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="7" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="1" groupBox="0" name="raeumlicheelemnte_genossenschaft_element" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnshrstllng_pnkt_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnshrstllng_pnkt_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssnshrstllng_pnkt_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssnshrstllng_pnkt_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="1" groupBox="0" name="raeumlicheelemnte_dokument" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorRelation name="raeumlicheelemnte_dokument_wiederherstellungs_punkt_fkey" relation="raeumlicheelemnte_dokument_wiederherstellungs_punkt_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Dokumente" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raeumlicheelemnte_dokument_wiederherstellungs_punkt_fkey" relation="raeumlicheelemnte_dokument_wiederherstellungs_punkt_fkey" showLabel="0" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
           <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
@@ -15295,7 +15492,7 @@ def my_form_open(dialog, layer, feature):
       <widgets>
         <widget name="raemlchlmnt_gsnschft_lment_elemnt_gnssnshrstllng_pnkt_fkey">
           <config type="Map">
-            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
           </config>
         </widget>
         <widget name="raeumlicheelemnte_dokument_wiederherstellungs_punkt_fkey">
@@ -15466,16 +15663,42 @@ def my_form_open(dialog, layer, feature):
           </editWidget>
         </field>
         <field name="bautyp">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="bautyp_d497279f_38cd_424f_97e1_be7a70b2b74e"></Option>
+                <Option name="LayerName" type="QString" value="Bautyp"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;bautyp&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
         <field name="astatus">
-          <editWidget type="TextEdit">
+          <editWidget type="ValueRelation">
             <config>
-              <Option></Option>
+              <Option type="Map">
+                <Option name="AllowMulti" type="bool" value="false"></Option>
+                <Option name="AllowNull" type="bool" value="false"></Option>
+                <Option name="FilterExpression" type="QString" value=""></Option>
+                <Option name="Key" type="QString" value="ilicode"></Option>
+                <Option name="Layer" type="QString" value="astatus_8c9aab94_4b62_4ec0_ae4a_4387a26bd61a"></Option>
+                <Option name="LayerName" type="QString" value="Status"></Option>
+                <Option name="LayerProviderName" type="QString" value="postgres"></Option>
+                <Option name="LayerSource" type="QString" value="service='edit' key='itfcode' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;astatus&quot; sql="></Option>
+                <Option name="NofColumns" type="int" value="1"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="UseCompleter" type="bool" value="false"></Option>
+                <Option name="Value" type="QString" value="dispname"></Option>
+              </Option>
             </config>
           </editWidget>
         </field>
@@ -15483,8 +15706,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -15493,8 +15719,11 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="DateTime">
             <config>
               <Option type="Map">
+                <Option name="allow_null" type="bool" value="true"></Option>
                 <Option name="calendar_popup" type="bool" value="true"></Option>
-                <Option name="display_format" type="QString" value="dd.MM.yy"></Option>
+                <Option name="display_format" type="QString" value="dd.MM.yyyy"></Option>
+                <Option name="field_format" type="QString" value="yyyy-MM-dd"></Option>
+                <Option name="field_iso_format" type="bool" value="false"></Option>
               </Option>
             </config>
           </editWidget>
@@ -15523,11 +15752,14 @@ def my_form_open(dialog, layer, feature):
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowAddFeatures" type="bool" value="false"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="true"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_w_wssrvrsrgung_projekt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="true"></Option>
               </Option>
             </config>
           </editWidget>
@@ -15554,8 +15786,8 @@ def my_form_open(dialog, layer, feature):
         <alias field="t_ili_tid" index="1" name=""></alias>
         <alias field="bautyp" index="2" name="Bautyp"></alias>
         <alias field="astatus" index="3" name="Status"></alias>
-        <alias field="status_datum" index="4" name="Status_Datum"></alias>
-        <alias field="bauabnahme_datum" index="5" name="Bauabnahme_Datum"></alias>
+        <alias field="status_datum" index="4" name="Datum Status"></alias>
+        <alias field="bauabnahme_datum" index="5" name="Datum Bauabnahme"></alias>
         <alias field="werksid" index="6" name="WerksID"></alias>
         <alias field="unterhaltsid" index="7" name="UnterhaltsID"></alias>
         <alias field="projekt" index="8" name="Projekt"></alias>
@@ -15566,9 +15798,9 @@ def my_form_open(dialog, layer, feature):
       <defaults>
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="t_ili_tid"></default>
-        <default applyOnUpdate="0" expression="" field="bautyp"></default>
-        <default applyOnUpdate="0" expression="" field="astatus"></default>
-        <default applyOnUpdate="0" expression="" field="status_datum"></default>
+        <default applyOnUpdate="0" expression="'Neubau'" field="bautyp"></default>
+        <default applyOnUpdate="0" expression="'projektiert'" field="astatus"></default>
+        <default applyOnUpdate="0" expression="format_date(now(), 'yyyy-MM-dd')" field="status_datum"></default>
         <default applyOnUpdate="0" expression="" field="bauabnahme_datum"></default>
         <default applyOnUpdate="0" expression="" field="werksid"></default>
         <default applyOnUpdate="0" expression="" field="unterhaltsid"></default>
@@ -15580,8 +15812,8 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="0" exp_strength="0" field="t_ili_tid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="bautyp" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="astatus" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="1" exp_strength="0" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="5" exp_strength="1" field="status_datum" notnull_strength="1" unique_strength="0"></constraint>
+        <constraint constraints="4" exp_strength="1" field="bauabnahme_datum" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="werksid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="4" exp_strength="1" field="unterhaltsid" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="projekt" notnull_strength="0" unique_strength="0"></constraint>
@@ -15592,8 +15824,8 @@ def my_form_open(dialog, layer, feature):
         <constraint desc="" exp="" field="t_ili_tid"></constraint>
         <constraint desc="" exp="" field="bautyp"></constraint>
         <constraint desc="" exp="" field="astatus"></constraint>
-        <constraint desc="" exp="" field="status_datum"></constraint>
-        <constraint desc="" exp="" field="bauabnahme_datum"></constraint>
+        <constraint desc="Datum Status muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="status_datum IS NULL or (status_datum >= to_date('1800-01-01') and status_datum &lt;= to_date('2099-12-31'))" field="status_datum"></constraint>
+        <constraint desc="Datum Bauabnahme muss zwischen 1.1.1800 und 31.12.2099 liegen." exp="bauabnahme_datum IS NULL or (bauabnahme_datum >= to_date('1800-01-01') and bauabnahme_datum &lt;= to_date('2099-12-31'))" field="bauabnahme_datum"></constraint>
         <constraint desc="WerksID darf maximal 20 Zeichen lang sein." exp="werksid IS NULL OR length(werksid) &lt;= 20" field="werksid"></constraint>
         <constraint desc="Die UnterhaltsID darf maximal 20 Zeichen lang sein." exp="unterhaltsid IS NULL OR length(unterhaltsid) &lt;= 20" field="unterhaltsid"></constraint>
         <constraint desc="" exp="" field="projekt"></constraint>
@@ -15647,18 +15879,17 @@ def my_form_open(dialog, layer, feature):
       <featformsuppress>0</featformsuppress>
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
-        <attributeEditorContainer columnCount="2" groupBox="0" name="General" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorField index="3" name="astatus" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="5" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+        <attributeEditorContainer columnCount="2" groupBox="0" name="Wasserversorgung Leitung" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorField index="2" name="bautyp" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="-1" name="geometrie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="8" name="projekt" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="5" name="bauabnahme_datum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="3" name="astatus" showLabel="1"></attributeEditorField>
           <attributeEditorField index="4" name="status_datum" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="7" name="unterhaltsid" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="9" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="8" name="projekt" showLabel="1"></attributeEditorField>
           <attributeEditorField index="6" name="werksid" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="9" name="werkeigentum" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="7" name="unterhaltsid" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
-        <attributeEditorContainer columnCount="1" groupBox="0" name="raeumlicheelemnte_genossenschaft_element" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Genossenschaft" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_elemnt_gnssns_wssrvrsrgung_fkey" relation="raemlchlmnt_gsnschft_lment_elemnt_gnssns_wssrvrsrgung_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="eval(@debugging)" visibilityExpressionEnabled="1">
@@ -17821,7 +18052,11 @@ def my_form_open(dialog, layer, feature):
       <RandomColors type="bool">true</RandomColors>
     </DefaultStyles>
     <Digitizing>
+      <AvoidIntersectionsList type="QStringList">
+        <value>raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf</value>
+      </AvoidIntersectionsList>
       <AvoidIntersectionsMode type="int">2</AvoidIntersectionsMode>
+      <TopologicalEditing type="int">1</TopologicalEditing>
     </Digitizing>
     <Gui>
       <CanvasColorBluePart type="int">255</CanvasColorBluePart>
