@@ -61,7 +61,7 @@
           </property>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="0" id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" legend_exp="" name="Entwässerung Bodenstruktur Fläche" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_entw_bodenstruktur_flaeche&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" legend_exp="" name="Entwässerung Bodenstruktur Fläche" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_entw_bodenstruktur_flaeche&quot; (geometrie) sql=">
         <customproperties>
           <property key="expandedLegendNodes">
             <value>0</value>
@@ -97,7 +97,7 @@
     </layer-tree-group>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Ökologie">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" legend_exp="" name="Ökologie Punkt" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_oekologie_punkt&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="0" id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" legend_exp="" name="Ökologie Punkt" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_oekologie_punkt&quot; (geometrie) sql=">
         <customproperties>
           <property key="expandedLegendNodes">
             <value>0</value>
@@ -105,7 +105,7 @@
           </property>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" legend_exp="" name="Ökologie Linie" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_oekologie_linie&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="0" id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" legend_exp="" name="Ökologie Linie" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_oekologie_linie&quot; (geometrie) sql=">
         <customproperties>
           <property key="expandedLegendNodes">
             <value>0</value>
@@ -170,7 +170,7 @@
           <property key="expandedLegendNodes"></property>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" legend_exp="" name="Genossenschaft" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_genossenschaft&quot; (geometrie) sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="0" id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" legend_exp="" name="Genossenschaft" providerKey="postgres" source="service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_genossenschaft&quot; (geometrie) sql=">
         <customproperties>
           <property key="expandedLegendNodes">
             <value>0</value>
@@ -195,19 +195,22 @@
         </customproperties>
       </layer-tree-layer>
     </layer-tree-group>
+    <layer-tree-group checked="Qt::Checked" expanded="1" name="Basiskarten">
+      <customproperties></customproperties>
+    </layer-tree-group>
     <layer-tree-group checked="Qt::Checked" expanded="0" name="Zwischentabellen">
       <customproperties></customproperties>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_beizugsgebiet_projekt_48b92c2b_ac2e_4e2a_8f80_8ffd4a164034" legend_exp="" name="Beizugsgebiet - Projekt" providerKey="postgres" source="service='edit' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_beizugsgebiet_projekt&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_beizugsgebiet_projekt_48b92c2b_ac2e_4e2a_8f80_8ffd4a164034" legend_exp="" name="ZT Beizugsgebiet - Projekt" providerKey="postgres" source="service='edit' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_beizugsgebiet_projekt&quot; sql=">
         <customproperties>
           <property key="expandedLegendNodes"></property>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" legend_exp="" name="Genossenschaft - Element" providerKey="postgres" source="service='edit' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_genossenschaft_element&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" legend_exp="" name="ZT Genossenschaft - Element" providerKey="postgres" source="service='edit' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_genossenschaft_element&quot; sql=">
         <customproperties>
           <property key="expandedLegendNodes"></property>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_genossenschaft_dokument_cd563ce5_cc47_4ecf_a65d_647ff03d869d" legend_exp="" name="Genossenschaft - Dokument" providerKey="postgres" source="service='edit' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_genossenschaft_dokument&quot; sql=">
+      <layer-tree-layer checked="Qt::Checked" expanded="1" id="raeumlicheelemnte_genossenschaft_dokument_cd563ce5_cc47_4ecf_a65d_647ff03d869d" legend_exp="" name="ZT Genossenschaft - Dokument" providerKey="postgres" source="service='edit' key='t_id' checkPrimaryKeyUnicity='1' table=&quot;alw_strukturverbesserungen&quot;.&quot;raeumlicheelemnte_genossenschaft_dokument&quot; sql=">
         <customproperties>
           <property key="expandedLegendNodes"></property>
         </customproperties>
@@ -376,26 +379,26 @@
   </layer-tree-group>
   <snapping-settings enabled="1" intersection-snapping="0" mode="3" tolerance="12" type="1" unit="1">
     <individual-layer-settings>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" tolerance="10" type="2" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" tolerance="10" type="2" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" tolerance="10" type="2" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" tolerance="10" type="2" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" tolerance="10" type="2" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" tolerance="10" type="2" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" tolerance="10" type="2" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" tolerance="10" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" tolerance="10" type="1" units="1"></layer-setting>
       <layer-setting enabled="0" id="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" tolerance="12" type="1" units="1"></layer-setting>
       <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" tolerance="10" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8" tolerance="10" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" tolerance="10" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" tolerance="10" type="2" units="1"></layer-setting>
       <layer-setting enabled="1" id="raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c" tolerance="10" type="2" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" tolerance="10" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wiederherstellung_punkt_ad5b00cf_6080_429e_9365_bad2e7a7b6a0" tolerance="10" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" tolerance="10" type="2" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" tolerance="10" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235" tolerance="10" type="2" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" tolerance="10" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf" tolerance="10" type="2" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499" tolerance="10" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce" tolerance="10" type="1" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wegebau_linie_cc94c1eb_d66b_48ce_bb71_ca15bb961736" tolerance="10" type="2" units="1"></layer-setting>
       <layer-setting enabled="1" id="raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea" tolerance="10" type="2" units="1"></layer-setting>
-      <layer-setting enabled="1" id="raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7" tolerance="10" type="1" units="1"></layer-setting>
-      <layer-setting enabled="0" id="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="1" id="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" tolerance="10" type="1" units="1"></layer-setting>
     </individual-layer-settings>
   </snapping-settings>
   <relations>
@@ -468,7 +471,7 @@
     <relation id="raemlchlmnt_gsnschft_lment_elemnt_gnssnstrktr_pmpwerk_fkey" name="Genossenschaft zu Entwässerung Pumpwerk" referencedLayer="raeumlicheelemnte_entw_bodenstruktur_pumpwerk_d9565cf3_ab75_42ae_8833_089b335dc74d" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk"></fieldRef>
     </relation>
-    <relation id="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey" name="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+    <relation id="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey" name="ZT Genossenschaft - Element zu Genossenschaft Wegebau" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
       <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
     </relation>
     <relation id="raemlchlmnt_ndnstrktr_lnie_projekt_fkey" name="Entwässerung Bodenstruktur Linie zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" strength="Association">
@@ -518,6 +521,54 @@
     </relation>
     <relation id="raeumlchlmnt_klg_trcknmuer_werkeigentum_fkey" name="Ökologie Trockenmauer zu Werkseigentum" referencedLayer="raeumlicheelemnte_werkseigentum_27b2a742_1bbd_45ef_bdb4_bcf048335cfb" referencingLayer="raeumlicheelemnte_oekologie_trockenmauer_c1792526_248d_426f_9b45_52ae0cca7771" strength="Association">
       <fieldRef referencedField="t_id" referencingField="werkeigentum"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id" name="ZT Genossenschaft - Element zu Genossenschaft Bewässerung Flächen" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_1" name="ZT Genossenschaft - Element zu Genossenschaft Bewässerung Linie" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_10" name="ZT Genossenschaft - Element zu Genossenschaft Ökologie Trockenmauer" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_11" name="ZT Genossenschaft - Element zu Genossenschaft Ökologie Fläche" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_12" name="ZT Genossenschaft - Element zu Genossenschaft Wasserversorgung Punkt" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_13" name="ZT Genossenschaft - Element zu Genossenschaft Wasserversorgung Leitung" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_14" name="ZT Genossenschaft - Element zu Genossenschaft Elektrizitätsversorgung Punkt" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_15" name="ZT Genossenschaft - Element zu Genossenschaft Elektrizitätsversorgung Leitung" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_2" name="ZT Genossenschaft - Element zu Genossenschaft Bewässerung Punkt" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_3" name="ZT Genossenschaft - Element zu Genossenschaft Entw-Bodenstruktur Pumpwerk" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_4" name="ZT Genossenschaft - Element zu Genossenschaft Entw-Bodenstruktur Linie" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_5" name="ZT Genossenschaft - Element zu Genossenschaft Entw-Bodenstruktur Fläche" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_6" name="ZT Genossenschaft - Element zu Genossenschaft Wiederherstellung Punkt" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_7" name="ZT Genossenschaft - Element zu Genossenschaft Brücke Lehnenviadukt" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_8" name="ZT Genossenschaft - Element zu Genossenschaft Ökologie Punkt" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
+    </relation>
+    <relation id="raeumliche_genossenschaft_element_raeumliche_t_id_9" name="ZT Genossenschaft - Element zu Genossenschaft Ökologie Linie" referencedLayer="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" referencingLayer="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" strength="Association">
+      <fieldRef referencedField="t_id" referencingField="genossenschaft_element"></fieldRef>
     </relation>
     <relation id="raeumlicheelemnt_klg_flche_projekt_fkey" name="Ökologie Fläche zu Projekt" referencedLayer="raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323" referencingLayer="raeumlicheelemnte_oekologie_flaeche_7e2220f2_94fd_4bdc_a544_b156dbe74696" strength="Association">
       <fieldRef referencedField="t_id" referencingField="projekt"></fieldRef>
@@ -574,13 +625,13 @@
   <mapcanvas annotationsVisible="1" name="theMapCanvas">
     <units>unknown</units>
     <extent>
-      <xmin>2591465.42680321121588349</xmin>
-      <ymin>1226740.10375745035707951</ymin>
-      <xmax>2643460.54409294901415706</xmax>
-      <ymax>1258351.67162125976756215</ymax>
+      <xmin>2592498.00191240850836039</xmin>
+      <ymin>1249003.69880575174465775</ymin>
+      <xmax>2605496.78123217169195414</xmax>
+      <ymax>1256906.59077161783352494</ymax>
     </extent>
     <rotation>0</rotation>
-    <rendermaptile>0</rendermaptile>
+    <rendermaptile>1</rendermaptile>
     <expressionContextScope></expressionContextScope>
   </mapcanvas>
   <projectModels></projectModels>
@@ -613,8 +664,8 @@
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_entw_bodenstruktur_linie_3d035e6c_c303_4311_8b58_cde3a4821cab" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="17" name="Entwässerung Bodenstruktur Fläche" open="false" showFeatureCount="0">
-        <filegroup hidden="false" open="false">
+      <legendlayer checked="Qt::Checked" drawingOrder="17" name="Entwässerung Bodenstruktur Fläche" open="true" showFeatureCount="0">
+        <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
@@ -637,13 +688,13 @@
       </legendlayer>
     </legendgroup>
     <legendgroup checked="Qt::Checked" name="Ökologie" open="false">
-      <legendlayer checked="Qt::Checked" drawingOrder="4" name="Ökologie Punkt" open="true" showFeatureCount="0">
-        <filegroup hidden="false" open="true">
+      <legendlayer checked="Qt::Checked" drawingOrder="4" name="Ökologie Punkt" open="false" showFeatureCount="0">
+        <filegroup hidden="false" open="false">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_oekologie_punkt_e2245ee5_293e_4222_8180_064430ad167b" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="11" name="Ökologie Linie" open="true" showFeatureCount="0">
-        <filegroup hidden="false" open="true">
+      <legendlayer checked="Qt::Checked" drawingOrder="11" name="Ökologie Linie" open="false" showFeatureCount="0">
+        <filegroup hidden="false" open="false">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_oekologie_linie_e854bc24_0438_4ebb_86bd_7b70ef3828c2" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
@@ -693,8 +744,8 @@
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="18" name="Genossenschaft" open="true" showFeatureCount="0">
-        <filegroup hidden="false" open="true">
+      <legendlayer checked="Qt::Checked" drawingOrder="18" name="Genossenschaft" open="false" showFeatureCount="0">
+        <filegroup hidden="false" open="false">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
@@ -714,18 +765,19 @@
         </filegroup>
       </legendlayer>
     </legendgroup>
+    <legendgroup checked="Qt::Checked" name="Basiskarten" open="true"></legendgroup>
     <legendgroup checked="Qt::Checked" name="Zwischentabellen" open="false">
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Beizugsgebiet - Projekt" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ZT Beizugsgebiet - Projekt" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_beizugsgebiet_projekt_48b92c2b_ac2e_4e2a_8f80_8ffd4a164034" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Genossenschaft - Element" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ZT Genossenschaft - Element" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_genossenschaft_element_3cc6dfb5_572f_4aaf_ba5d_5157ea17ed14" visible="1"></legendlayerfile>
         </filegroup>
       </legendlayer>
-      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="Genossenschaft - Dokument" open="true" showFeatureCount="0">
+      <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ZT Genossenschaft - Dokument" open="true" showFeatureCount="0">
         <filegroup hidden="false" open="true">
           <legendlayerfile isInOverview="0" layerid="raeumlicheelemnte_genossenschaft_dokument_cd563ce5_cc47_4ecf_a65d_647ff03d869d" visible="1"></legendlayerfile>
         </filegroup>
@@ -5337,12 +5389,6 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
-      <extent>
-        <xmin>2608641.12103610020130873</xmin>
-        <ymin>1245297.66184513992629945</ymin>
-        <xmax>2609897.95943795004859567</xmax>
-        <ymax>1246228.54940656991675496</ymax>
-      </extent>
       <id>raeumlicheelemnte_beizugsgebiet_ef349ff1_5992_4e28_b779_aedcac9edbda</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_beizugsgebiet" (geometrie) sql=</datasource>
       <keywordList>
@@ -5707,7 +5753,7 @@ def my_form_open(dialog, layer, feature):
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>Beizugsgebiet - Projekt</layername>
+      <layername>ZT Beizugsgebiet - Projekt</layername>
       <srs>
         <spatialrefsys>
           <wkt></wkt>
@@ -5906,6 +5952,12 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
+      <extent>
+        <xmin>2594989.56133081018924713</xmin>
+        <ymin>1252246.84440325992181897</ymin>
+        <xmax>2596203.87907978985458612</xmax>
+        <ymax>1253449.35787054011598229</ymax>
+      </extent>
       <id>raeumlicheelemnte_bew_flaechen_bewaesserung_5990bc46_b2c1_4637_9e08_baa12277caaf</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_bew_flaechen_bewaesserung" (geometrie) sql=</datasource>
       <keywordList>
@@ -6273,7 +6325,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="t_id"></property>
+        <property key="dualview/previewExpressions" value="represent_value(typ) || COALESCE(' (' || t_id || ', ' || bautyp || ')','')"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -6625,6 +6677,12 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
+      <extent>
+        <xmin>2595166.27626601001247764</xmin>
+        <ymin>1252423.56599331996403635</ymin>
+        <xmax>2596372.30160486977547407</xmax>
+        <ymax>1253322.88444832991808653</ymax>
+      </extent>
       <id>raeumlicheelemnte_bewaesserung_linie_af36cb9d_a2f2_4aeb_a8c9_cbebe6b6f8ea</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_bewaesserung_linie" (geometrie) sql=</datasource>
       <keywordList>
@@ -6929,7 +6987,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="t_id"></property>
+        <property key="dualview/previewExpressions" value="typ || COALESCE(' (' || t_id || ', ' || bautyp || ')','')"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -7272,6 +7330,12 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
+      <extent>
+        <xmin>2595508.79342617001384497</xmin>
+        <ymin>1252722.2139605600386858</ymin>
+        <xmax>2596026.78735804976895452</xmax>
+        <ymax>1253272.26614880003035069</ymax>
+      </extent>
       <id>raeumlicheelemnte_bewaesserung_punkt_ba3b06d4_5a41_4b5f_9194_1e81b716c499</id>
       <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_bewaesserung_punkt" (geometrie) sql=</datasource>
       <keywordList>
@@ -7559,7 +7623,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="t_id"></property>
+        <property key="dualview/previewExpressions" value="typ || COALESCE(' (' || t_id || ', ' || bautyp || ')','')"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -8107,7 +8171,7 @@ def my_form_open(dialog, layer, feature):
         <constraint constraints="5" exp_strength="1" field="titel" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="typ" notnull_strength="1" unique_strength="0"></constraint>
         <constraint constraints="1" exp_strength="0" field="dateipfad" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="wiederherstellungs_punkt" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="1" exp_strength="0" field="wiederherstellungs_punkt" notnull_strength="1" unique_strength="0"></constraint>
       </constraints>
       <constraintExpressions>
         <constraint desc="" exp="" field="t_id"></constraint>
@@ -8203,6 +8267,12 @@ coalesce(' ('  || titel || ')','')</previewExpression>
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
+      <extent>
+        <xmin>2594919.08600000012665987</xmin>
+        <ymin>1252046.96594604011625051</ymin>
+        <xmax>2595950.40855216002091765</xmax>
+        <ymax>1252988.29461694997735322</ymax>
+      </extent>
       <id>raeumlicheelemnte_entw_bodenstruktur_flaeche_0ddd470e_ff22_4932_b345_bac3374744dc</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_entw_bodenstruktur_flaeche" (geometrie) sql=</datasource>
       <keywordList>
@@ -8289,7 +8359,7 @@ coalesce(' ('  || titel || ')','')</previewExpression>
           <category label="Wiederherstellung Kulturland" render="true" symbol="5" value="Wiederherstellung_Kulturland"></category>
         </categories>
         <symbols>
-          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="0" type="fill">
+          <symbol alpha="1" clip_to_extent="0" force_rhr="0" name="0" type="fill">
             <layer class="SimpleLine" enabled="1" locked="0" pass="0">
               <prop k="capstyle" v="square"></prop>
               <prop k="customdash" v="5;2"></prop>
@@ -8374,7 +8444,7 @@ coalesce(' ('  || titel || ')','')</previewExpression>
               </symbol>
             </layer>
           </symbol>
-          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="1" type="fill">
+          <symbol alpha="1" clip_to_extent="0" force_rhr="0" name="1" type="fill">
             <layer class="SimpleLine" enabled="1" locked="0" pass="0">
               <prop k="capstyle" v="square"></prop>
               <prop k="customdash" v="5;2"></prop>
@@ -8450,7 +8520,7 @@ coalesce(' ('  || titel || ')','')</previewExpression>
               </symbol>
             </layer>
           </symbol>
-          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="2" type="fill">
+          <symbol alpha="1" clip_to_extent="0" force_rhr="0" name="2" type="fill">
             <layer class="LinePatternFill" enabled="1" locked="0" pass="0">
               <prop k="angle" v="45"></prop>
               <prop k="color" v="30,87,219,255"></prop>
@@ -8526,7 +8596,7 @@ coalesce(' ('  || titel || ')','')</previewExpression>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="3" type="fill">
+          <symbol alpha="1" clip_to_extent="0" force_rhr="0" name="3" type="fill">
             <layer class="LinePatternFill" enabled="1" locked="0" pass="0">
               <prop k="angle" v="135"></prop>
               <prop k="color" v="30,87,219,255"></prop>
@@ -8602,7 +8672,7 @@ coalesce(' ('  || titel || ')','')</previewExpression>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="4" type="fill">
+          <symbol alpha="1" clip_to_extent="0" force_rhr="0" name="4" type="fill">
             <layer class="PointPatternFill" enabled="1" locked="0" pass="0">
               <prop k="displacement_x" v="2"></prop>
               <prop k="displacement_x_map_unit_scale" v="3x:0,0,0,0,0,0"></prop>
@@ -8720,7 +8790,7 @@ coalesce(' ('  || titel || ')','')</previewExpression>
               </symbol>
             </layer>
           </symbol>
-          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="5" type="fill">
+          <symbol alpha="1" clip_to_extent="0" force_rhr="0" name="5" type="fill">
             <layer class="SimpleLine" enabled="1" locked="0" pass="0">
               <prop k="capstyle" v="square"></prop>
               <prop k="customdash" v="5;2"></prop>
@@ -8825,7 +8895,7 @@ coalesce(' ('  || titel || ')','')</previewExpression>
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="t_id"></property>
+        <property key="dualview/previewExpressions" value="represent_value(typ) || COALESCE(' (' || t_id || ', ' || bautyp || ')','')"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -9166,6 +9236,7 @@ def my_form_open(dialog, layer, feature):
       <widgets>
         <widget name="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnstrktr_flche_fkey">
           <config type="Map">
+            <Option name="force-suppress-popup" type="bool" value="false"></Option>
             <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
           </config>
         </widget>
@@ -9372,7 +9443,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="t_id"></property>
+        <property key="dualview/previewExpressions" value="represent_value(typ) || COALESCE(' (' || t_id || ', ' || bautyp || ')','')"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -9854,7 +9925,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="t_id"></property>
+        <property key="dualview/previewExpressions" value="COALESCE('Pumpwerk' || ' (' || t_id || ', ' || bautyp || ')','')"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -10169,12 +10240,6 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
-      <extent>
-        <xmin>2609513.30239778012037277</xmin>
-        <ymin>1245640.08546996000222862</ymin>
-        <xmax>2609683.63799826009199023</xmax>
-        <ymax>1245771.34201805992051959</ymax>
-      </extent>
       <id>raeumlicheelemnte_ev_linie_3703f197_7c43_460d_85c8_88b919b57235</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_ev_linie" (geometrie) sql=</datasource>
       <keywordList>
@@ -10397,7 +10462,6 @@ def my_form_open(dialog, layer, feature):
             </layer>
           </symbol>
         </source-symbol>
-        <colorramp name="[source]" type="randomcolors"></colorramp>
         <rotation></rotation>
         <sizescale></sizescale>
       </renderer-v2>
@@ -10745,12 +10809,6 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
-      <extent>
-        <xmin>2609570.95714320987462997</xmin>
-        <ymin>1245727.35617883992381394</ymin>
-        <xmax>2609615.29346719989553094</xmax>
-        <ymax>1245736.11829820997081697</ymax>
-      </extent>
       <id>raeumlicheelemnte_ev_punkt_24a0b371_208c_4a90_8e28_98cc1212a2a8</id>
       <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_ev_punkt" (geometrie) sql=</datasource>
       <keywordList>
@@ -10950,7 +11008,6 @@ def my_form_open(dialog, layer, feature):
             </layer>
           </symbol>
         </source-symbol>
-        <colorramp name="[source]" type="randomcolors"></colorramp>
         <rotation></rotation>
         <sizescale></sizescale>
       </renderer-v2>
@@ -11303,7 +11360,7 @@ def my_form_open(dialog, layer, feature):
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>Genossenschaft - Dokument</layername>
+      <layername>ZT Genossenschaft - Dokument</layername>
       <srs>
         <spatialrefsys>
           <wkt></wkt>
@@ -11501,6 +11558,12 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Polygon" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiPolygon">
+      <extent>
+        <xmin>2594919.08600000012665987</xmin>
+        <ymin>1250685.76499999989755452</ymin>
+        <xmax>2601064.73499999986961484</xmax>
+        <ymax>1255121.15699999989010394</ymax>
+      </extent>
       <id>raeumlicheelemnte_genossenschaft_e18da302_c21b_4db3_8953_1a4a85569767</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiPolygon checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_genossenschaft" (geometrie) sql=</datasource>
       <keywordList>
@@ -11769,13 +11832,15 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="aname"></property>
+        <property key="dualview/previewExpressions">
+          <value>aname</value>
+        </property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
       </customproperties>
-      <blendMode>0</blendMode>
-      <featureBlendMode>0</featureBlendMode>
+      <blendMode>6</blendMode>
+      <featureBlendMode>6</featureBlendMode>
       <layerOpacity>1</layerOpacity>
       <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
         <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+8" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" width="15">
@@ -12039,8 +12104,34 @@ def my_form_open(dialog, layer, feature):
         <attributeEditorContainer columnCount="1" groupBox="0" name="Dokumente" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
           <attributeEditorRelation name="raemlchlmnt_gnschft_dkment_genossenschaft_fkey" relation="raemlchlmnt_gnschft_dkment_genossenschaft_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Bewässerung" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_2" relation="raeumliche_genossenschaft_element_raeumliche_t_id_2" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_1" relation="raeumliche_genossenschaft_element_raeumliche_t_id_1" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id" relation="raeumliche_genossenschaft_element_raeumliche_t_id" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        </attributeEditorContainer>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Entwässerung-Bodenstruktur" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_3" relation="raeumliche_genossenschaft_element_raeumliche_t_id_3" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_4" relation="raeumliche_genossenschaft_element_raeumliche_t_id_4" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_5" relation="raeumliche_genossenschaft_element_raeumliche_t_id_5" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        </attributeEditorContainer>
         <attributeEditorContainer columnCount="1" groupBox="0" name="Wegebau" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_6" relation="raeumliche_genossenschaft_element_raeumliche_t_id_6" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_7" relation="raeumliche_genossenschaft_element_raeumliche_t_id_7" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
           <attributeEditorRelation name="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey" relation="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        </attributeEditorContainer>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Ökologie" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_8" relation="raeumliche_genossenschaft_element_raeumliche_t_id_8" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_10" relation="raeumliche_genossenschaft_element_raeumliche_t_id_10" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_9" relation="raeumliche_genossenschaft_element_raeumliche_t_id_9" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_11" relation="raeumliche_genossenschaft_element_raeumliche_t_id_11" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        </attributeEditorContainer>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Wasserversorgung" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_12" relation="raeumliche_genossenschaft_element_raeumliche_t_id_12" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_13" relation="raeumliche_genossenschaft_element_raeumliche_t_id_13" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+        </attributeEditorContainer>
+        <attributeEditorContainer columnCount="1" groupBox="0" name="Elektrizitätsversorgung" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_14" relation="raeumliche_genossenschaft_element_raeumliche_t_id_14" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
+          <attributeEditorRelation name="raeumliche_genossenschaft_element_raeumliche_t_id_15" relation="raeumliche_genossenschaft_element_raeumliche_t_id_15" showLabel="1" showLinkButton="1" showUnlinkButton="1"></attributeEditorRelation>
         </attributeEditorContainer>
         <attributeEditorContainer columnCount="2" groupBox="0" name="Debugging" showLabel="1" visibilityExpression="CASE WHEN @debugging = 'true' THEN true ELSE false END" visibilityExpressionEnabled="1">
           <attributeEditorField index="1" name="t_ili_tid" showLabel="1"></attributeEditorField>
@@ -12082,6 +12173,86 @@ def my_form_open(dialog, layer, feature):
             <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey"></Option>
           </config>
         </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnslchn_bwssrung_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_1">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_10">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsklg_trcknmuer_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_11">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmnt_klg_flche_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_12">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrvrsrgng_pnkt_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_13">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_wssrvrsrgung_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_14">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_v_pnkt_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_15">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_v_lnie_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_2">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_pnkt_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_3">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnstrktr_pmpwerk_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_4">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsdnstrktr_lnie_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_5">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnstrktr_flche_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_6">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnshrstllng_pnkt_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_7">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrck_lhnnvdukt_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_8">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_pnkt_fkey"></Option>
+          </config>
+        </widget>
+        <widget name="raeumliche_genossenschaft_element_raeumliche_t_id_9">
+          <config type="Map">
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_lnie_fkey"></Option>
+          </config>
+        </widget>
       </widgets>
       <previewExpression>aname</previewExpression>
       <mapTip></mapTip>
@@ -12092,7 +12263,7 @@ def my_form_open(dialog, layer, feature):
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>Genossenschaft - Element</layername>
+      <layername>ZT Genossenschaft - Element</layername>
       <srs>
         <spatialrefsys>
           <wkt></wkt>
@@ -12186,164 +12357,11 @@ def my_form_open(dialog, layer, feature):
             <config>
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="false"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlicheelemnte_ev_linie">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_v_lnie_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmlchltng_lkal_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsklg_trcknmuer_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_wssrvrsrgung_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlicheelemnte_oekologi_lnie">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_lnie_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_pnkt_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlicheelemnte_ev_punkt">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_v_pnkt_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnt_slbhn_lnie_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrck_lhnnvdukt_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_pnkt_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnslchn_bwssrung_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
                 <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
               </Option>
@@ -12355,21 +12373,11 @@ def my_form_open(dialog, layer, feature):
             <config>
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnshrstllng_pnkt_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnstrktr_pmpwerk_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
                 <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
               </Option>
@@ -12381,7 +12389,10 @@ def my_form_open(dialog, layer, feature):
             <config>
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrvrsrgng_pnkt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
                 <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
@@ -12389,39 +12400,16 @@ def my_form_open(dialog, layer, feature):
             </config>
           </editWidget>
         </field>
-        <field name="element_genossenschaft_raeumlicheelemnt_mlchltng_ltung">
+        <field name="element_genossenschaft_raeumlicheelemnte_ev_linie">
           <editWidget type="RelationReference">
             <config>
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnslchltng_ltung_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsdnstrktr_lnie_fkey"></Option>
-                <Option name="ShowForm" type="bool" value="false"></Option>
-                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
-              </Option>
-            </config>
-          </editWidget>
-        </field>
-        <field name="element_genossenschaft_raeumlicheelemnte_hochbau">
-          <editWidget type="RelationReference">
-            <config>
-              <Option type="Map">
-                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
-                <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_hchbau_fkey"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_v_lnie_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
                 <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
               </Option>
@@ -12433,8 +12421,43 @@ def my_form_open(dialog, layer, feature):
             <config>
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsmnt_klg_flche_fkey"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_pnkt_fkey"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnslchn_bwssrung_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
                 <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
               </Option>
@@ -12446,8 +12469,75 @@ def my_form_open(dialog, layer, feature):
             <config>
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
-                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_slbhn_sttion_fkey"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="invalid"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlicheelemnt_mlchltng_ltung">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="invalid"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="invalid"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_wssrvrsrgung_fkey"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsdnstrktr_lnie_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
                 <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
               </Option>
@@ -12459,8 +12549,155 @@ def my_form_open(dialog, layer, feature):
             <config>
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsnstrktr_flche_fkey"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlicheelemnte_ev_punkt">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnschlmnt_v_pnkt_fkey"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="invalid"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnstrktr_pmpwerk_fkey"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlicheelemnte_hochbau">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="invalid"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_pnkt_fkey"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlicheelemnte_oekologi_lnie">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_lnie_fkey"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsklg_trcknmuer_fkey"></Option>
+                <Option name="ShowForm" type="bool" value="false"></Option>
+                <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
+              </Option>
+            </config>
+          </editWidget>
+        </field>
+        <field name="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt">
+          <editWidget type="RelationReference">
+            <config>
+              <Option type="Map">
+                <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
+                <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
+                <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnsrck_lhnnvdukt_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
                 <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
               </Option>
@@ -12472,7 +12709,10 @@ def my_form_open(dialog, layer, feature):
             <config>
               <Option type="Map">
                 <Option name="AllowAddFeatures" type="bool" value="true"></Option>
+                <Option name="AllowNULL" type="bool" value="true"></Option>
+                <Option name="MapIdentification" type="bool" value="false"></Option>
                 <Option name="OrderByValue" type="bool" value="true"></Option>
+                <Option name="ReadOnly" type="bool" value="false"></Option>
                 <Option name="Relation" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_wgb_lnie_fkey"></Option>
                 <Option name="ShowForm" type="bool" value="false"></Option>
                 <Option name="ShowOpenFormButton" type="bool" value="false"></Option>
@@ -12483,108 +12723,108 @@ def my_form_open(dialog, layer, feature):
       </fieldConfiguration>
       <aliases>
         <alias field="t_id" index="0" name=""></alias>
-        <alias field="genossenschaft_element" index="1" name="Genossenschaft_Element"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_ev_linie" index="2" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie" index="3" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal" index="4" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer" index="5" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung" index="6" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_oekologi_lnie" index="7" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt" index="8" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_ev_punkt" index="9" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie" index="10" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt" index="11" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt" index="12" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung" index="13" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlichelmnt_wdrhrstllng_pnkt" index="14" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk" index="15" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlichelmnt_wssrvrsrgng_pnkt" index="16" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnt_mlchltng_ltung" index="17" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie" index="18" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_hochbau" index="19" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_oekolog_flche" index="20" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_selbhn_sttion" index="21" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raemlchlmnt_ntw_bdnstrktr_flche" index="22" name="Element_Genossenschaft"></alias>
-        <alias field="element_genossenschaft_raeumlicheelemnte_wegebau_linie" index="23" name="Element_Genossenschaft"></alias>
+        <alias field="genossenschaft_element" index="1" name="Genossenschaft"></alias>
+        <alias field="element_genossenschaft_raeumlichelmnt_wdrhrstllng_pnkt" index="2" name="Wiederherstellung Punkt"></alias>
+        <alias field="element_genossenschaft_raeumlichelmnt_wssrvrsrgng_pnkt" index="3" name="Wasserversorgung Punkt"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_ev_linie" index="4" name="Elektrizitätsversorgung Linie"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_oekolog_flche" index="5" name="Ökologie Fläche"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt" index="6" name="Bewässerung Punkt"></alias>
+        <alias field="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung" index="7" name="Bewässerung Fläche"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_selbhn_sttion" index="8" name="Selbahn Station"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnt_mlchltng_ltung" index="9" name="Milchleitung Leitung"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie" index="10" name="Seilbahn Linie"></alias>
+        <alias field="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung" index="11" name="Wasserversorgung Leitung"></alias>
+        <alias field="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie" index="12" name="Entwässerung Bodenstruktur Linie"></alias>
+        <alias field="element_genossenschaft_raemlchlmnt_ntw_bdnstrktr_flche" index="13" name="Entwässerung Bodenstruktur Fläche"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie" index="14" name="Bewässerung Linie"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_ev_punkt" index="15" name="Elektrizitätsversorgung Punkt"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal" index="16" name="Milchleitung Lokal"></alias>
+        <alias field="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk" index="17" name="Entwässerung Bodenstruktur Pumpwerk"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_hochbau" index="18" name="Hochbau"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt" index="19" name="Ökologie Punkt"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_oekologi_lnie" index="20" name="Ökologie Linie"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer" index="21" name="Ökologie Trockenmauer"></alias>
+        <alias field="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt" index="22" name="Brücke und Lehnenviadukt"></alias>
+        <alias field="element_genossenschaft_raeumlicheelemnte_wegebau_linie" index="23" name="Wegebau Linie"></alias>
       </aliases>
       <excludeAttributesWMS></excludeAttributesWMS>
       <excludeAttributesWFS></excludeAttributesWFS>
       <defaults>
         <default applyOnUpdate="0" expression="" field="t_id"></default>
         <default applyOnUpdate="0" expression="" field="genossenschaft_element"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_ev_linie"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_oekologi_lnie"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_ev_punkt"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung"></default>
         <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlichelmnt_wdrhrstllng_pnkt"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk"></default>
         <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlichelmnt_wssrvrsrgng_pnkt"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnt_mlchltng_ltung"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie"></default>
-        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_hochbau"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_ev_linie"></default>
         <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_oekolog_flche"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung"></default>
         <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_selbhn_sttion"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnt_mlchltng_ltung"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie"></default>
         <default applyOnUpdate="0" expression="" field="element_genossenschaft_raemlchlmnt_ntw_bdnstrktr_flche"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_ev_punkt"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_hochbau"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_oekologi_lnie"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer"></default>
+        <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt"></default>
         <default applyOnUpdate="0" expression="" field="element_genossenschaft_raeumlicheelemnte_wegebau_linie"></default>
       </defaults>
       <constraints>
         <constraint constraints="3" exp_strength="0" field="t_id" notnull_strength="1" unique_strength="1"></constraint>
         <constraint constraints="1" exp_strength="0" field="genossenschaft_element" notnull_strength="1" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_ev_linie" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_oekologi_lnie" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_ev_punkt" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlichelmnt_wdrhrstllng_pnkt" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlichelmnt_wssrvrsrgng_pnkt" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnt_mlchltng_ltung" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie" notnull_strength="0" unique_strength="0"></constraint>
-        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_hochbau" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_ev_linie" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_oekolog_flche" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_selbhn_sttion" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnt_mlchltng_ltung" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raemlchlmnt_ntw_bdnstrktr_flche" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_ev_punkt" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_hochbau" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_oekologi_lnie" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer" notnull_strength="0" unique_strength="0"></constraint>
+        <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt" notnull_strength="0" unique_strength="0"></constraint>
         <constraint constraints="0" exp_strength="0" field="element_genossenschaft_raeumlicheelemnte_wegebau_linie" notnull_strength="0" unique_strength="0"></constraint>
       </constraints>
       <constraintExpressions>
         <constraint desc="" exp="" field="t_id"></constraint>
         <constraint desc="" exp="" field="genossenschaft_element"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_ev_linie"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_oekologi_lnie"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_ev_punkt"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung"></constraint>
         <constraint desc="" exp="" field="element_genossenschaft_raeumlichelmnt_wdrhrstllng_pnkt"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk"></constraint>
         <constraint desc="" exp="" field="element_genossenschaft_raeumlichelmnt_wssrvrsrgng_pnkt"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnt_mlchltng_ltung"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie"></constraint>
-        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_hochbau"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_ev_linie"></constraint>
         <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_oekolog_flche"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung"></constraint>
         <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_selbhn_sttion"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnt_mlchltng_ltung"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie"></constraint>
         <constraint desc="" exp="" field="element_genossenschaft_raemlchlmnt_ntw_bdnstrktr_flche"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_ev_punkt"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_hochbau"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_oekologi_lnie"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer"></constraint>
+        <constraint desc="" exp="" field="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt"></constraint>
         <constraint desc="" exp="" field="element_genossenschaft_raeumlicheelemnte_wegebau_linie"></constraint>
       </constraintExpressions>
       <expressionfields></expressionfields>
@@ -12594,16 +12834,16 @@ def my_form_open(dialog, layer, feature):
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="&quot;element_genossenschaft_raeumlicheelemnte_ev_linie&quot;" sortOrder="0">
         <columns>
           <column hidden="0" name="t_id" type="field" width="-1"></column>
-          <column hidden="0" name="genossenschaft_element" type="field" width="589"></column>
-          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_ev_linie" type="field" width="486"></column>
-          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie" type="field" width="392"></column>
-          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal" type="field" width="414"></column>
-          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer" type="field" width="497"></column>
-          <column hidden="0" name="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung" type="field" width="410"></column>
-          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_oekologi_lnie" type="field" width="384"></column>
-          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt" type="field" width="433"></column>
-          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_ev_punkt" type="field" width="289"></column>
-          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie" type="field" width="369"></column>
+          <column hidden="0" name="genossenschaft_element" type="field" width="243"></column>
+          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_ev_linie" type="field" width="208"></column>
+          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie" type="field" width="222"></column>
+          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal" type="field" width="238"></column>
+          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer" type="field" width="189"></column>
+          <column hidden="0" name="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung" type="field" width="202"></column>
+          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_oekologi_lnie" type="field" width="216"></column>
+          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt" type="field" width="199"></column>
+          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_ev_punkt" type="field" width="237"></column>
+          <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie" type="field" width="238"></column>
           <column hidden="0" name="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt" type="field" width="749"></column>
           <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt" type="field" width="-1"></column>
           <column hidden="0" name="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung" type="field" width="-1"></column>
@@ -12615,7 +12855,7 @@ def my_form_open(dialog, layer, feature):
           <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_hochbau" type="field" width="-1"></column>
           <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_oekolog_flche" type="field" width="-1"></column>
           <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_selbhn_sttion" type="field" width="-1"></column>
-          <column hidden="0" name="element_genossenschaft_raemlchlmnt_ntw_bdnstrktr_flche" type="field" width="-1"></column>
+          <column hidden="0" name="element_genossenschaft_raemlchlmnt_ntw_bdnstrktr_flche" type="field" width="54"></column>
           <column hidden="0" name="element_genossenschaft_raeumlicheelemnte_wegebau_linie" type="field" width="-1"></column>
           <column hidden="1" type="actions" width="-1"></column>
         </columns>
@@ -12650,29 +12890,29 @@ def my_form_open(dialog, layer, feature):
       <editorlayout>tablayout</editorlayout>
       <attributeEditorForm>
         <attributeEditorContainer columnCount="2" groupBox="0" name="General" showLabel="1" visibilityExpression="" visibilityExpressionEnabled="0">
-          <attributeEditorField index="22" name="element_genossenschaft_raemlchlmnt_ntw_bdnstrktr_flche" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="15" name="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="6" name="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="18" name="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="3" name="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="8" name="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="2" name="element_genossenschaft_raeumlicheelemnte_ev_linie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="9" name="element_genossenschaft_raeumlicheelemnte_ev_punkt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="19" name="element_genossenschaft_raeumlicheelemnte_hochbau" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="5" name="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="4" name="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="20" name="element_genossenschaft_raeumlicheelemnte_oekolog_flche" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="7" name="element_genossenschaft_raeumlicheelemnte_oekologi_lnie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="12" name="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="10" name="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="21" name="element_genossenschaft_raeumlicheelemnte_selbhn_sttion" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="23" name="element_genossenschaft_raeumlicheelemnte_wegebau_linie" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="17" name="element_genossenschaft_raeumlicheelemnt_mlchltng_ltung" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="14" name="element_genossenschaft_raeumlichelmnt_wdrhrstllng_pnkt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="16" name="element_genossenschaft_raeumlichelmnt_wssrvrsrgng_pnkt" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="13" name="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung" showLabel="1"></attributeEditorField>
-          <attributeEditorField index="11" name="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt" showLabel="1"></attributeEditorField>
           <attributeEditorField index="1" name="genossenschaft_element" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="13" name="element_genossenschaft_raemlchlmnt_ntw_bdnstrktr_flche" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="17" name="element_genossenschaft_raemlchlmnt_ntwdnstrktr_pmpwerk" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="11" name="element_genossenschaft_raemlchlmnt_wv_tng_wssrvrsrgung" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="12" name="element_genossenschaft_raeumlchlmnt_ntw_bdnstrktr_lnie" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="14" name="element_genossenschaft_raeumlicheelemnte_bewssrng_lnie" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="6" name="element_genossenschaft_raeumlicheelemnte_bewssrng_pnkt" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="4" name="element_genossenschaft_raeumlicheelemnte_ev_linie" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="15" name="element_genossenschaft_raeumlicheelemnte_ev_punkt" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="18" name="element_genossenschaft_raeumlicheelemnte_hochbau" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="21" name="element_genossenschaft_raeumlicheelemnte_klg_trcknmuer" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="16" name="element_genossenschaft_raeumlicheelemnte_mlchltng_lkal" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="5" name="element_genossenschaft_raeumlicheelemnte_oekolog_flche" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="20" name="element_genossenschaft_raeumlicheelemnte_oekologi_lnie" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="19" name="element_genossenschaft_raeumlicheelemnte_oekologi_pnkt" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="10" name="element_genossenschaft_raeumlicheelemnte_seilbahn_lnie" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="8" name="element_genossenschaft_raeumlicheelemnte_selbhn_sttion" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="23" name="element_genossenschaft_raeumlicheelemnte_wegebau_linie" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="9" name="element_genossenschaft_raeumlicheelemnt_mlchltng_ltung" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="2" name="element_genossenschaft_raeumlichelmnt_wdrhrstllng_pnkt" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="3" name="element_genossenschaft_raeumlichelmnt_wssrvrsrgng_pnkt" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="7" name="element_genossenschaft_raeumlichlmnt_bw_flchn_bwssrung" showLabel="1"></attributeEditorField>
+          <attributeEditorField index="22" name="element_genossenschaft_raeumlichlmnt_wg_brck_lhnnvdukt" showLabel="1"></attributeEditorField>
         </attributeEditorContainer>
       </attributeEditorForm>
       <editable>
@@ -14686,7 +14926,7 @@ def my_form_open(dialog, layer, feature):
       <widgets>
         <widget name="raemlchlmnt_gsnschft_lment_elemnt_gnssnslmnt_klg_pnkt_fkey">
           <config type="Map">
-            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_elemnt_gnssns_bwssrng_lnie_fkey"></Option>
+            <Option name="nm-rel" type="QString" value="raemlchlmnt_gsnschft_lment_genossenschaft_element_fkey"></Option>
           </config>
         </widget>
       </widgets>
@@ -15196,10 +15436,10 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
       <extent>
-        <xmin>2608765.19264633022248745</xmin>
-        <ymin>1245409.46648825006559491</ymin>
-        <xmax>2609164.74528940999880433</xmax>
-        <ymax>1245841.26373060001060367</ymax>
+        <xmin>2595830.59657526994124055</xmin>
+        <ymin>1252461.80135442991741002</ymin>
+        <xmax>2597742.88969661016017199</xmax>
+        <ymax>1253829.06744364998303354</ymax>
       </extent>
       <id>raeumlicheelemnte_projekt_ebe52ab5_11cf_4be1_8a2f_58a0d8842323</id>
       <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_projekt" (geometrie) sql=</datasource>
@@ -15550,7 +15790,6 @@ def my_form_open(dialog, layer, feature):
             </layer>
           </symbol>
         </source-symbol>
-        <colorramp name="[source]" type="randomcolors"></colorramp>
         <rotation></rotation>
         <sizescale></sizescale>
       </renderer-v2>
@@ -15912,12 +16151,6 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
-      <extent>
-        <xmin>2609563.15885696979239583</xmin>
-        <ymin>1245627.19420184008777142</ymin>
-        <xmax>2609616.43254271987825632</xmax>
-        <ymax>1245687.82806785008870065</ymax>
-      </extent>
       <id>raeumlicheelemnte_wasserversorgung_punkt_7f65abda_7c82_43a1_8354_d36db8aca8ce</id>
       <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wasserversorgung_punkt" (geometrie) sql=</datasource>
       <keywordList>
@@ -16429,14 +16662,11 @@ def my_form_open(dialog, layer, feature):
             </layer>
           </symbol>
         </source-symbol>
-        <colorramp name="[source]" type="randomcolors"></colorramp>
         <rotation></rotation>
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>represent_value(typ) || COALESCE(' (' || t_id || ')','')</value>
-        </property>
+        <property key="dualview/previewExpressions" value="represent_value(typ) || COALESCE(' (' || t_id || ')','')"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -16779,12 +17009,6 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Point" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="0" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="Point">
-      <extent>
-        <xmin>2610890.92420668015256524</xmin>
-        <ymin>1246454.3218308100476861</ymin>
-        <xmax>2610950.14896823978051543</xmax>
-        <ymax>1246481.65939174010418355</ymax>
-      </extent>
       <id>raeumlicheelemnte_wege_bruecke_lehnenviadukt_b12d6aad_f492_4ae1_9f2f_216cba43f5b7</id>
       <datasource>service='edit' key='t_id' srid=2056 type=Point checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wege_bruecke_lehnenviadukt" (geometrie) sql=</datasource>
       <keywordList>
@@ -16896,7 +17120,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="t_id"></property>
+        <property key="dualview/previewExpressions" value="'Brücke / Lehnenviadukt' || COALESCE(' (' || t_id || ')','')"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -18041,7 +18265,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="t_id || ', ' || represent_value(typ)  || ', '  || represent_value(funktionstyp) || COALESCE('; Breite: ' || fahrbahnbreite,'')"></property>
+        <property key="dualview/previewExpressions" value="t_id || ' (' || COALESCE (represent_value(typ) || ', ','') || COALESCE(represent_value(funktionstyp),'') || ')'"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -18523,7 +18747,7 @@ def my_form_open(dialog, layer, feature):
           </config>
         </widget>
       </widgets>
-      <previewExpression>represent_value(typ)  || ' (' || t_id || '), '  || represent_value(funktionstyp) || COALESCE('; Breite: ' || fahrbahnbreite,'')</previewExpression>
+      <previewExpression>t_id || ' (' || COALESCE (represent_value(typ) || ', ','') || COALESCE(represent_value(funktionstyp),'') || ')'</previewExpression>
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="No geometry" hasScaleBasedVisibilityFlag="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" type="vector" wkbType="NoGeometry">
@@ -19036,7 +19260,7 @@ def my_form_open(dialog, layer, feature):
         <sizescale></sizescale>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="t_id"></property>
+        <property key="dualview/previewExpressions" value="represent_value(typ) || COALESCE(' (' || t_id || ')','')"></property>
         <property key="embeddedWidgets/count" value="0"></property>
         <property key="variableNames"></property>
         <property key="variableValues"></property>
@@ -19359,12 +19583,6 @@ def my_form_open(dialog, layer, feature):
       <mapTip></mapTip>
     </maplayer>
     <maplayer autoRefreshEnabled="0" autoRefreshTime="0" geometry="Line" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" maxScale="0" minScale="1e+8" readOnly="0" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" simplifyDrawingHints="1" simplifyDrawingTol="1" simplifyLocal="1" simplifyMaxScale="1" styleCategories="AllStyleCategories" type="vector" wkbType="MultiLineString">
-      <extent>
-        <xmin>2609554.48435880010947585</xmin>
-        <ymin>1245627.19420184008777142</ymin>
-        <xmax>2609616.43254271987825632</xmax>
-        <ymax>1245687.82806785008870065</ymax>
-      </extent>
       <id>raeumlicheelemnte_wv_leitung_wasserversorgung_5e7733d1_8646_4941_a98e_e960b077958c</id>
       <datasource>service='edit' key='t_id' srid=2056 type=MultiLineString checkPrimaryKeyUnicity='1' table="alw_strukturverbesserungen"."raeumlicheelemnte_wv_leitung_wasserversorgung" (geometrie) sql=</datasource>
       <keywordList>
